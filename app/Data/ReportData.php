@@ -59,32 +59,32 @@ class ReportData extends Data
     /**
      * @var \App\Models\Country
      */
-    #[MapName('country_of_departure_id'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
+    #[MapName('country_id_of_departure'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
     public Country $countryOfDeparture;
 
     /**
      * @var \App\Models\SeaPort
      */
-    #[MapName('port_of_departure_id'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
+    #[MapName('port_id_of_departure'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
     public SeaPort $portOfDeparture;
 
     /**
      * @var \App\Models\Country
      */
-    #[MapName('country_of_return_id'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
+    #[MapName('country_id_of_return'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
     public Country $countryOfReturn;
 
     /**
      * @var \App\Models\SeaPort
      */
-    #[MapName('port_of_return_id'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
+    #[MapName('port_id_of_return'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
     public SeaPort $portOfReturn;
 
-//    /**
-//     * @var \App\Models\DataAccessRestriction
-//     */
-//    #[MapName('data_access_restriction_id'), Exists('data_access_restriction', 'id')]
-//    public DataAccessRestriction $dataAccessRestriction;
+    /**
+     * @var \App\Models\DataAccessRestriction
+     */
+    #[MapName('data_access_restriction_id'), Exists('data_access_restriction', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
+    public DataAccessRestriction $dataAccessRestriction;
 
     /**
      * @var string
