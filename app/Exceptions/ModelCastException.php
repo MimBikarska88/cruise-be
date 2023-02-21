@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Data\Exceptions;
+namespace App\Exceptions;
 
 use Exception;
 
@@ -11,7 +11,7 @@ class ModelCastException extends Exception
      *
      * @param  string  $type
      * @param  mixed  $value
-     * @return \App\Data\Exceptions\ModelCastException
+     * @return \App\Exceptions\ModelCastException
      */
     public static function cannotCast(string $type, mixed $value): self
     {

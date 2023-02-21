@@ -2,7 +2,7 @@
 
 namespace App\Data\Casts;
 
-use App\Data\Exceptions\ModelCastException;
+use App\Exceptions\ModelCastException;
 use Illuminate\Database\Eloquent\Model;
 use Spatie\LaravelData\Casts\Cast;
 use Spatie\LaravelData\Casts\Uncastable;
@@ -28,7 +28,7 @@ class ModelCast implements Cast
      * @param  array  $context
      * @return \Illuminate\Database\Eloquent\Model|\Spatie\LaravelData\Casts\Uncastable|null
      *
-     * @throws \App\Data\Exceptions\ModelCastException
+     * @throws \App\Exceptions\ModelCastException
      */
     public function cast(DataProperty $property, mixed $value, array $context): Model | Uncastable | null
     {
