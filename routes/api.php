@@ -21,3 +21,5 @@ Route::get('/sea-scape-parameters', 'SeaScapeParametersController@index');
 Route::get('/units', 'UnitsController@index');
 Route::get('/platform-categories', 'PlatformCategoriesController@index');
 Route::get('/instruments', 'InstrumentsController@index');
+
+Route::post('/reports', 'ReportsController@store');
