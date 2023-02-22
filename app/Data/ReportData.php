@@ -2,22 +2,15 @@
 
 namespace App\Data;
 
-use App\Data\Transformers\ModelTransformer;
-use App\Models\Country;
-use App\Models\DataAccessRestriction;
-use App\Models\Platform;
-use App\Models\PlatformCategory;
-use App\Models\SeaPort;
 use Illuminate\Support\Carbon;
 use Spatie\LaravelData\Attributes\MapName;
-use Spatie\LaravelData\Attributes\Validation\Exists;
 use Spatie\LaravelData\Attributes\Validation\Max;
 use Spatie\LaravelData\Attributes\WithCast;
-use Spatie\LaravelData\Attributes\WithTransformer;
+use Spatie\LaravelData\Attributes\WithoutValidation;
 use Spatie\LaravelData\Casts\DateTimeInterfaceCast;
 use Spatie\LaravelData\Data;
 use Spatie\LaravelData\Mappers\SnakeCaseMapper;
-use App\Data\Casts\ModelCast;
+use Spatie\LaravelData\Support\Validation\ValidationContext;
 
 #[MapName(SnakeCaseMapper::class)]
 class ReportData extends Data
@@ -57,34 +50,34 @@ class ReportData extends Data
     public Carbon $periodEndDate;
 
     /**
-     * @var \App\Models\Country
+     * @var \App\Data\CountryData
      */
-    #[MapName('country_id_of_departure'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public Country $countryOfDeparture;
+    #[WithoutValidation]
+    public CountryData $countryOfDeparture;
 
     /**
-     * @var \App\Models\SeaPort
+     * @var \App\Data\SeaPortData
      */
-    #[MapName('port_id_of_departure'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public SeaPort $portOfDeparture;
+    #[WithoutValidation]
+    public SeaPortData $portOfDeparture;
 
     /**
-     * @var \App\Models\Country
+     * @var \App\Data\CountryData
      */
-    #[MapName('country_id_of_return'), Exists('countries', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public Country $countryOfReturn;
+    #[WithoutValidation]
+    public CountryData $countryOfReturn;
 
     /**
-     * @var \App\Models\SeaPort
+     * @var \App\Data\SeaPortData
      */
-    #[MapName('port_id_of_return'), Exists('sea_ports', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public SeaPort $portOfReturn;
+    #[WithoutValidation]
+    public SeaPortData $portOfReturn;
 
     /**
-     * @var \App\Models\DataAccessRestriction
+     * @var \App\Data\DataAccessRestrictionData
      */
-    #[MapName('data_access_restriction_id'), Exists('data_access_restriction', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public DataAccessRestriction $dataAccessRestriction;
+    #[WithoutValidation]
+    public DataAccessRestrictionData $dataAccessRestriction;
 
     /**
      * @var string
@@ -98,19 +91,32 @@ class ReportData extends Data
     public string $projectName;
 
     /**
-     * @var \App\Models\Platform
+     * @var \App\Data\PlatformData
      */
-    #[MapName('platform_id'), Exists('platforms', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public Platform $platform;
+    #[WithoutValidation]
+    public PlatformData $platform;
 
     /**
-     * @var \App\Models\PlatformCategory
+     * @var \App\Data\PlatformCategoryData
      */
-    #[MapName('platform_category_id'), Exists('platform_category', 'id'), WithCast(ModelCast::class), WithTransformer(ModelTransformer::class)]
-    public PlatformCategory $platformCategory;
+    #[WithoutValidation]
+    public PlatformCategoryData $platformCategory;
 
     /**
      * @var string
      */
     public string $comment;
+
+    public static function rules(ValidationContext $context): array
+    {
+        return [
+            'country_of_departure' => 'required|numeric|exists:countries,id',
+            'port_of_departure' => 'required|numeric|exists:sea_ports,id',
+            'country_of_return' => 'required|numeric|exists:countries,id',
+            'port_of_return' => 'required|numeric|exists:sea_ports,id',
+            'data_access_restriction' => 'required|numeric|exists:data_access_restriction,id',
+            'platform' => 'required|numeric|exists:platforms,id',
+            'platform_category' => 'required|numeric|exists:platform_category,id',
+        ];
+    }
 }

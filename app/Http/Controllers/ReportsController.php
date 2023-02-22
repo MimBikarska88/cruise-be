@@ -32,7 +32,15 @@ class ReportsController extends Controller
     ) {
         $report = $createReportAction->handle($data);
 
-        return ReportData::from($report);
+        return ReportData::from($report->load([
+            'countryOfDeparture',
+            'portOfDeparture',
+            'countryOfReturn',
+            'portOfReturn',
+            'dataAccessRestriction',
+            'platform',
+            'platformCategory',
+        ]));
     }
 
     /**

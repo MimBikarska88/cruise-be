@@ -27,13 +27,13 @@ class StoreReportAction
             'comment' => $data->comment,
         ]);
 
-        $report->countryOfDeparture()->associate($data->countryOfDeparture);
-        $report->portOfDeparture()->associate($data->portOfDeparture);
-        $report->countryOfReturn()->associate($data->countryOfReturn);
-        $report->portOfReturn()->associate($data->portOfReturn);
-        $report->dataAccessRestriction()->associate($data->dataAccessRestriction);
-        $report->platform()->associate($data->platform);
-        $report->platformCategory()->associate($data->platformCategory);
+        $report->countryOfDeparture()->associate($data->countryOfDeparture->id);
+        $report->portOfDeparture()->associate($data->portOfDeparture->id);
+        $report->countryOfReturn()->associate($data->countryOfReturn->id);
+        $report->portOfReturn()->associate($data->portOfReturn->id);
+        $report->dataAccessRestriction()->associate($data->dataAccessRestriction->id);
+        $report->platform()->associate($data->platform->id);
+        $report->platformCategory()->associate($data->platformCategory->id);
 
         return tap($report)->save();
     }
