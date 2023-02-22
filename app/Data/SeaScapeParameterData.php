@@ -2,14 +2,14 @@
 
 namespace App\Data;
 
-use App\Models\PlatformCategory;
+use App\Models\SeaScapeParameter;
 use Illuminate\Support\Carbon;
 use Spatie\LaravelData\Attributes\MapName;
 use Spatie\LaravelData\Data;
 use Spatie\LaravelData\Mappers\SnakeCaseMapper;
 
 #[MapName(SnakeCaseMapper::class)]
-class PlatformCategoryData extends Data
+class SeaScapeParameterData extends Data
 {
     /**
      * @var string
@@ -55,7 +55,7 @@ class PlatformCategoryData extends Data
     public static function fromId(string|int $id): self
     {
         return static::withoutMagicalCreationFrom(
-            PlatformCategory::query()->find($id)
+            SeaScapeParameter::query()->find($id)
         );
     }
 }

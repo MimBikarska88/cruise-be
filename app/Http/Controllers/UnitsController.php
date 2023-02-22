@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\UnitResource;
+use App\Data\UnitData;
 use App\Models\Unit;
 
 class UnitsController extends Controller
@@ -14,7 +14,7 @@ class UnitsController extends Controller
      */
     public function index()
     {
-        return UnitResource::collection(
+        return UnitData::collection(
             Unit::all()
         );
     }

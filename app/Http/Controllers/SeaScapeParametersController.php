@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\SeaScapeParameterResource;
+use App\Data\SeaScapeParameterData;
 use App\Models\SeaScapeParameter;
 
 class SeaScapeParametersController extends Controller
@@ -14,7 +14,7 @@ class SeaScapeParametersController extends Controller
      */
     public function index()
     {
-        return SeaScapeParameterResource::collection(
+        return SeaScapeParameterData::collection(
             SeaScapeParameter::all()
         );
     }

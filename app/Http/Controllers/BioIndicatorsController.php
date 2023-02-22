@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\BioIndicatorResource;
+use App\Data\BioIndicatorData;
 use App\Models\BioIndicator;
 
 class BioIndicatorsController extends Controller
@@ -14,7 +14,7 @@ class BioIndicatorsController extends Controller
      */
     public function index()
     {
-        return BioIndicatorResource::collection(
+        return BioIndicatorData::collection(
             BioIndicator::all()
         );
     }

@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\PlatformCategoryResource;
+use App\Data\PlatformCategoryData;
 use App\Models\PlatformCategory;
 
 class PlatformCategoriesController extends Controller
@@ -14,7 +14,7 @@ class PlatformCategoriesController extends Controller
      */
     public function index()
     {
-        return PlatformCategoryResource::collection(
+        return PlatformCategoryData::collection(
             PlatformCategory::all()
         );
     }

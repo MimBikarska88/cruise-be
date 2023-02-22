@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\InstrumentResource;
+use App\Data\InstrumentData;
 use App\Models\Instrument;
 
 class InstrumentsController extends Controller
@@ -14,7 +14,7 @@ class InstrumentsController extends Controller
      */
     public function index()
     {
-        return InstrumentResource::collection(
+        return InstrumentData::collection(
             Instrument::all()
         );
     }

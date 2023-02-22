@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\CountryResource;
+use App\Data\CountryData;
 use App\Models\Country;
 
 class CountriesController extends Controller
@@ -14,7 +14,7 @@ class CountriesController extends Controller
      */
     public function index()
     {
-        return CountryResource::collection(
+        return CountryData::collection(
             Country::all()
         );
     }
