@@ -7,6 +7,13 @@ use Illuminate\Database\Eloquent\Model;
 class DataAccessRestriction extends Model
 {
     /**
+     * Indicates if the model should be timestamped.
+     *
+     * @var bool
+     */
+    public $timestamps = false;
+
+    /**
      * The table associated with the model.
      *
      * @var string
@@ -19,4 +26,13 @@ class DataAccessRestriction extends Model
      * @var array<string>|bool
      */
     protected $guarded = [];
+
+    /**
+     * The attributes that should be cast.
+     *
+     * @var array
+     */
+    protected $casts = [
+        'modified_date' => 'datetime',
+    ];
 }
