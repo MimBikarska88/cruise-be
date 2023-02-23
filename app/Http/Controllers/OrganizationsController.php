@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\OrganizationResource;
+use App\Data\OrganizationData;
 use App\Models\Organization;
 
 class OrganizationsController extends Controller
@@ -14,8 +14,8 @@ class OrganizationsController extends Controller
      */
     public function index()
     {
-        return OrganizationResource::collection(
-            Organization::all()
+        return OrganizationData::collection(
+            Organization::with('country')->get()
         );
     }
 }

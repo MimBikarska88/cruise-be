@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Organization extends Model
 {
@@ -19,4 +20,14 @@ class Organization extends Model
      * @var array<string>|bool
      */
     protected $guarded = [];
+
+    /**
+     * Get the country.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function country(): BelongsTo
+    {
+        return $this->belongsTo(Country::class);
+    }
 }
