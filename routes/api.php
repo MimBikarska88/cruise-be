@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/bio-indicators', 'BioIndicatorsController@index');
 Route::get('/countries', 'CountriesController@index');
-Route::get('/organizations', 'CountriesController@index');
+Route::get('/organizations', 'OrganizationsController@index');
 Route::get('/sea-scape-parameters', 'SeaScapeParametersController@index');
 Route::get('/units', 'UnitsController@index');
 Route::get('/platform-categories', 'PlatformCategoriesController@index');
