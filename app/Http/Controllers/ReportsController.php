@@ -40,6 +40,8 @@ class ReportsController extends Controller
             'dataAccessRestriction',
             'platform',
             'platformCategory',
+            'parameters',
+            'instruments',
         ]));
     }
 

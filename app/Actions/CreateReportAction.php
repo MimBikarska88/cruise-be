@@ -25,6 +25,11 @@ class CreateReportAction
      */
     public function handle(ReportData $data): Report
     {
-        return $this->storeReportAction->handle($data);
+        $report = $this->storeReportAction->handle($data);
+
+        $report->parameters()->sync($data->parameters->toCollection()->pluck('id')->toArray());
+        $report->instruments()->sync($data->instruments->toCollection()->pluck('id')->toArray());
+
+        return $report;
     }
 }
