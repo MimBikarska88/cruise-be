@@ -9,7 +9,8 @@ return [
     'date_format' => [
         DATE_ATOM,
         'Y-m-d\TH:i',
-        'Y-m-d\\TH:i:s.v\Z'
+        'Y-m-d\\TH:i:s.v\Z',
+        'Y-m-d\\TH:i:s.u\Z',
     ],
 
     /*
