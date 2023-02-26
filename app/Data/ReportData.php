@@ -40,13 +40,11 @@ class ReportData extends Data
     /**
      * @var \Illuminate\Support\Carbon
      */
-    #[WithCast(DateTimeInterfaceCast::class, 'Y-m-d\TH:i')]
     public Carbon $periodStartDate;
 
     /**
      * @var \Illuminate\Support\Carbon
      */
-    #[WithCast(DateTimeInterfaceCast::class, 'Y-m-d\TH:i')]
     public Carbon $periodEndDate;
 
     /**
