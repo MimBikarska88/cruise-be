@@ -1,6 +1,6 @@
 import { useState } from "react";
 import OrganizationList from "../OrganizationList/OrganizationList";
-import Centers from "../OrganizationCenter/Centers";
+import Centers from "./Centers";
 
 const CollateCenter = (props) => {
   const { organizations, setOrganizations, availableOrganizations, title } =
