@@ -1,22 +1,20 @@
 import axios from "axios";
 
 const StaticDataService = () => {
-  const path = "http://localhost:8000/api";
+  const getSeaScapeParameters = () => axios.get(`/api/sea-scape-parameters`);
 
-  const getSeaScapeParameters = () => axios.get(`${path}/sea-scape-parameters`);
+  const getInstruments = () => axios.get(`/api/instruments`);
 
-  const getInstruments = () => axios.get(`${path}/instruments`);
+  const getPlatformCategories = () => axios.get(`/api/platform-categories`);
 
-  const getPlatformCategories = () => axios.get(`${path}/platform-categories`);
+  const getBioIndicators = () => axios.get(`/api/bio-indicators`);
 
-  const getBioIndicators = () => axios.get(`${path}/bio-indicators`);
+  const getCountries = () => axios.get(`/api/countries`);
 
-  const getCountries = () => axios.get(`${path}/countries`);
-
-  const getUnits = () => axios.get(`${path}/units`);
+  const getUnits = () => axios.get(`/api/units`);
 
   const getDataAccessRestriction = () =>
-    axios.get(`${path}/data-access-restriction`);
+    axios.get(`/api/data-access-restriction`);
 
   return {
     loadAllSeaScapeParameters: getSeaScapeParameters,

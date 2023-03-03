@@ -1,8 +1,7 @@
 import axios from "axios";
 const CruiseService = () => {
-  const path = "http://localhost:8000/api";
   const createCruise = (cruiseData) =>
-    axios.post(`${path}/reports`, cruiseData);
+    axios.post(`/api/reports`, cruiseData);
   return {
     submitCruiseReport: createCruise,
   };
