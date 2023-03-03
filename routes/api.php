@@ -23,11 +23,4 @@ Route::get('/platform-categories', 'PlatformCategoriesController@index');
 Route::get('/instruments', 'InstrumentsController@index');
 Route::get('/data-access-restriction', 'DataAccessController@index');
 
-/**
- * Reports.
- */
-Route::get('/reports', 'ReportsController@index');
-Route::post('/reports', 'ReportsController@store');
-Route::get('/reports/{report}', 'ReportsController@show');
-Route::put('/reports/{report}', 'ReportsController@update');
-Route::delete('/reports/{report}', 'ReportsController@destroy');
+Route::apiResource('reports', 'ReportsController');
