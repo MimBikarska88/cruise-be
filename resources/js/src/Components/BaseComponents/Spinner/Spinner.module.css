@@ -1,0 +1,8 @@
+.spinner {
+  color: rgb(2, 9, 60) !important;
+  width: 3rem !important;
+  height: 3rem !important;
+}
+.spinner-div {
+  height: 100% !important;
+}

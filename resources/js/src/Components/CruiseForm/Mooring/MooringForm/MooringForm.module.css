@@ -1,0 +1,9 @@
+.searchSelect,
+.searchSelect:hover {
+  border-color: hsl(0deg 0% 0%);
+  border-radius: 0;
+  border-style: 1 px solid;
+}
+.smallInput {
+  width: 10%;
+}
