@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
@@ -14,8 +15,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('reports', function (Blueprint $table) {
+            $uuid = DB::connection()->getDriverName() === 'mysql'
+                ? DB::raw('(UUID())')
+                : DB::raw('NEWID()');
+
             $table->id();
-            $table->uuid('cruise_id');
+            $table->uuid('cruise_id')->default($uuid);
             $table->string('cruise_name');
             $table->dateTime('creation_date');
             $table->dateTime('revision_date');

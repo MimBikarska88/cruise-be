@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
@@ -14,8 +15,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('organizations', function (Blueprint $table) {
+            $uuid = DB::connection()->getDriverName() === 'mysql'
+                ? DB::raw('(UUID())')
+                : DB::raw('NEWID()');
+
             $table->integer('id', true);
-            $table->uuid('code')->unique();
+            $table->uuid('code')->unique()->default($uuid);
             $table->string('phone', 50)->default(null)->nullable();
             $table->string('fax', 50)->default(null)->nullable();
             $table->string('delivery_point')->default(null)->nullable();
