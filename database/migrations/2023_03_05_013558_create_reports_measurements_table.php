@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
@@ -14,11 +15,15 @@ return new class extends Migration
     public function up()
     {
         Schema::create('reports_measurements', function (Blueprint $table) {
+            $dateTimePrecision = DB::connection()->getDriverName() === 'mysql'
+                ? 6
+                : 7;
+
             $table->id();
             $table->decimal('quantity', 12, 6);
             $table->integer('unit_id');
             $table->integer('bio_indicator_id');
-            $table->timestamp('date_time', 7);
+            $table->timestamp('date_time', $dateTimePrecision);
             $table->integer('person_id');
             $table->integer('organization_id');
             $table->text('description');
