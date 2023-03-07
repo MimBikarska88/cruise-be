@@ -1,0 +1,13 @@
+.organizationsFrame {
+  height: 400px;
+  min-height: 400px;
+  scrollbar-width: 2px;
+  overflow-y: scroll;
+  border: 4px solid #dee2e6;
+}
+
+.trash:hover {
+  box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+  -webkit-box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+  -moz-box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+}

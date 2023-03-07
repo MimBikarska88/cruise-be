@@ -1,0 +1,111 @@
+.single-input {
+  display: block;
+  width: 100%;
+  line-height: 40px;
+  border: none;
+  outline: none;
+  background: #ffffff !important;
+  padding: 0 20px;
+  border: 1px solid black !important;
+}
+
+.single-input:disabled {
+  cursor: not-allowed;
+}
+
+.single-input:focus {
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  border-radius: 1px;
+}
+.label {
+  color: black;
+  font-weight: 400;
+}
+
+.small {
+  color: #343a40;
+  font-weight: 500;
+  background-color: transparent;
+  background-image: none;
+  border-color: #343a40;
+  width: auto;
+  border-radius: 0 !important;
+  width: 40px !important;
+  border-color: #003865 !important;
+}
+.small:hover {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  border-radius: 0 !important;
+  border-color: #02090f !important;
+}
+
+.organizations {
+  border: 3px solid silver;
+  min-width: auto !important;
+}
+
+.organization-names {
+  color: #000000;
+}
+.organization-names:hover {
+  background-color: rgb(208, 226, 243);
+  font-weight: bold;
+  cursor: grab;
+}
+
+.organizations-info {
+  height: 350px;
+  scrollbar-width: 2px;
+  overflow-y: scroll;
+}
+
+.cruise-info {
+  color: #000000;
+  height: 600px;
+  scrollbar-width: 2px;
+  overflow-y: scroll;
+  width: auto;
+}
+.cruise-table {
+  color: #000000;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(235, 229, 255);
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(44, 39, 61);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(44, 39, 61);
+}
+
+.select {
+  outline: #343a40;
+}
+.select:active {
+  background-color: #ffffff !important;
+  color: black !important;
+}
+.select:focus {
+  border-color: #000000 !important;
+}
+.select > option {
+  color: black !important;
+  background-color: rgb(208, 226, 243) !important;
+}
+.trash:hover {
+  box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+  -webkit-box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+  -moz-box-shadow: 4px 1px 43px 1px rgba(0, 116, 255, 1);
+}

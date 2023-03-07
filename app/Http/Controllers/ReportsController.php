@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Actions\CreateReportAction;
+use App\Actions\UpsertReportAction;
+use App\Actions\DestroyReportAction;
 use App\Data\ReportData;
 use App\Models\Report;
-use Illuminate\Http\Request;
 
 class ReportsController extends Controller
 {
@@ -16,21 +16,21 @@ class ReportsController extends Controller
      */
     public function index()
     {
-        //
+        return ReportData::collection(Report::all());
     }
 
     /**
      * Store a newly created resource in storage.
      *
      * @param  \App\Data\ReportData  $data
-     * @param  \App\Actions\CreateReportAction  $createReportAction
+     * @param  \App\Actions\UpsertReportAction  $upsertReportAction
      * @return \Illuminate\Http\Response
      */
     public function store(
         ReportData $data,
-        CreateReportAction $createReportAction,
+        UpsertReportAction $upsertReportAction,
     ) {
-        $report = $createReportAction->handle($data);
+        $report = $upsertReportAction->handle(new Report(), $data);
 
         return ReportData::from($report->load([
             'countryOfDeparture',
@@ -40,6 +40,8 @@ class ReportsController extends Controller
             'dataAccessRestriction',
             'platform',
             'platformCategory',
+            'parameters',
+            'instruments',
         ]));
     }
 
@@ -51,29 +53,60 @@ class ReportsController extends Controller
      */
     public function show(Report $report)
     {
-        //
+        return ReportData::from($report->load([
+            'countryOfDeparture',
+            'portOfDeparture',
+            'countryOfReturn',
+            'portOfReturn',
+            'dataAccessRestriction',
+            'platform',
+            'platformCategory',
+            'parameters',
+            'instruments',
+        ]));
     }
 
     /**
      * Update the specified resource in storage.
      *
-     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\Data\ReportData  $data
      * @param  \App\Models\Report  $report
+     * @param  \App\Actions\UpsertReportAction  $upsertReportAction
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Report $report)
-    {
-        //
+    public function update(
+        ReportData $data,
+        Report $report,
+        UpsertReportAction $upsertReportAction,
+    ) {
+        $report = $upsertReportAction->handle($report, $data);
+
+        return ReportData::from($report->load([
+            'countryOfDeparture',
+            'portOfDeparture',
+            'countryOfReturn',
+            'portOfReturn',
+            'dataAccessRestriction',
+            'platform',
+            'platformCategory',
+            'parameters',
+            'instruments',
+        ]));
     }
 
     /**
      * Remove the specified resource from storage.
      *
      * @param  \App\Models\Report  $report
+     * @param  \App\Actions\DestroyReportAction  $destroyReportAction
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Report $report)
-    {
-        //
+    public function destroy(
+        Report $report,
+        DestroyReportAction $destroyReportAction
+    ) {
+        $destroyReportAction->handle($report);
+
+        return response()->noContent();
     }
 }

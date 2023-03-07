@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 class Report extends Model
 {
@@ -98,5 +99,31 @@ class Report extends Model
      */
     public function platformCategory(): BelongsTo {
         return $this->belongsTo(PlatformCategory::class);
+    }
+
+    /**
+     * Get the parameters.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsToMany
+     */
+    public function parameters(): BelongsToMany
+    {
+        return $this->belongsToMany(
+            SeaScapeParameter::class,
+            'sea_scape_parameters_to_report'
+        );
+    }
+
+    /**
+     * Get the instruments.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsToMany
+     */
+    public function instruments(): BelongsToMany
+    {
+        return $this->belongsToMany(
+            Instrument::class,
+            'instruments_to_reports'
+        );
     }
 }
