@@ -42,6 +42,7 @@ class ReportsController extends Controller
             'platformCategory',
             'parameters',
             'instruments',
+            'moorings',
         ]));
     }
 
@@ -63,6 +64,7 @@ class ReportsController extends Controller
             'platformCategory',
             'parameters',
             'instruments',
+            'moorings',
         ]));
     }
 
@@ -91,6 +93,7 @@ class ReportsController extends Controller
             'platformCategory',
             'parameters',
             'instruments',
+            'moorings',
         ]));
     }
 

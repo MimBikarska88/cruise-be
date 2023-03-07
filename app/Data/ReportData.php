@@ -128,6 +128,12 @@ class ReportData extends Data
     public DataCollection|Lazy $instruments;
 
     /**
+     * @var \Spatie\LaravelData\DataCollection<\App\Data\ReportMooringData>|\Spatie\LaravelData\Lazy
+     */
+    #[DataCollectionOf(ReportMooringData::class)]
+    public DataCollection|Lazy $moorings;
+
+    /**
      * Get the validation rules.
      *
      * @param  \Spatie\LaravelData\Support\Validation\ValidationContext  $context
@@ -221,6 +227,20 @@ class ReportData extends Data
                 'instruments',
                 $report,
                 fn () => InstrumentData::collection($report->instruments)->withoutWrapping()
+            ),
+            'moorings' => Lazy::whenLoaded(
+                'moorings',
+                $report,
+                function () use ($report) {
+                    return ReportMooringData::collection(
+                        $report->moorings()->with([
+                            'report',
+                            'bioIndicator',
+                            'person',
+                            'organization.country',
+                        ])->get()
+                    )->withoutWrapping();
+                }
             ),
         ]));
     }

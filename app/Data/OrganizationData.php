@@ -2,6 +2,7 @@
 
 namespace App\Data;
 
+use App\Models\Organization;
 use Spatie\LaravelData\Attributes\MapName;
 use Spatie\LaravelData\Data;
 use Spatie\LaravelData\Mappers\SnakeCaseMapper;
@@ -52,5 +53,18 @@ class OrganizationData extends Data
     /**
      * @var string
      */
-    public string $web_site;
+    public string $webSite;
+
+    /**
+     * Create an instance from id.
+     *
+     * @param  string|int  $id
+     * @return static
+     */
+    public static function fromId(string|int $id): self
+    {
+        return static::withoutMagicalCreationFrom(
+            Organization::query()->find($id)
+        );
+    }
 }
