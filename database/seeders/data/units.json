@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "code": "CSRU001",
+    "name": null,
+    "description": "The count of point locations at which measurements or samples were taken.",
+    "label": "number of stations",
+    "alternative_label": "stations",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 2,
+    "code": "CSRU002",
+    "name": null,
+    "description": "The period of time expressed in calendar days (86400 seconds) during which the measurement or sampling is continuously taking place.",
+    "label": "activity duration in days",
+    "alternative_label": "days",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 3,
+    "code": "CSRU003",
+    "name": null,
+    "description": "The period of time expressed in hours (3600 seconds) during which the measurement or sampling is continuously taking place.",
+    "label": "activity duration in hours",
+    "alternative_label": "hours",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 4,
+    "code": "CSRU004",
+    "name": null,
+    "description": "The distance in kilometres covered by the platform during which the measurement or sampling is continuously taking place.",
+    "label": "track kilometres",
+    "alternative_label": "kilometres",
+    "modified_date": "2007-11-12 16:13:42.000"
+  },
+  {
+    "id": 5,
+    "code": "CSRU005",
+    "name": null,
+    "description": "The count of the deployments of sampling devices that collect biological samples including plankton nets, trawls, sledges and dredges.,",
+    "label": "number of hauls",
+    "alternative_label": "hauls",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 6,
+    "code": "CSRU006",
+    "name": null,
+    "description": "The count of discrete material collections of air, water, sediment, rock or biota obtained for subsequent measurement.",
+    "label": "number of samples",
+    "alternative_label": "samples",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 7,
+    "code": "CSRU007",
+    "name": null,
+    "description": "Sets of vertically distributed measurements or sample collections at a fixed location.",
+    "label": "number of profiles",
+    "alternative_label": "profiles",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 8,
+    "code": "CSRU008",
+    "name": null,
+    "description": "The count of whole cylindrical samples of rocks or mud collected that contain material from varying depths below the seabed.",
+    "label": "number of cores",
+    "alternative_label": "cores",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 9,
+    "code": "CSRU009",
+    "name": null,
+    "description": "The count of determinations of the size or magnitude of something.",
+    "label": "number of measurements",
+    "alternative_label": "measurements",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 10,
+    "code": "CSRU010",
+    "name": null,
+    "description": "The period of time expressed in calendar months during which the measurement or sampling is continuously taking place.",
+    "label": "activity months",
+    "alternative_label": "months",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 11,
+    "code": "CSRU011",
+    "name": null,
+    "description": "The count of discrete periods of time during which something is measured or watched.",
+    "label": "number of observations",
+    "alternative_label": "observations",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 12,
+    "code": "CSRU012",
+    "name": null,
+    "description": "The count of journeys from surface to depth and back again by subsurface platforms deployed from the cruise, including ROVs, AUVs and human divers.,",
+    "label": "number of dives",
+    "alternative_label": "dives",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 13,
+    "code": "CSRU013",
+    "name": null,
+    "description": "The count of sample processing and measurement procedures undertaken, such as incubation or settling velocity experiments.,,",
+    "label": "number of experiments",
+    "alternative_label": "experiments",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 14,
+    "code": "CSRU014",
+    "name": null,
+    "description": "The count of standard containers filled with fish.  Each basket is roughly equal to a 45kg sample weight.",
+    "label": "sample baskets",
+    "alternative_label": "baskets",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 15,
+    "code": "CSRU015",
+    "name": null,
+    "description": "The mass expressed in kilograms of samples obtained.",
+    "label": "sample kilograms",
+    "alternative_label": "kilograms",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 16,
+    "code": "CSRU016",
+    "name": null,
+    "description": "The volume expressed in litres of samples obtained.",
+    "label": "sample litres",
+    "alternative_label": "litres",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 17,
+    "code": "CSRU017",
+    "name": null,
+    "description": "The volume of information accumulated on a computer resulting from the measurement expressed in gigabytes (1048576 8-bit bytes).",
+    "label": "data volume in gigabytes",
+    "alternative_label": "gigabytes",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 18,
+    "code": "CSRU018",
+    "name": null,
+    "description": "The count of image collections such as films, video tapes and digital video files.,,",
+    "label": "number of image series",
+    "alternative_label": "image series",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 19,
+    "code": "CSRU019",
+    "name": null,
+    "description": "The count of discrete images such as photographs or digital image files.",
+    "label": "number of images",
+    "alternative_label": "images",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 20,
+    "code": "CSRU020",
+    "name": null,
+    "description": "The count of individual organisms obtained.",
+    "label": "number of specimens",
+    "alternative_label": "specimens",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 21,
+    "code": "CSRU021",
+    "name": null,
+    "description": "The count of different taxonomic groups capable of interbreeding obtained.",
+    "label": "number of species",
+    "alternative_label": "species",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 22,
+    "code": "CSRU022",
+    "name": null,
+    "description": "The count of discrete subsets of the platform path during which a specified set of measurements or observations were made",
+    "label": "number of track lines",
+    "alternative_label": "lines",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 23,
+    "code": "CSRU023",
+    "name": null,
+    "description": "The area, usually of seabed, surveyed during the cruise expressed in square kilometres.,",
+    "label": "survey square kilometres",
+    "alternative_label": "square_kilometres",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 24,
+    "code": "CSRU024",
+    "name": null,
+    "description": "The count of discrete areas of seabed or discrete volumes of the water column in which measurements or observations were made.",
+    "label": "number of surveys",
+    "alternative_label": "surveys",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 25,
+    "code": "CSRU025",
+    "name": null,
+    "description": "The count of the times a piece of equipment was deposited into the sea or atmosphere for recovery during the cruise, by a subsequent cruise or possibly never.,,",
+    "label": "number of deployments",
+    "alternative_label": "deployments",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 26,
+    "code": "CSRU026",
+    "name": null,
+    "description": "The count of the times a piece of equipment deposited into the sea or atmosphere by a previous cruise was recovered.",
+    "label": "number of recoveries",
+    "alternative_label": "recoveries",
+    "modified_date": "2007-11-12 14:26:28.000"
+  },
+  {
+    "id": 27,
+    "code": "CSRU027",
+    "name": null,
+    "description": "The count of aircraft activities such as overflights associated with a cruise.",
+    "label": "number of flights",
+    "alternative_label": "flights",
+    "modified_date": "2007-11-12 14:26:28.000"
+  }
+]

@@ -1,0 +1,1145 @@
+[
+  {
+    "id": 1,
+    "label": "Baltic Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "01"
+  },
+  {
+    "id": 2,
+    "label": "Gulf of Bothnia (Baltic Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "01a"
+  },
+  {
+    "id": 3,
+    "label": "Gulf of Finland (Baltic Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "01b"
+  },
+  {
+    "id": 4,
+    "label": "Gulf of Riga (Baltic Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "01c"
+  },
+  {
+    "id": 5,
+    "label": "Kattegat, Sound and Belts",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "02"
+  },
+  {
+    "id": 6,
+    "label": "Skagerrak",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "03"
+  },
+  {
+    "id": 7,
+    "label": "North Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "04"
+  },
+  {
+    "id": 8,
+    "label": "Greenland Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "05"
+  },
+  {
+    "id": 9,
+    "label": "Norwegian Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "06"
+  },
+  {
+    "id": 10,
+    "label": "Barents Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "07"
+  },
+  {
+    "id": 11,
+    "label": "White Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "08"
+  },
+  {
+    "id": 12,
+    "label": "Kara Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "09"
+  },
+  {
+    "id": 13,
+    "label": "Laptev Sea (or Nordenskjold Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "10"
+  },
+  {
+    "id": 14,
+    "label": "East Siberian Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "11"
+  },
+  {
+    "id": 15,
+    "label": "Chukchi Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "12"
+  },
+  {
+    "id": 16,
+    "label": "Beaufort Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "13"
+  },
+  {
+    "id": 17,
+    "label": "The Northwestern Passages",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "14"
+  },
+  {
+    "id": 18,
+    "label": "The Northwestern Passages - Baffin Bay",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "14a"
+  },
+  {
+    "id": 19,
+    "label": "Davis Strait",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "15"
+  },
+  {
+    "id": 20,
+    "label": "Labrador Sea (Davis Strait)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "15a"
+  },
+  {
+    "id": 21,
+    "label": "Hudson Bay",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "16"
+  },
+  {
+    "id": 22,
+    "label": "Hudson Strait",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "16a"
+  },
+  {
+    "id": 23,
+    "label": "Arctic Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "17"
+  },
+  {
+    "id": 24,
+    "label": "Arctic Ocean - Lincoln Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "17a"
+  },
+  {
+    "id": 25,
+    "label": "Inner Seas off the West Coast of Scotland",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "18"
+  },
+  {
+    "id": 26,
+    "label": "Irish Sea and St. George's Channel",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "19"
+  },
+  {
+    "id": 27,
+    "label": "Bristol Channel",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "20"
+  },
+  {
+    "id": 28,
+    "label": "Atlantic Ocean",
+    "alternative_label": null,
+    "date_modified": "2009-01-08 15:35:09.000",
+    "name": null,
+    "definition": null,
+    "code": "200"
+  },
+  {
+    "id": 29,
+    "label": "English Channel",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "21"
+  },
+  {
+    "id": 30,
+    "label": "Celtic Sea",
+    "alternative_label": null,
+    "date_modified": "2009-08-07 11:08:25.000",
+    "name": null,
+    "definition": null,
+    "code": "21a"
+  },
+  {
+    "id": 31,
+    "label": "Bay of Biscay",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "22"
+  },
+  {
+    "id": 32,
+    "label": "North Atlantic Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "23"
+  },
+  {
+    "id": 33,
+    "label": "North East Atlantic Ocean (limit 40W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "23a"
+  },
+  {
+    "id": 34,
+    "label": "North West Atlantic Ocean (limit 40W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "23b"
+  },
+  {
+    "id": 35,
+    "label": "Gulf of St. Lawrence",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "24"
+  },
+  {
+    "id": 36,
+    "label": "Bay of Fundy",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "25"
+  },
+  {
+    "id": 37,
+    "label": "Gulf of Mexico",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "26"
+  },
+  {
+    "id": 38,
+    "label": "Caribbean Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "27"
+  },
+  {
+    "id": 39,
+    "label": "Mediterranean Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28"
+  },
+  {
+    "id": 40,
+    "label": "Mediterranean Sea - Western basin",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28A"
+  },
+  {
+    "id": 41,
+    "label": "Strait of Gibraltar (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Aa"
+  },
+  {
+    "id": 42,
+    "label": "Alboran Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Ab"
+  },
+  {
+    "id": 43,
+    "label": "Balearic (Iberian) Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Ac"
+  },
+  {
+    "id": 44,
+    "label": "Ligurian Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Ad"
+  },
+  {
+    "id": 45,
+    "label": "Tyrrhenian Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Ae"
+  },
+  {
+    "id": 46,
+    "label": "Mediterranean Sea - Eastern basin",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28B"
+  },
+  {
+    "id": 47,
+    "label": "Ionian Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Bf"
+  },
+  {
+    "id": 48,
+    "label": "Adriatic Sea (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Bg"
+  },
+  {
+    "id": 49,
+    "label": "Aegean Sea (The Archipelago) (Mediterranean Sea)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "28Bh"
+  },
+  {
+    "id": 50,
+    "label": "Strait of Sicily",
+    "alternative_label": null,
+    "date_modified": "2009-01-08 15:40:22.000",
+    "name": null,
+    "definition": null,
+    "code": "28C"
+  },
+  {
+    "id": 51,
+    "label": "Sea of Marmara",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "29"
+  },
+  {
+    "id": 52,
+    "label": "Black Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "30"
+  },
+  {
+    "id": 53,
+    "label": "Sea of Azov",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "31"
+  },
+  {
+    "id": 54,
+    "label": "South Atlantic Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "32"
+  },
+  {
+    "id": 55,
+    "label": "South East Atlantic Ocean (limit 20W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "32a"
+  },
+  {
+    "id": 56,
+    "label": "South West Atlantic Ocean (limit 20W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "32b"
+  },
+  {
+    "id": 57,
+    "label": "Rio de La Plata",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "33"
+  },
+  {
+    "id": 58,
+    "label": "Gulf of Guinea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "34"
+  },
+  {
+    "id": 59,
+    "label": "Gulf of Suez",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "35"
+  },
+  {
+    "id": 60,
+    "label": "Gulf of Aqaba",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "36"
+  },
+  {
+    "id": 61,
+    "label": "Red Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "37"
+  },
+  {
+    "id": 62,
+    "label": "Gulf of Aden",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "38"
+  },
+  {
+    "id": 63,
+    "label": "Arabian Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "39"
+  },
+  {
+    "id": 64,
+    "label": "Gulf of Oman",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "40"
+  },
+  {
+    "id": 65,
+    "label": "Gulf of Iran (Persian Gulf)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "41"
+  },
+  {
+    "id": 66,
+    "label": "Laccadive Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "42"
+  },
+  {
+    "id": 67,
+    "label": "Bay of Bengal",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "43"
+  },
+  {
+    "id": 68,
+    "label": "Andaman or Burma Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "44"
+  },
+  {
+    "id": 69,
+    "label": "Indian Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "45"
+  },
+  {
+    "id": 70,
+    "label": "Mozambique Channel (Indian Ocean)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "45a"
+  },
+  {
+    "id": 71,
+    "label": "Malacca and Singapore Straits",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "46"
+  },
+  {
+    "id": 72,
+    "label": "Malacca Strait",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "46a"
+  },
+  {
+    "id": 73,
+    "label": "Singapore Strait",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "46b"
+  },
+  {
+    "id": 74,
+    "label": "Gulf of Thailand (Siam)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "47"
+  },
+  {
+    "id": 75,
+    "label": "East Indian Archipelago (Indonesia)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48"
+  },
+  {
+    "id": 76,
+    "label": "Sulu Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48a"
+  },
+  {
+    "id": 77,
+    "label": "Celebes Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48b"
+  },
+  {
+    "id": 78,
+    "label": "Molukka Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48c"
+  },
+  {
+    "id": 79,
+    "label": "Gulf of Tomini (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48d"
+  },
+  {
+    "id": 80,
+    "label": "Halmahera Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48e"
+  },
+  {
+    "id": 81,
+    "label": "Ceram Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48f"
+  },
+  {
+    "id": 82,
+    "label": "Banda Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48g"
+  },
+  {
+    "id": 83,
+    "label": "Arafura Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48h"
+  },
+  {
+    "id": 84,
+    "label": "Timor Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48i"
+  },
+  {
+    "id": 85,
+    "label": "Flores Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48j"
+  },
+  {
+    "id": 86,
+    "label": "Gulf of Boni (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48k"
+  },
+  {
+    "id": 87,
+    "label": "Bali Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48l"
+  },
+  {
+    "id": 88,
+    "label": "Makassar Strait (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48m"
+  },
+  {
+    "id": 89,
+    "label": "Java Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48n"
+  },
+  {
+    "id": 90,
+    "label": "Savu Sea (East Indian Archipelago)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "48o"
+  },
+  {
+    "id": 91,
+    "label": "South China Sea (Nan Hai)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "49"
+  },
+  {
+    "id": 92,
+    "label": "Eastern China Sea (Tung Hai)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "50"
+  },
+  {
+    "id": 93,
+    "label": "Pacific Ocean",
+    "alternative_label": null,
+    "date_modified": "2009-01-08 15:36:19.000",
+    "name": null,
+    "definition": null,
+    "code": "500"
+  },
+  {
+    "id": 94,
+    "label": "Yellow Sea (Hwang Hai)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "51"
+  },
+  {
+    "id": 95,
+    "label": "Japan Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "52"
+  },
+  {
+    "id": 96,
+    "label": "Seto Naikai or Inland Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "53"
+  },
+  {
+    "id": 97,
+    "label": "Sea of Okhotsk",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "54"
+  },
+  {
+    "id": 98,
+    "label": "Bering Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "55"
+  },
+  {
+    "id": 99,
+    "label": "Philippine Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "56"
+  },
+  {
+    "id": 100,
+    "label": "North Pacific Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "57"
+  },
+  {
+    "id": 101,
+    "label": "North East Pacific Ocean (limit 180W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "57a"
+  },
+  {
+    "id": 102,
+    "label": "North West Pacific Ocean (limit 180W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "57b"
+  },
+  {
+    "id": 103,
+    "label": "Gulf of Alaska",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "58"
+  },
+  {
+    "id": 104,
+    "label": "Coastal Waters of SE Alaska and British Columbia",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "59"
+  },
+  {
+    "id": 105,
+    "label": "Gulf of California",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "60"
+  },
+  {
+    "id": 106,
+    "label": "South Pacific Ocean",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "61"
+  },
+  {
+    "id": 107,
+    "label": "South East Pacific Ocean (limit 140W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "61a"
+  },
+  {
+    "id": 108,
+    "label": "South West Pacific Ocean (limit 140W)",
+    "alternative_label": null,
+    "date_modified": "1982-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "61b"
+  },
+  {
+    "id": 109,
+    "label": "Great Australian Bight",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "62"
+  },
+  {
+    "id": 110,
+    "label": "Bass Strait (Great Australian Bight)",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "62a"
+  },
+  {
+    "id": 111,
+    "label": "Tasman Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "63"
+  },
+  {
+    "id": 112,
+    "label": "Coral Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "64"
+  },
+  {
+    "id": 113,
+    "label": "Solomon Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "65"
+  },
+  {
+    "id": 114,
+    "label": "Bismarck Sea",
+    "alternative_label": null,
+    "date_modified": "1954-01-01 00:00:00.000",
+    "name": null,
+    "definition": null,
+    "code": "66"
+  },
+  {
+    "id": 115,
+    "label": "Aral Sea",
+    "alternative_label": null,
+    "date_modified": "2008-12-08 08:00:07.000",
+    "name": null,
+    "definition": null,
+    "code": "ARA"
+  },
+  {
+    "id": 116,
+    "label": "Caspian Sea",
+    "alternative_label": null,
+    "date_modified": "2008-12-08 07:55:28.000",
+    "name": null,
+    "definition": null,
+    "code": "CAS"
+  },
+  {
+    "id": 117,
+    "label": "Eastern Scheldt",
+    "alternative_label": null,
+    "date_modified": "2010-05-24 17:26:39.000",
+    "name": null,
+    "definition": null,
+    "code": "ESC"
+  },
+  {
+    "id": 118,
+    "label": "Fram Strait",
+    "alternative_label": null,
+    "date_modified": "2012-11-06 09:10:22.000",
+    "name": null,
+    "definition": null,
+    "code": "FRM"
+  },
+  {
+    "id": 119,
+    "label": "Worldwide",
+    "alternative_label": null,
+    "date_modified": "2008-07-01 10:21:05.000",
+    "name": null,
+    "definition": null,
+    "code": "GLO"
+  },
+  {
+    "id": 120,
+    "label": "Iceland Sea",
+    "alternative_label": null,
+    "date_modified": "2010-03-12 09:58:25.000",
+    "name": null,
+    "definition": null,
+    "code": "ICS"
+  },
+  {
+    "id": 121,
+    "label": "IJsselmeer",
+    "alternative_label": null,
+    "date_modified": "2010-10-04 09:51:35.000",
+    "name": null,
+    "definition": null,
+    "code": "IJM"
+  },
+  {
+    "id": 122,
+    "label": "Irminger Sea",
+    "alternative_label": null,
+    "date_modified": "2010-03-12 09:48:28.000",
+    "name": null,
+    "definition": null,
+    "code": "IRM"
+  },
+  {
+    "id": 123,
+    "label": "Markermeer",
+    "alternative_label": null,
+    "date_modified": "2010-10-04 09:52:39.000",
+    "name": null,
+    "definition": null,
+    "code": "MKM"
+  },
+  {
+    "id": 124,
+    "label": "Southern Ocean",
+    "alternative_label": null,
+    "date_modified": "2008-07-01 10:20:07.000",
+    "name": null,
+    "definition": null,
+    "code": "SOC"
+  },
+  {
+    "id": 125,
+    "label": "Wadden Sea",
+    "alternative_label": null,
+    "date_modified": "2010-03-12 10:02:28.000",
+    "name": null,
+    "definition": null,
+    "code": "WAS"
+  },
+  {
+    "id": 126,
+    "label": "Western Scheldt",
+    "alternative_label": null,
+    "date_modified": "2010-05-24 17:27:34.000",
+    "name": null,
+    "definition": null,
+    "code": "WSC"
+  },
+  {
+    "id": 127,
+    "label": "Unknown",
+    "alternative_label": null,
+    "date_modified": "2008-06-23 01:39:51.000",
+    "name": null,
+    "definition": null,
+    "code": "ZZ"
+  }
+]

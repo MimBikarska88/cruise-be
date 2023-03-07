@@ -1,0 +1,3989 @@
+[
+  {
+    "id": 1,
+    "code": "A01X",
+    "name": null,
+    "label": "Sedimentation flux of alkenones and alkenoates in the water column",
+    "alternative_label": "WC_SedFluxAlkeno",
+    "definition": "Parameters quantifying the rate of alkenones (unsaturated aliphatic ketones) and alkenoates (carboxylic acid esters) sinking as particles through any body of water.",
+    "modified_date": "2012-03-01 16:14:45.000"
+  },
+  {
+    "id": 2,
+    "code": "A999",
+    "name": null,
+    "label": "Microzooplankton taxonomy-related biosurface area per unit volume of the water column",
+    "alternative_label": "WC_TaxMicrozooSurfArea",
+    "definition": "Microzooplankton surface area per unit volume of the water column parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 3,
+    "code": "AAFX",
+    "name": null,
+    "label": "Sedimentation flux of amino acids and associated compounds in water bodies",
+    "alternative_label": "WaterSedFlux_AminoAcidCmpd",
+    "definition": "Parameters quantifying the amount of organic compounds containing both a carboxyl group and an amino group (including compounds such as salts and esters) sinking vertically as particles through a unit area of a water body in units time.",
+    "modified_date": "2011-09-08 11:07:59.000"
+  },
+  {
+    "id": 4,
+    "code": "AALK",
+    "name": null,
+    "label": "Concentration of alkanes in the atmosphere",
+    "alternative_label": "At_Alkane",
+    "definition": "Alkane concentrations in all phases of the atmosphere",
+    "modified_date": "2004-06-24 18:10:00.000"
+  },
+  {
+    "id": 5,
+    "code": "AAMN",
+    "name": null,
+    "label": "Concentration of nitrogen species in the atmosphere",
+    "alternative_label": "Atm_Nspecies",
+    "definition": "Concentrations of both organic (eg amines) and inorganic (eg ammonia and oxides of nitrogen) nitrogen species in all phases of the atmosphere",
+    "modified_date": "2004-08-18 10:12:08.000"
+  },
+  {
+    "id": 6,
+    "code": "AASD",
+    "name": null,
+    "label": "Concentration of alkenones and alkenoates in sediment",
+    "alternative_label": "SedAlkenoneAlkenoate",
+    "definition": "Parameters quantifying the amount of alkenones (unsaturated aliphatic ketones) and alkenoates (carboxylic acid esters) in any unconsolidated sediment including fluff.",
+    "modified_date": "2012-03-02 16:22:50.000"
+  },
+  {
+    "id": 7,
+    "code": "AATX",
+    "name": null,
+    "label": "Phytoplankton taxonomic surface area in water bodies",
+    "alternative_label": "PhytoTaxaAreaWater",
+    "definition": "Any parameterisation of cell surface area of free-floating autotrophic biological entities designated by taxonomic names (e.g. species, genus, family) in any body of fresh or salt water.",
+    "modified_date": "2010-10-21 14:52:21.000"
+  },
+  {
+    "id": 8,
+    "code": "AAWC",
+    "name": null,
+    "label": "Concentration of alkanamines (amines) in the water column",
+    "alternative_label": "WC_Amines",
+    "definition": "Alkanamine concentrations in all phases of the water column",
+    "modified_date": "2004-08-13 10:38:00.000"
+  },
+  {
+    "id": 9,
+    "code": "ABAG",
+    "name": null,
+    "label": "Suspended particulate material aggregates",
+    "alternative_label": "SPM_aggreg",
+    "definition": "Parameters relating to the abundance, size and morphology of particle aggregates in the SPM",
+    "modified_date": "2004-08-17 15:50:43.000"
+  },
+  {
+    "id": 10,
+    "code": "ACFL",
+    "name": null,
+    "label": "Quality control flags",
+    "alternative_label": "QC_Flag",
+    "definition": "",
+    "modified_date": "2004-08-20 11:36:40.000"
+  },
+  {
+    "id": 11,
+    "code": "ACNT",
+    "name": null,
+    "label": "Macroalgae and seagrass taxonomy-related counts",
+    "alternative_label": "Macroalgae+Seagrass_taxa_count",
+    "definition": "Macroalgae (Rhodophycota, Chromphycota, Chlorophycota) and seagrass (Charophyta, Anthophyta) count parameters presented at the level of taxa at any level from sub-species upwards. Count includes presence/absence indicators.",
+    "modified_date": "2007-01-08 16:45:03.000"
+  },
+  {
+    "id": 12,
+    "code": "ACO2",
+    "name": null,
+    "label": "Carbon monoxide and dioxide concentrations in the atmosphere",
+    "alternative_label": "Atm_pCO2",
+    "definition": "CO and CO2 concentration parameters in any phase of the atmosphere (but usuall the gaseous phase). Includes pCO2.",
+    "modified_date": "2006-06-05 01:17:29.000"
+  },
+  {
+    "id": 13,
+    "code": "ACSR",
+    "name": null,
+    "label": "Active seismic refraction",
+    "alternative_label": "ActSeisRefrac",
+    "definition": "Parameters quantifying the magnitude of earth movements resulting from artificial sources (such as explosions) far away from the measurement site.",
+    "modified_date": "2010-02-21 17:24:30.000"
+  },
+  {
+    "id": 14,
+    "code": "ACYC",
+    "name": null,
+    "label": "Reference numbers",
+    "alternative_label": "Refno",
+    "definition": "Data record, event, sample or measurement reference numbers",
+    "modified_date": "2004-08-20 12:00:40.000"
+  },
+  {
+    "id": 15,
+    "code": "ADUN",
+    "name": null,
+    "label": "Administrative units",
+    "alternative_label": "AdminUnit",
+    "definition": "Parameters (including geometries, labels and categorizations) relating to areas where authorities have and-or excercise specific rights or obligations.",
+    "modified_date": "2012-07-17 08:51:20.000"
+  },
+  {
+    "id": 16,
+    "code": "AEYN",
+    "name": null,
+    "label": "Concentration of alkenes and alkynes in the atmosphere",
+    "alternative_label": "Atm_Alkene+yne",
+    "definition": "Alkene and alkyne concentrations in all phases of the atmosphere",
+    "modified_date": "2004-07-30 15:35:00.000"
+  },
+  {
+    "id": 17,
+    "code": "AHGT",
+    "name": null,
+    "label": "Vertical spatial coordinates",
+    "alternative_label": "Vert_spac_coord",
+    "definition": "All vertical spatial parameters including depth, height and pressure when used as an independent variable.",
+    "modified_date": "2004-03-25 16:36:18.000"
+  },
+  {
+    "id": 18,
+    "code": "ALAT",
+    "name": null,
+    "label": "Horizontal spatial co-ordinates",
+    "alternative_label": "Horiz_spat_coord",
+    "definition": "All forms of horizontal spatial coordinates such as lat/lon and grid references",
+    "modified_date": "2004-03-25 16:18:08.000"
+  },
+  {
+    "id": 19,
+    "code": "ALKY",
+    "name": null,
+    "label": "Alkalinity, acidity and pH of the water column",
+    "alternative_label": "WC_Alk+Ac+pH",
+    "definition": "Parameters quantifying the hydrogen ion concentration in water bodies",
+    "modified_date": "2008-08-15 11:11:46.000"
+  },
+  {
+    "id": 20,
+    "code": "AMON",
+    "name": null,
+    "label": "Ammonium and ammonia concentration parameters in water bodies",
+    "alternative_label": "WC_NH4",
+    "definition": "Ammonium and ammonia concentration parameters (including statistical parameters such as standard deviation) in any body of fresh or salt water.",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 21,
+    "code": "AMOX",
+    "name": null,
+    "label": "Nitrification and denitrification rates in water bodies",
+    "alternative_label": "WC_Nitrif_Denitr",
+    "definition": "Parameters quantifying rates associated with nitrification (oxidation of reduced nitrogen such as ammonium) and denitrification (conversion of nitrate into gaseous compounds such as nitric oxide, nitrous oxide and molecular nitrogen) processes in the water column of any body of fresh or salt water.",
+    "modified_date": "2022-01-29 00:35:25.000"
+  },
+  {
+    "id": 22,
+    "code": "AMUP",
+    "name": null,
+    "label": "Regenerated production in water bodies",
+    "alternative_label": "Reg_prod",
+    "definition": "Parameters quantifying the uptake rate of nitrogen from excretion products (ammonium and urea) by flora and fauna living in any body of salt or fresh water",
+    "modified_date": "2009-11-15 16:13:39.000"
+  },
+  {
+    "id": 23,
+    "code": "AORG",
+    "name": null,
+    "label": "Concentration of organic matter in the atmosphere",
+    "alternative_label": "Atm_Organics",
+    "definition": "Parameters quantifying uncategorised organic substance concentrations in atmospheric, generally aerosol, samples such as organic matter and DOC.",
+    "modified_date": "2008-03-05 08:35:42.000"
+  },
+  {
+    "id": 24,
+    "code": "APDA",
+    "name": null,
+    "label": "Horizontal platform movement",
+    "alternative_label": "Horiz_Plat_Vel",
+    "definition": "All parameters relating to horizontal platform travel, including distance run",
+    "modified_date": "2004-08-20 12:05:57.000"
+  },
+  {
+    "id": 25,
+    "code": "APZA",
+    "name": null,
+    "label": "Vertical platform movement",
+    "alternative_label": "VertPlatVelocity",
+    "definition": "Parameters quantifying the upward and downward motion of objects mounting sensors or collecting samples.",
+    "modified_date": "2008-12-09 11:15:07.000"
+  },
+  {
+    "id": 26,
+    "code": "AQYN",
+    "name": null,
+    "label": "Concentration of alkenes and alkynes in the water column",
+    "alternative_label": "WC_Alkene+yne",
+    "definition": "Alkene and alkyne concentrations in all phases of the water column",
+    "modified_date": "2004-07-30 15:35:00.000"
+  },
+  {
+    "id": 27,
+    "code": "ARAD",
+    "name": null,
+    "label": "Radioactivity in the atmosphere",
+    "alternative_label": "AtmosRad",
+    "definition": "All parameters associated with radioactivity in the atmosphere, including radiation counts, isotope activities and activity ratios.",
+    "modified_date": "2017-08-09 14:49:17.000"
+  },
+  {
+    "id": 28,
+    "code": "ASAM",
+    "name": null,
+    "label": "Acoustic backscatter in the water column",
+    "alternative_label": "Acc_bksctr",
+    "definition": "Includes all parameters covering the strength of acoustic signal return, including absolute measurements of returning signal strength as well as parameters expressed as backscatter (the proportion of transmitted signal returned)",
+    "modified_date": "2004-06-28 17:32:47.000"
+  },
+  {
+    "id": 29,
+    "code": "ASLV",
+    "name": null,
+    "label": "Sea level",
+    "alternative_label": "Sea_Level",
+    "definition": "Measurements and predictions of the displacement of the water column surface from a fixed, stable reference",
+    "modified_date": "2007-06-19 12:32:16.000"
+  },
+  {
+    "id": 30,
+    "code": "ATDP",
+    "name": null,
+    "label": "Atmospheric deposition rates",
+    "alternative_label": "At_Dep_Rate",
+    "definition": "Fluxes of chemical species from the atmosphere to sea or land surface including precipitation and aerosol deposition but excluding fluxes due to exchange of gases",
+    "modified_date": "2006-07-07 01:36:43.000"
+  },
+  {
+    "id": 31,
+    "code": "ATEM",
+    "name": null,
+    "label": "Atmospheric emissions",
+    "alternative_label": "AtmosEmiss",
+    "definition": "Parameters quantifying and describing the release of substances into the atmosphere as a result of human activity",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 32,
+    "code": "ATPC",
+    "name": null,
+    "label": "Atmospheric particulates",
+    "alternative_label": "At_Part",
+    "definition": "Parameters quantifying and categorising the particulate phases (solids and aerosols) of the atmosphere, excluding chemical composition",
+    "modified_date": "2006-05-26 14:26:07.000"
+  },
+  {
+    "id": 33,
+    "code": "ATPX",
+    "name": null,
+    "label": "Concentration of adenylates in the water column",
+    "alternative_label": "Aden_WC",
+    "definition": "Concentrations of adenylates (ADP, ATP etc) in all phases of the water column",
+    "modified_date": "2019-06-13 09:54:58.000"
+  },
+  {
+    "id": 34,
+    "code": "ATTN",
+    "name": null,
+    "label": "Transmittance and attenuance of the water column",
+    "alternative_label": "WC_Trans+Attn",
+    "definition": "Parameters relating to the rate of electromagnetic radiation intensity decrease as it travels through the water column",
+    "modified_date": "2007-11-21 16:25:20.000"
+  },
+  {
+    "id": 35,
+    "code": "ATVS",
+    "name": null,
+    "label": "Atmospheric visibility and transparency",
+    "alternative_label": "AtmosVis",
+    "definition": "Parameters relating to atmospheric clarity, such as optical transmittance/attenuance, and resultant visibility",
+    "modified_date": "2006-05-26 10:57:58.000"
+  },
+  {
+    "id": 36,
+    "code": "AXFX",
+    "name": null,
+    "label": "Sedimentation flux of pigments in the water column",
+    "alternative_label": "Pig_flux",
+    "definition": "",
+    "modified_date": "2004-07-29 17:41:40.000"
+  },
+  {
+    "id": 37,
+    "code": "AYMD",
+    "name": null,
+    "label": "Date and time",
+    "alternative_label": "Date + Time",
+    "definition": "All date and time parameters",
+    "modified_date": "2004-03-25 16:28:17.000"
+  },
+  {
+    "id": 38,
+    "code": "BABI",
+    "name": null,
+    "label": "Bacteria in biota",
+    "alternative_label": "Bact_Biota",
+    "definition": "Parameters relating to the abundance and nature of bacteria (Kingdom Monera) infecting other biota.",
+    "modified_date": "2008-01-30 07:53:20.000"
+  },
+  {
+    "id": 39,
+    "code": "BATC",
+    "name": null,
+    "label": "Bacteria taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "WC_TaxBacteriaCarbBiomass",
+    "definition": "Bacteria carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.  Bacteria are defined as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes cyanobacteria.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 40,
+    "code": "BATT",
+    "name": null,
+    "label": "Bacteria environmental parameters",
+    "alternative_label": "BactEnvironParm",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 41,
+    "code": "BATX",
+    "name": null,
+    "label": "Bacteria taxonomic abundance in water bodies",
+    "alternative_label": "BactTaxaAbundWater",
+    "definition": "Any enumeration of bacteria (Kingdom Monera so includes cyanobacteria) designated by taxonomic names (e.g. species, genus, family) in any body of fresh or salt water.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 42,
+    "code": "BAUC",
+    "name": null,
+    "label": "Bacteria taxonomic abundance in sediment",
+    "alternative_label": "BactTaxaAbundSed",
+    "definition": "Any enumeration of bacteria (Kingdom Monera so includes cyanobacteria) designated by taxonomic names (e.g. species, genus, family) in any soil or sediment.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 43,
+    "code": "BCAH",
+    "name": null,
+    "label": "Concentration of polycyclic aromatic hydrocarbons (PAHs) in biota",
+    "alternative_label": "Biota_PAH",
+    "definition": "PAH concentrations in either whole organisms or their constituent parts",
+    "modified_date": "2004-04-30 10:21:00.000"
+  },
+  {
+    "id": 44,
+    "code": "BCMT",
+    "name": null,
+    "label": "Metal concentrations in biota",
+    "alternative_label": "Met_Biota",
+    "definition": "Metal concentrations in either whole organisms or their constituent parts.",
+    "modified_date": "2016-10-04 15:27:37.000"
+  },
+  {
+    "id": 45,
+    "code": "BCOC",
+    "name": null,
+    "label": "Concentration of other organic contaminants in biota",
+    "alternative_label": "Biota_Orgcontam",
+    "definition": "Concentration parameters for carbon compounds regarded as environmentally harmful in either whole organisms or their constituent parts that are not included in other categories",
+    "modified_date": "2010-01-27 11:43:34.000"
+  },
+  {
+    "id": 46,
+    "code": "BCOS",
+    "name": null,
+    "label": "Concentration of other substances in biota",
+    "alternative_label": "Biota_Other_Subst",
+    "definition": "'Other'  (than metals or organic contaminants) substance concentrations in either whole organisms or their constituent parts.  This is a 'bucket' grouping that may be reclassified as the dictionary developes.",
+    "modified_date": "2004-04-30 10:20:00.000"
+  },
+  {
+    "id": 47,
+    "code": "BCPB",
+    "name": null,
+    "label": "Concentration of polychlorobiphenyls (PCBs) in biota",
+    "alternative_label": "Biota_PCB",
+    "definition": "PCB concentrations in either whole organisms or their constituent parts",
+    "modified_date": "2004-04-30 10:20:00.000"
+  },
+  {
+    "id": 48,
+    "code": "BDRV",
+    "name": null,
+    "label": "Biodiversity indices",
+    "alternative_label": "Biodiversity",
+    "definition": "Parameters describing the variety of entity types encountered in a population of living organisms",
+    "modified_date": "2011-07-26 09:59:48.000"
+  },
+  {
+    "id": 49,
+    "code": "BDWC",
+    "name": null,
+    "label": "Bacteria taxonomy-related ash-free dry weight biomass in sediment",
+    "alternative_label": "Sed_TaxBacteriaAFDW",
+    "definition": "Bacteria ash-free dry weight biomass in sediment parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  The taxa may be at any taxonomic level from sub-species upwards.  Bacteria are defined as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes cyanobacteria.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 50,
+    "code": "BEPP",
+    "name": null,
+    "label": "Benthic primary production",
+    "alternative_label": "Ben_PrimaryProd",
+    "definition": "Parameters associated with the quantification of primary production by plants living on (e.g. corals, seaweed and seagrass) or in (e.g. benthic diatoms) the seabed.  Primary production is defined as the fixation of carbon dioxide into either organic or inorganic carbon by living entities and so includes photosynthesis and calcification.",
+    "modified_date": "2015-02-03 10:19:46.000"
+  },
+  {
+    "id": 51,
+    "code": "BEST",
+    "name": null,
+    "label": "Sediment resuspension",
+    "alternative_label": "Sed_resus",
+    "definition": "Parameters quantifying the critera for and extent of sediment resuspension",
+    "modified_date": "2004-08-17 14:57:45.000"
+  },
+  {
+    "id": 52,
+    "code": "BLEN",
+    "name": null,
+    "label": "Zooplankton and zoobenthos morphological parameters",
+    "alternative_label": "Animal_morph",
+    "definition": "Morphological parameters of zooplankton and zoobenthos (essentially any animal except for insects, earthworms or fish), such as size, shape and weight.  Benthic and planktonic animals have not been seggregated because there is a degree of overlap (eg shrimps).",
+    "modified_date": "2006-09-29 18:06:50.000"
+  },
+  {
+    "id": 53,
+    "code": "BLIT",
+    "name": null,
+    "label": "Beach litter abundance",
+    "alternative_label": "BeachLitter",
+    "definition": "Parameters describing the abundance and nature of debris released on coastlines.",
+    "modified_date": "2018-09-06 12:45:25.000"
+  },
+  {
+    "id": 54,
+    "code": "BLUM",
+    "name": null,
+    "label": "Bioluminescence parameters",
+    "alternative_label": "Biolum",
+    "definition": "Parameters describing the nature and intensity of light generated by biological activity in the water column.",
+    "modified_date": "2007-09-24 17:17:57.000"
+  },
+  {
+    "id": 55,
+    "code": "BNTC",
+    "name": null,
+    "label": "Bacteria non taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "WC_NontaxBacteriaCarbBiomass",
+    "definition": "Basically any bacteria carbon biomass parameters that aren't included in parameter group BATC because they cannot be mapped to specific taxa in a standard taxonomy registry such as WoRMS or ITIS.  Bacteria are defined as Kingdom Monera, which includes cyanobacteria.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 56,
+    "code": "BNTX",
+    "name": null,
+    "label": "Bacteria generic abundance in water bodies",
+    "alternative_label": "BactGenAbundWater",
+    "definition": "Any enumeration of bacteria (Kingdom Monera so includes cyanobacteria) designated by terms other than taxonomic names (e.g. total) in any body of fresh or salt water.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 57,
+    "code": "BNUC",
+    "name": null,
+    "label": "Bacteria generic abundance in sediment",
+    "alternative_label": "BactGenAbundSed",
+    "definition": "Any enumeration of bacteria (Kingdom Monera so includes cyanobacteria) designated by terms other than taxonomic names (e.g. total) in any soil or sediment.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 58,
+    "code": "BPBP",
+    "name": null,
+    "label": "Bacteria non taxonomy-related biomass expressed as protein per unit volume of the water column",
+    "alternative_label": "BactPopBiomProt",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 59,
+    "code": "BPRP",
+    "name": null,
+    "label": "SeaDataNet biological format biotic parameters",
+    "alternative_label": "SDN_BioFormatCodes",
+    "definition": "Parameters that quantify any attribute of a biological entity specified elsewhere in the data model and therefore do not map to the existing biologically classified P02 categories. This concept is used as a temporary grouping of parameter codes created for the SeaDataNet biological standard format.",
+    "modified_date": "2017-08-11 12:06:28.000"
+  },
+  {
+    "id": 60,
+    "code": "BRAD",
+    "name": null,
+    "label": "Radioactivity in biota",
+    "alternative_label": "Biota_RadAct",
+    "definition": "All parameters associated with radioactivity in either whole organisms or their constituent parts",
+    "modified_date": "2007-02-26 08:05:24.000"
+  },
+  {
+    "id": 61,
+    "code": "BRDA",
+    "name": null,
+    "label": "Bird counts",
+    "alternative_label": "Bird_count",
+    "definition": "Parameters quantifying the number of birds (Class Aves) in a survey but not expressed per unit area. Includes presence/absence indicators.",
+    "modified_date": "2014-03-26 09:14:08.000"
+  },
+  {
+    "id": 62,
+    "code": "BRDD",
+    "name": null,
+    "label": "Bird taxonomy-related abundance per unit area of surface",
+    "alternative_label": "Bird_taxa_abund",
+    "definition": "Bird (Class Aves) abundance per unit area (of land or sea) presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 63,
+    "code": "CAKN",
+    "name": null,
+    "label": "Concentration of alkenones and alkenoates in the water column",
+    "alternative_label": "Akenone+alkenoate_WC",
+    "definition": "Concentrations of alkenones (unsaturated aliphatic ketones) and alkenoates (carboxylic acid esters) in all phases of the water column.",
+    "modified_date": "2012-03-01 16:12:48.000"
+  },
+  {
+    "id": 64,
+    "code": "CAPH",
+    "name": null,
+    "label": "Air pressure",
+    "alternative_label": "Air_Press",
+    "definition": "Measurements of air pressure as the dependent variable (ie excluding air pressure measured to specify the z co-ordinate of a balloon or sonde), including derived parameters such as tendency (rate of change) and related parameters such as air density.",
+    "modified_date": "2007-02-23 15:09:47.000"
+  },
+  {
+    "id": 65,
+    "code": "CARO",
+    "name": null,
+    "label": "Carotenoid and flavenoid pigment concentrations in water bodies",
+    "alternative_label": "WC_CarotFlavPig",
+    "definition": "",
+    "modified_date": "2015-09-08 10:02:34.000"
+  },
+  {
+    "id": 66,
+    "code": "CARS",
+    "name": null,
+    "label": "Carotenoid pigment concentrations in sediment",
+    "alternative_label": "Sed_CarotPig",
+    "definition": "Sediment includes anything collected by a grab or corer, including the fluff layer from the top of the consolidated sediment",
+    "modified_date": "2004-07-07 17:05:00.000"
+  },
+  {
+    "id": 67,
+    "code": "CASD",
+    "name": null,
+    "label": "Concentration of carbohydrates, phenols, alkanols (alcohols), ethers, aldehydes and ketones in sediment",
+    "alternative_label": "CarbPhenolAlkanolEtherAldKetSed",
+    "definition": "Concentrations of carbohydrates, phenols, alkanols (alcohols), ethers,aldehydes and simple (non-alkenone) ketones in unlithified sediment (material collected by a corer including fluff).",
+    "modified_date": "2012-03-01 16:21:17.000"
+  },
+  {
+    "id": 68,
+    "code": "CATX",
+    "name": null,
+    "label": "Phytoplankton taxonomic biomass in water bodies",
+    "alternative_label": "PhytoTaxaBiomWater",
+    "definition": "Any parameterisation of biomass (e.g. wet weight, dry weight, carbon, nitrogen etc.) of free-floating autotrophic biological entities identified by their taxonomic names (e.g. family, genus, species) in any body of fresh or salt water.",
+    "modified_date": "2010-10-21 14:41:28.000"
+  },
+  {
+    "id": 69,
+    "code": "CBCC",
+    "name": null,
+    "label": "Bacteria morphology and physiology",
+    "alternative_label": "Bacteria_morph+physio",
+    "definition": "Parameters describing the size, shape or physiological activity of bacteria, defined as Kingdom Monera (includes cyanobacteria).  Includes parameters both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2004-04-14 12:56:10.000"
+  },
+  {
+    "id": 70,
+    "code": "CBFX",
+    "name": null,
+    "label": "Sedimentation flux of carbohydates in the water column",
+    "alternative_label": "Carb_flux",
+    "definition": "",
+    "modified_date": "2004-10-22 01:10:00.000"
+  },
+  {
+    "id": 71,
+    "code": "CBSD",
+    "name": null,
+    "label": "Carbon concentrations in sediment",
+    "alternative_label": "Sed_Carb",
+    "definition": "Concentrations of total, organic and inorganic carbon per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.",
+    "modified_date": "2006-06-13 10:21:23.000"
+  },
+  {
+    "id": 72,
+    "code": "CBSP",
+    "name": null,
+    "label": "Carbon concentrations in suspended particulate material",
+    "alternative_label": "SPM_C",
+    "definition": "Concentrations of total, organic and inorganic carbon per unit weight of suspended particulate material collected by water column filtration, centrifugation or sediment trapping.",
+    "modified_date": "2006-05-26 15:55:39.000"
+  },
+  {
+    "id": 73,
+    "code": "CCPW",
+    "name": null,
+    "label": "Carbonate chemistry in sediment pore waters",
+    "alternative_label": "SedPoreWat_CarbChem",
+    "definition": "Carbonate system parameters (DIC/TCO2, pH, alkalinity, pCO2) in sediment pore waters",
+    "modified_date": "2016-06-02 16:14:26.000"
+  },
+  {
+    "id": 74,
+    "code": "CD10",
+    "name": null,
+    "label": "Sediment lipid concentrations",
+    "alternative_label": "Sed_Lipids",
+    "definition": "Lipids are defined as small water-insoluble biomolecules including fats, fatty acids, esters, sterols, isoprenoid compounds, etc..  Sediment is defined as material collected by a corer (including fluff).",
+    "modified_date": "2012-03-01 16:10:50.000"
+  },
+  {
+    "id": 75,
+    "code": "CDRU",
+    "name": null,
+    "label": "Metal uptake rates in the water column",
+    "alternative_label": "WC_MetalUptake",
+    "definition": "Parameters relating to the uptake rates of metals from the dissolved phase into the particulate phase",
+    "modified_date": "2004-07-29 11:47:18.000"
+  },
+  {
+    "id": 76,
+    "code": "CDTA",
+    "name": null,
+    "label": "Air temperature",
+    "alternative_label": "Air_temp",
+    "definition": "Parameters quantifying the degree of hotness of the atmosphere.  Specifically excludes indirect measurements of other parameters such as wet bulb temperatures.",
+    "modified_date": "2008-11-04 13:00:56.000"
+  },
+  {
+    "id": 77,
+    "code": "CEBH",
+    "name": null,
+    "label": "Cetacean behaviour",
+    "alternative_label": "Cetac_Behav",
+    "definition": "Parameters describing the actions or reactions of cetaceans (Order Cetacea), usually in response to the environment. Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2008-01-30 07:53:20.000"
+  },
+  {
+    "id": 78,
+    "code": "CEMO",
+    "name": null,
+    "label": "Cetacean mortality",
+    "alternative_label": "Cetac_Mort",
+    "definition": "Parameters describing the causes and rate of mortality in cetaceans (Order Cetacea). Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2008-02-04 15:04:16.000"
+  },
+  {
+    "id": 79,
+    "code": "CEMP",
+    "name": null,
+    "label": "Cetacean morphology and physiology",
+    "alternative_label": "Cetac_Morph_Phys",
+    "definition": "Parameters describing the size, shape or physiological activity including disease and parasite infection status of cetaceans (Order Cetacea). Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2008-01-30 07:53:20.000"
+  },
+  {
+    "id": 80,
+    "code": "CETA",
+    "name": null,
+    "label": "Cetacean abundance",
+    "alternative_label": "Cetac_abund",
+    "definition": "Parameters that specify the number of specified members of Order Cetacea present at a particular time and location, including presence/absence indicators.",
+    "modified_date": "2010-06-16 16:28:49.000"
+  },
+  {
+    "id": 81,
+    "code": "CFTM",
+    "name": null,
+    "label": "Contaminant fluxes between the terrestrial and marine environment",
+    "alternative_label": "ContamFlux",
+    "definition": "Parameters quanitifying the transfer of substances considered harmful from land to sea, including river discharge rates of contaminant species (but not freshwater discharge rates).",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 82,
+    "code": "CHEX",
+    "name": null,
+    "label": "Cloud cover height and extent",
+    "alternative_label": "Atm_CloudCover",
+    "definition": "Parameters describing the horizontal and vertical extent of cloud cover",
+    "modified_date": "2004-08-20 12:25:47.000"
+  },
+  {
+    "id": 83,
+    "code": "CHUM",
+    "name": null,
+    "label": "Atmospheric humidity",
+    "alternative_label": "Humidity",
+    "definition": "Parameters that either quantify the water content of moist air or are specifically used in its determination (eg wet bulb air temperature)",
+    "modified_date": "2004-08-18 10:51:46.000"
+  },
+  {
+    "id": 84,
+    "code": "CING",
+    "name": null,
+    "label": "Particulate inorganic carbon concentrations in the water column",
+    "alternative_label": "WC_PartInorgC",
+    "definition": "Concentrations of inorganic carbon in the particulate phase of the water column as extracted by a fitration technique.  This is the particle-bound concentration per unit volume of the water column. Consequently, it is both a function of the SPM concentration in the water column and the concentration of inorganic carbon per unit weight of the SPM.",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 85,
+    "code": "CLAY",
+    "name": null,
+    "label": "Mineralogical composition",
+    "alternative_label": "Min_comp",
+    "definition": "Parameters describing or quantifying the mineralogical composition of rocks and unlithified sediments.",
+    "modified_date": "2010-10-01 10:16:22.000"
+  },
+  {
+    "id": 86,
+    "code": "CLTY",
+    "name": null,
+    "label": "Cloud type",
+    "alternative_label": "Atm_CloudType",
+    "definition": "Parameters that classify cloud cover into types such as cumulus and cirrus.",
+    "modified_date": "2009-10-12 16:31:31.000"
+  },
+  {
+    "id": 87,
+    "code": "CLXX",
+    "name": null,
+    "label": "Concentration of inorganic halogens in sediment pore waters",
+    "alternative_label": "SedPoreWater_Halogen",
+    "definition": "Concentrations of halogens as elements or their inorganic compounds in all phases of sediment pore water",
+    "modified_date": "2010-07-02 10:42:02.000"
+  },
+  {
+    "id": 88,
+    "code": "CMFL",
+    "name": null,
+    "label": "Variable fluorescence parameters",
+    "alternative_label": "Var_fluor",
+    "definition": "Parameters measured by variable fluorescence instruments such as pump and probe and fast repetition rate fluorometers",
+    "modified_date": "2005-02-03 11:20:50.000"
+  },
+  {
+    "id": 89,
+    "code": "CNDC",
+    "name": null,
+    "label": "Electrical conductivity of the water column",
+    "alternative_label": "WC_Cond",
+    "definition": "Parameters quantifying the flow of electrical current through or the electrical resistance of a body of water at any point between the bed and the atmosphere",
+    "modified_date": "2007-03-02 11:40:14.000"
+  },
+  {
+    "id": 90,
+    "code": "CNTX",
+    "name": null,
+    "label": "Phytoplankton generic biomass in water bodies",
+    "alternative_label": "PhytoGenBiomWater",
+    "definition": "Any parameterisation of biomass (e.g. wet weight, dry weight, carbon, nitrogen etc.) of free-floating autotrophic biological entities designated by terms other than taxonomic names (e.g. microphytoplankton, ciliate, flagellate) in any body of fresh or salt water.",
+    "modified_date": "2010-10-21 14:43:45.000"
+  },
+  {
+    "id": 91,
+    "code": "COAS",
+    "name": null,
+    "label": "Terrestrial mapping",
+    "alternative_label": "Land_map",
+    "definition": "Parameters relating to the mapping of terrestrial features, including coastlines",
+    "modified_date": "2006-05-26 15:47:05.000"
+  },
+  {
+    "id": 92,
+    "code": "COCC",
+    "name": null,
+    "label": "Colloidal organic carbon concentration in the water column",
+    "alternative_label": "Colloid_OrgC",
+    "definition": "Colloidal organic carbon per unit volume of the water column.",
+    "modified_date": "2004-08-02 12:30:00.000"
+  },
+  {
+    "id": 93,
+    "code": "COGE",
+    "name": null,
+    "label": "Coastal geomorphology",
+    "alternative_label": "Coast_Geomorph",
+    "definition": "All parameters associated with coastal landforms such as beaches and dunes including morphology, evolution and associated transport phenomena",
+    "modified_date": "2007-02-26 08:22:53.000"
+  },
+  {
+    "id": 94,
+    "code": "CORG",
+    "name": null,
+    "label": "Particulate total and organic carbon concentrations in the water column",
+    "alternative_label": "WC_POC",
+    "definition": "Concentrations of total and organic carbon in the particulate phase of the water column as extracted by a filtration technique. This is the particle-bound concentration per unit volume of the water column and is both a function of the SPM concentration in the water column and the concentration of carbon per unit weight of SPM.  Total and organic carbon are classed together to circumvent confusion caused by total carbon data sets labelled 'POC' on the assumption that the inorganic carbon fraction is negligible",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 95,
+    "code": "CPCN",
+    "name": null,
+    "label": "Unclassified pigment concentrations in sediment",
+    "alternative_label": "Sed_Pigments",
+    "definition": "Includes all pigments that cannot be explicitly classified as chlorophylls, phaeopigments or carotenoids (usually groups of pigments). Sediment includes anything collected by a grab or corer, including the fluff layer from the top of the consolidated sediment.",
+    "modified_date": "2004-10-22 12:43:33.000"
+  },
+  {
+    "id": 96,
+    "code": "CPRP",
+    "name": null,
+    "label": "Precipitation and evaporation",
+    "alternative_label": "Precip+Evap",
+    "definition": "Parameters relating to all kinds of precipitation (rain, snow, etc.) and water loss from the surface of the Earth",
+    "modified_date": "2006-06-13 15:28:34.000"
+  },
+  {
+    "id": 97,
+    "code": "CPSD",
+    "name": null,
+    "label": "Chlorophyll pigment concentrations in sediment",
+    "alternative_label": "Sed_ChlPigs",
+    "definition": "Includes all variants of chlorophyll.  Sediment includes anything collected by a grab or corer, including the fluff layer from the top of the consolidated sediment",
+    "modified_date": "2004-06-30 14:25:00.000"
+  },
+  {
+    "id": 98,
+    "code": "CPWC",
+    "name": null,
+    "label": "Chlorophyll pigment concentrations in water bodies",
+    "alternative_label": "WC_ChlPigs",
+    "definition": "Includes all variants of chlorophyll expressed in terms of per unit volume, per unit area of any body of fresh or salt water, or as a relative colour index (e.g. PCI). Does not include data expressed per unit mass of SPM.",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 99,
+    "code": "CRYS",
+    "name": null,
+    "label": "Snow and ice mass, thickness and extent",
+    "alternative_label": "SnowIce_Amount",
+    "definition": "Measurements of quantity (mass), thickness and spatial extent of snow and ice",
+    "modified_date": "2011-02-18 11:01:12.000"
+  },
+  {
+    "id": 100,
+    "code": "CSDE",
+    "name": null,
+    "label": "Organic sulphur compound dynamics in the water column",
+    "alternative_label": "WC_OrgSulphDyn",
+    "definition": "Parameters relating to the rates of creation and consumption of organic sulphur compounds (such as DMS and carbonyl sulphide) in the water column",
+    "modified_date": "2004-07-29 11:58:32.000"
+  },
+  {
+    "id": 101,
+    "code": "CSLR",
+    "name": null,
+    "label": "Solar Radiation",
+    "alternative_label": "Sol_Rad",
+    "definition": "Parameters quantifying the irradiance of the sun impinging on the Earth's surface in the visible and infra-red waveband, generally accepted as wavelengths between 300 and 3000 nm",
+    "modified_date": "2008-11-04 13:04:58.000"
+  },
+  {
+    "id": 102,
+    "code": "CXAA",
+    "name": null,
+    "label": "Concentrations of carboxylic acids and carboxylates in the atmosphere",
+    "alternative_label": "AtmosCarboxyl",
+    "definition": "Parameters quantifying the concentration of acids containing a carboxyl (-C(=O)OH) group, their anions or their salts in any phase of the atmosphere",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 103,
+    "code": "CYEU",
+    "name": null,
+    "label": "Plankton biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "WC_PlanktonCarbBiomass",
+    "definition": "Used for plankton carbon biomass parameters where no differentiation between phytoplankton, microzooplankton or zooplankton is possible",
+    "modified_date": "2003-08-04 16:26:48.000"
+  },
+  {
+    "id": 104,
+    "code": "D000",
+    "name": null,
+    "label": "Microphytobenthos abundance",
+    "alternative_label": "Sed_MicroPhytoAbund",
+    "definition": "Any quantification of the number (e.g. count, abundance) of microalgae present on hard substrate or soft sediment at the bottom of any body of fresh or salt water.",
+    "modified_date": "2017-10-17 01:26:20.000"
+  },
+  {
+    "id": 105,
+    "code": "D001",
+    "name": null,
+    "label": "Microphytobenthos biomass",
+    "alternative_label": "Sed_MicroPhytoBiomass",
+    "definition": "Any quantification of the mass (e.g. carbon, nitrogen, weight) of microalgae present on hard substrate or soft sediment at the bottom of any body of fresh or salt water.",
+    "modified_date": "2018-04-04 12:42:45.000"
+  },
+  {
+    "id": 106,
+    "code": "DAAW",
+    "name": null,
+    "label": "Particulate amino acid concentrations in the water column",
+    "alternative_label": "Water_coll_part_AA",
+    "definition": "Parameters quantifying the amount of organic compounds containing both a carboxyl group and an amino group in solids suspended in a body of water.",
+    "modified_date": "2008-12-09 11:09:48.000"
+  },
+  {
+    "id": 107,
+    "code": "DALK",
+    "name": null,
+    "label": "Concentration of alkanes in the water column",
+    "alternative_label": "WC_alkane",
+    "definition": "Alkane concentration parameters (including saturation of gaseous species) in all phases of the water column.  Does not include parameters expressed per unit weight of SPM.",
+    "modified_date": "2004-06-18 16:36:00.000"
+  },
+  {
+    "id": 108,
+    "code": "DBDX",
+    "name": null,
+    "label": "Geological sample density",
+    "alternative_label": "GeoSampDens",
+    "definition": "Parameters that describe the the mass per unit volume of any samples of rock or unlithified sediment.",
+    "modified_date": "2010-11-04 11:16:05.000"
+  },
+  {
+    "id": 109,
+    "code": "DCMX",
+    "name": null,
+    "label": "Other halocarbon concentrations in water bodies",
+    "alternative_label": "Haloc_WC",
+    "definition": "Concentrations of volatile halocarbons (compounds comprising carbon atoms covalently bonded to fluorine, chlorine, bromine or iodine atoms) other than tracers (i.e. freons/chlorofluorocarbons) and contaminants in any body of fresh or salt water.",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 110,
+    "code": "DENS",
+    "name": null,
+    "label": "Other physical and chemical properties of suspended particulate material",
+    "alternative_label": "SPM_Properties",
+    "definition": "Parameters that do not easily fit into any of the other SPM data categories.",
+    "modified_date": "2004-10-26 15:42:51.000"
+  },
+  {
+    "id": 111,
+    "code": "DGPW",
+    "name": null,
+    "label": "Dissolved oxygen parameters for sediments",
+    "alternative_label": "Sed_O2",
+    "definition": "All parameters (including concentration, saturation, turnover and fluxes) for dissolved oxygen in sediment and sediment pore waters.",
+    "modified_date": "2017-02-02 16:31:19.000"
+  },
+  {
+    "id": 112,
+    "code": "DMST",
+    "name": null,
+    "label": "Organosulphur and organoselenium species concentration parameters in water bodies",
+    "alternative_label": "WC_OrgS",
+    "definition": "All organosulphur and organoselenium compound concentration parameters (including saturations for gaseous species) in all phases of any body of fresh or salt water.",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 113,
+    "code": "DOCC",
+    "name": null,
+    "label": "Dissolved organic carbon concentration in the water column",
+    "alternative_label": "DOC",
+    "definition": "DOC per unit volume of the water column.  Note that this includes some parameters that are strictly defined as total carbon, because the water was unfiltered on the assumption that POC was negligible.",
+    "modified_date": "2004-05-19 18:10:00.000"
+  },
+  {
+    "id": 114,
+    "code": "DOCU",
+    "name": null,
+    "label": "Dissolved organic carbon uptake and production in the water column",
+    "alternative_label": "DOC_dyn_WC",
+    "definition": "Any parameter relating to the rate of DOC concentration change in the water column",
+    "modified_date": "2004-08-19 11:46:22.000"
+  },
+  {
+    "id": 115,
+    "code": "DOXY",
+    "name": null,
+    "label": "Dissolved oxygen parameters in the water column",
+    "alternative_label": "WC_O2",
+    "definition": "All dissolved oxygen parameters (including saturation and utilisation) for the water column",
+    "modified_date": "2004-10-22 14:07:05.000"
+  },
+  {
+    "id": 116,
+    "code": "DPEV",
+    "name": null,
+    "label": "Depositional environment",
+    "alternative_label": "Dep_env",
+    "definition": "Parameters characterising the environment in which sediments were deposited either by observation or interpretation of sedimentary rocks and unlithified sediments.",
+    "modified_date": "2010-10-01 10:40:24.000"
+  },
+  {
+    "id": 117,
+    "code": "DSCO",
+    "name": null,
+    "label": "Distribution coefficients in the water column",
+    "alternative_label": "WC_DistCoeff",
+    "definition": "Distribution coefficients of species between the dissolved and particulate phases of the water column",
+    "modified_date": "2004-08-11 16:42:00.000"
+  },
+  {
+    "id": 118,
+    "code": "DVLP",
+    "name": null,
+    "label": "Zooplankton and zoobenthos development stage parameters",
+    "alternative_label": "Animal_devlopment",
+    "definition": "Development stage parameters (such as proportion but excluding abundance or biomass) of zooplankton and zoobenthos. Benthic and planktonic animals have not been seggregated because there is a degree of overlap (eg shrimps).",
+    "modified_date": "2009-07-28 01:23:25.000"
+  },
+  {
+    "id": 119,
+    "code": "ENGP",
+    "name": null,
+    "label": "Engineering parameters",
+    "alternative_label": "Engineer",
+    "definition": "Technical parameters that provide information on how well an instrument or data acquisition system is working",
+    "modified_date": "2005-08-31 10:41:37.000"
+  },
+  {
+    "id": 120,
+    "code": "EPSI",
+    "name": null,
+    "label": "Turbulence in the water column",
+    "alternative_label": "WC_Turbulence",
+    "definition": "Measured parameters expressing turbulence in the water column plus parameters derived from these measurements",
+    "modified_date": "2004-08-16 12:46:33.000"
+  },
+  {
+    "id": 121,
+    "code": "EWSB",
+    "name": null,
+    "label": "Wind strength and direction",
+    "alternative_label": "WindStrenDir",
+    "definition": "Parameters quantifying the extent or direction of atmospheric movement. Obvious examples are wind velocity, windspeed and wind direction, but can also include derived parameters such as force, energy, power and power density.",
+    "modified_date": "2014-05-27 01:10:12.000"
+  },
+  {
+    "id": 122,
+    "code": "EXCO",
+    "name": null,
+    "label": "Light extinction and diffusion coefficients",
+    "alternative_label": "Extco",
+    "definition": "Parameters relating to the extent of light penetration into the water column",
+    "modified_date": "2007-11-21 16:27:57.000"
+  },
+  {
+    "id": 123,
+    "code": "EXCR",
+    "name": null,
+    "label": "Excretion rate parameters in the water column",
+    "alternative_label": "WC_Excretion",
+    "definition": "Includes all parameters relating to all mechanisms of waste release except respiration.",
+    "modified_date": "2004-07-28 17:08:00.000"
+  },
+  {
+    "id": 124,
+    "code": "EXSV",
+    "name": null,
+    "label": "Experiment state variables",
+    "alternative_label": "ExpStateVar",
+    "definition": "Measurements made at a given time of any state variable in a sample that is the subject of an experiment that will change the composition over time, such as the water sample in an incubation experiment.",
+    "modified_date": "2014-10-08 10:56:52.000"
+  },
+  {
+    "id": 125,
+    "code": "EXUV",
+    "name": null,
+    "label": "Biological detritus in the water column suspended particulate material",
+    "alternative_label": "WC_Biodetritus",
+    "definition": "Parameters quantifying and categorising biological detritus (eg exuvia and faecal pellets) in the water column that have been derived from the water column",
+    "modified_date": "2004-08-18 09:41:50.000"
+  },
+  {
+    "id": 126,
+    "code": "F001",
+    "name": null,
+    "label": "Water body lipid concentrations",
+    "alternative_label": "WC_Lipids",
+    "definition": "Lipids are defined as small water-insoluble biomolecules including fats, fatty acids, esters, sterols, isoprenoid compounds, etc..  Water body includes any body of fresh or salt water. As lipids are insoluble in water the concencentrations are associated with the particulate phase.",
+    "modified_date": "2012-03-01 16:10:50.000"
+  },
+  {
+    "id": 127,
+    "code": "FABD",
+    "name": null,
+    "label": "Fauna abundance per unit area of the bed",
+    "alternative_label": "Faun_abuns_bed",
+    "definition": "Any fauna (class Animalia) abundance per unit are of sea, river or lake bed.  Broad group overlapping a number of more specific groups that should be used preferentially, but this group is provided as an alternative to one-to-many mappings.",
+    "modified_date": "2005-09-23 11:46:34.000"
+  },
+  {
+    "id": 128,
+    "code": "FADS",
+    "name": null,
+    "label": "Fish aggregating device usage statistics",
+    "alternative_label": "FAD usage statistics",
+    "definition": "Parameters describing usage of Fish Aggregating Devices (FAD) in fisheries (particularly purse seine tuna fisheries).",
+    "modified_date": "2019-07-26 12:05:38.000"
+  },
+  {
+    "id": 129,
+    "code": "FATM",
+    "name": null,
+    "label": "Fish morphology, age and physiology",
+    "alternative_label": "Fish_MorphAgePhys",
+    "definition": "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes).",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 130,
+    "code": "FATX",
+    "name": null,
+    "label": "Fish abundance in water bodies",
+    "alternative_label": "Fish_abund",
+    "definition": "Parameters that quantify the numbers of fish (Osteichthyes, Agnatha and Chrondrichthyes) at a given location in any body of salt or fresh water.",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 131,
+    "code": "FBAB",
+    "name": null,
+    "label": "Fish taxonomy-related abundance per unit area of the bed",
+    "alternative_label": "Fish_tax_aubund_bed",
+    "definition": "Fish (Osteichthyes, Agnatha and Chondrichthyes) abundance per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 132,
+    "code": "FBAF",
+    "name": null,
+    "label": "Fish taxonomy-related ash-free dry weight biomass per unit area of the bed",
+    "alternative_label": "Fish_tax_afdw_biomass",
+    "definition": "Fish (Osteichthyes, Agnatha and Chondrichthyes) ash-free dry weight biomass per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 133,
+    "code": "FCMW",
+    "name": null,
+    "label": "Flow cytometry parameters in water bodies",
+    "alternative_label": "FCM_water",
+    "definition": "Parameters derived from flow cytometry data analysis of water samples using in situ or bench-top flow cytometers.",
+    "modified_date": "2018-01-11 00:13:10.000"
+  },
+  {
+    "id": 134,
+    "code": "FCNT",
+    "name": null,
+    "label": "Fish taxonomy-related counts",
+    "alternative_label": "Fish_taxa_count",
+    "definition": "Fish (Osteichthyes, Agnatha and Chrondrichthyes) count parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards. Count includes presence/absence indicators.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 135,
+    "code": "FCRT",
+    "name": null,
+    "label": "Zooplankton feeding",
+    "alternative_label": "Zoopl_feeding",
+    "definition": "Parameters quantifying the ingestion of food by zooplankton (mesozooplankton and larger but excluding fish) in terms of identified biota or chemical species and the effects of nutrition on life processes such as physiology and reproduction.",
+    "modified_date": "2007-03-02 11:26:48.000"
+  },
+  {
+    "id": 136,
+    "code": "FCST",
+    "name": null,
+    "label": "Fish and shellfish catch statistics",
+    "alternative_label": "FishCatch",
+    "definition": "Parameters quantifying and describing biota take by fishing activities",
+    "modified_date": "2010-07-30 12:45:06.000"
+  },
+  {
+    "id": 137,
+    "code": "FDMS",
+    "name": null,
+    "label": "Gas fluxes between the water column and the atmosphere",
+    "alternative_label": "WCAt_GasFlux",
+    "definition": "Parameters related to the quantification of fluxes of any gaseous species from water column to atmosphere including parameters characterising closely related processes such as bubble formation in the surface layer.",
+    "modified_date": "2022-05-03 07:36:22.000"
+  },
+  {
+    "id": 138,
+    "code": "FEFF",
+    "name": null,
+    "label": "Fishing effort",
+    "alternative_label": "FishEffort",
+    "definition": "Parameters that quantify or classify the physical or financial resources used in fishing activities",
+    "modified_date": "2014-05-01 01:46:41.000"
+  },
+  {
+    "id": 139,
+    "code": "FIBM",
+    "name": null,
+    "label": "Fish biomass in water bodies",
+    "alternative_label": "FishBiomass",
+    "definition": "Parameters quantifying the mass of fish (Osteichthyes, Agnatha and Chrondrichthyes)in total or by species per unit area or per unit volume in any body of fresh or salt water expressed in any form (e.g. wet weight, dry weight, carbon, nitrogen, etc.).",
+    "modified_date": "2010-05-04 09:19:31.000"
+  },
+  {
+    "id": 140,
+    "code": "FNTM",
+    "name": null,
+    "label": "Fish non taxonomy-related morphology",
+    "alternative_label": "Fish_nontaxa_morph",
+    "definition": "Fish (Osteichthyes, Agnatha and Chrondrichthyes) size and shape parameters not included under FATM.  Most commonly used for the generic term 'fish' that maps to multiple taxa.",
+    "modified_date": "2008-11-19 15:32:58.000"
+  },
+  {
+    "id": 141,
+    "code": "FNTX",
+    "name": null,
+    "label": "Fish non taxonomy-related abundance per unit volume of the water column",
+    "alternative_label": "Fish_nontaxa_abund",
+    "definition": "Fish (Osteichthyes, Agnatha and Chrondrichthyes) abundance per unit volume parameters not included under FATX.  Most commonly used for the generic term 'fish' that maps to multiple taxa.",
+    "modified_date": "2008-11-19 15:32:58.000"
+  },
+  {
+    "id": 142,
+    "code": "FOCA",
+    "name": null,
+    "label": "Seal abundance",
+    "alternative_label": "Seal_Abund",
+    "definition": "Parameters related to the distribution of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae)at a particular time and location, including presence/absence indicators.",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 143,
+    "code": "FPFX",
+    "name": null,
+    "label": "Sedimentation flux of biological detritus in the water column",
+    "alternative_label": "Biodetritus_WCFlux",
+    "definition": "Flux of biological detritus (material derived from the water column such as exuvia and faecal pellets) in the water column",
+    "modified_date": "2004-08-18 01:22:09.000"
+  },
+  {
+    "id": 144,
+    "code": "FPRT",
+    "name": null,
+    "label": "Zooplankton defecation rates in the water column",
+    "alternative_label": "ZooDefRate",
+    "definition": "Faecal pellet production and gut evacuation rates",
+    "modified_date": "2007-03-30 09:16:12.000"
+  },
+  {
+    "id": 145,
+    "code": "FR11",
+    "name": null,
+    "label": "Chlorofluorocarbon concentrations in the water column",
+    "alternative_label": "WC_Freon",
+    "definition": "Concentrations of chlorofluorocarbons (also known as freons or CFCs) in sny body of water",
+    "modified_date": "2009-09-25 15:43:11.000"
+  },
+  {
+    "id": 146,
+    "code": "FREP",
+    "name": null,
+    "label": "Fish reproduction",
+    "alternative_label": "Fish_Rep",
+    "definition": "Parameters that quantify the fecundity, reproductive rates or nature of reproduction in fish (Osteichthyes, Agnatha and Chrondrichthyes).",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 147,
+    "code": "FVLT",
+    "name": null,
+    "label": "Raw fluorometer output",
+    "alternative_label": "RawFluorometerOutput",
+    "definition": "Output as logged from any type fluorometer.",
+    "modified_date": "2004-02-25 09:06:42.000"
+  },
+  {
+    "id": 148,
+    "code": "GERA",
+    "name": null,
+    "label": "Radiation geophysics",
+    "alternative_label": "RadGeophys",
+    "definition": "Parameters quantifying the level of radioactive emissions from in-situ geologic units",
+    "modified_date": "2010-10-22 01:26:30.000"
+  },
+  {
+    "id": 149,
+    "code": "GHDX",
+    "name": null,
+    "label": "Sediment microfossil morphology parameters",
+    "alternative_label": "Sed_FossilMorph",
+    "definition": "Parameters relating to the size, shape and form of microfossils in sediment samples",
+    "modified_date": "2004-08-17 15:08:51.000"
+  },
+  {
+    "id": 150,
+    "code": "GOXP",
+    "name": null,
+    "label": "Oxygen production and respiration in the water column",
+    "alternative_label": "WC_O2Prod+Resp",
+    "definition": "Parameters related to the rates of oxygen production and consumption",
+    "modified_date": "2004-07-29 12:28:06.000"
+  },
+  {
+    "id": 151,
+    "code": "GP001",
+    "name": null,
+    "label": "Pollution events",
+    "alternative_label": "PollutEvnt",
+    "definition": "Parameters quantifying the accidental spillage of liquid or dry pollutants from vessels or marine industries. Parameters may include quantities of pollutant, areas affected and event duration.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 152,
+    "code": "GP004",
+    "name": null,
+    "label": "Bird reproduction",
+    "alternative_label": "BirdRepr",
+    "definition": "Parameters related to the reproduction of birds (Class Aves)",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 153,
+    "code": "GP005",
+    "name": null,
+    "label": "Fish disease and parasites",
+    "alternative_label": "FishDis",
+    "definition": "Parameters related to the infection of Fish (Osteichthyes, Agnatha and Chrondrichthyes) by parasites and disease. Includes visual assesements and analytical data.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 154,
+    "code": "GP010",
+    "name": null,
+    "label": "Bioassay and contaminant biological impact",
+    "alternative_label": "BiolImpact",
+    "definition": "Parameters describing the effects of substances on living organisms.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 155,
+    "code": "GP012",
+    "name": null,
+    "label": "Macroalgae and seagrass infection and damage",
+    "alternative_label": "AlgaeDis",
+    "definition": "Parameters relating to diseases and parasites of macroalgae (Rhodophycota, Chromphycota, Chlorophycota)  and seagrass (Charophyta, Anthophyta) and damage to seagrass beds",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 156,
+    "code": "GP013",
+    "name": null,
+    "label": "Coral infection and damage",
+    "alternative_label": "CoralHealth",
+    "definition": "Parameters related to the health and conservation status of coral species and coralligenous habitats.",
+    "modified_date": "2020-10-17 21:07:47.000"
+  },
+  {
+    "id": 157,
+    "code": "GP018",
+    "name": null,
+    "label": "Cetacean reproduction",
+    "alternative_label": "CetacRepr",
+    "definition": "Parameters related to the reproduction of cetaceans (Order Cetacea)",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 158,
+    "code": "GP025",
+    "name": null,
+    "label": "Seal reproduction",
+    "alternative_label": "SealRepr",
+    "definition": "Parameters related to the reproduction of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).",
+    "modified_date": "2019-05-31 20:13:30.000"
+  },
+  {
+    "id": 159,
+    "code": "GP048",
+    "name": null,
+    "label": "Concentration of polychlorobiphenyls (PCBs) in the atmosphere",
+    "alternative_label": "AtmosPCB",
+    "definition": "Parameters quantifying polychlorobiphenyl (PCB) concentrations in all phases of the atmosphere",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 160,
+    "code": "GP050",
+    "name": null,
+    "label": "Concentration of polycyclic aromatic hydrocarbons (PAHs) in the atmosphere",
+    "alternative_label": "AtmosPAH",
+    "definition": "Parameters quantifying polycyclic aromatic hydrocarbon (PAH) concentrations in all phases of the atmosphere",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 161,
+    "code": "GP067",
+    "name": null,
+    "label": "Reptile disease and parasites",
+    "alternative_label": "ReptDis",
+    "definition": "Parameters relating to diseases and parasites of reptiles (Class Reptilia)",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 162,
+    "code": "GP068",
+    "name": null,
+    "label": "Reptile abundance",
+    "alternative_label": "ReptAbund",
+    "definition": "Parameters related to the abundance of reptiles (Class Reptilia)",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 163,
+    "code": "GP069",
+    "name": null,
+    "label": "Reptile reproduction",
+    "alternative_label": "ReptRepr",
+    "definition": "Parameters related to the reproduction of reptiles (Class Reptilia)",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 164,
+    "code": "GP079",
+    "name": null,
+    "label": "Zooplankton wet weight biomass",
+    "alternative_label": "ZooplWWBiom",
+    "definition": "Zooplankton (mesozooplankton and larger, exclusing fish, mammals, reptiles and insects) biomass determined by weighing unprocessed catch samples.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 165,
+    "code": "GP080",
+    "name": null,
+    "label": "Fishing by-catch",
+    "alternative_label": "ByCatch",
+    "definition": "Parameters quantifying the capture of non-target species during commercial and non-commercial fishing trips",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 166,
+    "code": "GP085",
+    "name": null,
+    "label": "Fish behaviour",
+    "alternative_label": "FishBehav",
+    "definition": "Parameters describing the actions or reactions of fish (Osteichthyes, Agnatha and Chondrichthyes), usually in response to the environment. Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 167,
+    "code": "GP087",
+    "name": null,
+    "label": "Fishery characterisation",
+    "alternative_label": "Fisheries",
+    "definition": "Parameters describing the extent, intensity, timing and method of fisheries",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 168,
+    "code": "GP088",
+    "name": null,
+    "label": "Bird behaviour",
+    "alternative_label": "BirdBehav",
+    "definition": "Parameters describing the actions or reactions of birds (Class Aves), usually in response to the environment. Includes both parameters mapped to taxa and those mapped to non-taxonomic groupings.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 169,
+    "code": "GRAV",
+    "name": null,
+    "label": "Gravity",
+    "alternative_label": "Gravity",
+    "definition": "Parameters relating to the measurement of the Earth's gravity field",
+    "modified_date": "2007-11-21 16:22:51.000"
+  },
+  {
+    "id": 170,
+    "code": "GREF",
+    "name": null,
+    "label": "Bacterial growth",
+    "alternative_label": "Bact_Growth",
+    "definition": "",
+    "modified_date": "2004-08-19 11:33:17.000"
+  },
+  {
+    "id": 171,
+    "code": "GRZO",
+    "name": null,
+    "label": "Zooplankton growth rates",
+    "alternative_label": "ZooplGrowthRate",
+    "definition": "Parameters pertaining to zooplankton growth rates including biochemical proxies such as AARS activity",
+    "modified_date": "2005-08-02 17:38:53.000"
+  },
+  {
+    "id": 172,
+    "code": "GTCH",
+    "name": null,
+    "label": "Geotechnics",
+    "alternative_label": "GeoTech",
+    "definition": "Parameters quantifying the properties of rocks and sediments that are relevance to engineering such as physical strength and load-bearing capacity.  Includes the disciplines of rock mechanics and soil mechanics.",
+    "modified_date": "2010-07-02 11:24:05.000"
+  },
+  {
+    "id": 173,
+    "code": "GWAM",
+    "name": null,
+    "label": "Groundwater amount",
+    "alternative_label": "GwaterAmt",
+    "definition": "Parameters quantifying the amount of groundwater in a given system such as aquifer water level and rate of flow of water through rock formations.",
+    "modified_date": "2009-06-01 12:34:47.000"
+  },
+  {
+    "id": 174,
+    "code": "GWCH",
+    "name": null,
+    "label": "Groundwater chemistry",
+    "alternative_label": "GwaterChem",
+    "definition": "Parameters quantifying the chemistry of terrestrial groundwater bodies such as aquifers and waters percolating through rock formations.",
+    "modified_date": "2009-06-01 12:34:00.000"
+  },
+  {
+    "id": 175,
+    "code": "GWDR",
+    "name": null,
+    "label": "Wave direction",
+    "alternative_label": "WaveDir",
+    "definition": "Direct measurements (including visual estimates) plus statistically derived parameters",
+    "modified_date": "2004-08-16 14:05:46.000"
+  },
+  {
+    "id": 176,
+    "code": "HAAC",
+    "name": null,
+    "label": "Amino acids in sediment",
+    "alternative_label": "Sed_AminoAcids",
+    "definition": "Parameters quantifying the amount of organic compounds containing both a carboxyl group and an amino group in unlithified seabed material.",
+    "modified_date": "2008-12-09 11:10:47.000"
+  },
+  {
+    "id": 177,
+    "code": "HBCH",
+    "name": null,
+    "label": "Habitat characterisation",
+    "alternative_label": "Hab_CHar",
+    "definition": "Parameters specifying the physical or chemical environment of a place where an organism is found.",
+    "modified_date": "2008-02-20 08:35:42.000"
+  },
+  {
+    "id": 178,
+    "code": "HBEX",
+    "name": null,
+    "label": "Habitat extent",
+    "alternative_label": "Hab_Extnt",
+    "definition": "Parameters specifying the vertical and horizontal spatial extent of the ecological character of a place where an organism is found",
+    "modified_date": "2008-02-20 08:34:08.000"
+  },
+  {
+    "id": 179,
+    "code": "HEAD",
+    "name": null,
+    "label": "Platform or instrument orientation",
+    "alternative_label": "PlatOrientation",
+    "definition": "Parameters that describe the displacement of platforms or instruments in space relative to various origins",
+    "modified_date": "2004-08-13 16:29:46.000"
+  },
+  {
+    "id": 180,
+    "code": "HEAV",
+    "name": null,
+    "label": "Wave height estimates",
+    "alternative_label": "WaveHeight",
+    "definition": "Measurements of wave height that are not based on the statistical analysis of wave records, such as heave, surface roughness and visual height estimates",
+    "modified_date": "2006-06-13 16:25:06.000"
+  },
+  {
+    "id": 181,
+    "code": "HEXC",
+    "name": null,
+    "label": "Dissolved noble gas concentration parameters in the water column",
+    "alternative_label": "WC_NobleGas",
+    "definition": "All concentration parameters including saturations and statistics such as standard deviations",
+    "modified_date": "2004-08-11 15:15:49.000"
+  },
+  {
+    "id": 182,
+    "code": "HFLW",
+    "name": null,
+    "label": "Geothermal heat flow",
+    "alternative_label": "HeatFlow",
+    "definition": "Parameters quantifying the  flux of thermal energy within the solid Earth or between the solid Earth and water bodies or atmosphere.",
+    "modified_date": "2010-10-22 01:29:12.000"
+  },
+  {
+    "id": 183,
+    "code": "HFLX",
+    "name": null,
+    "label": "Heat fluxes between the water column and the atmosphere",
+    "alternative_label": "WCAt_HeatFlux",
+    "definition": "Parameters quantifying heat exchange between any body of water and the atmosphere",
+    "modified_date": "2007-02-23 14:49:48.000"
+  },
+  {
+    "id": 184,
+    "code": "HLAT",
+    "name": null,
+    "label": "Concentration of inorganic halogens in the atmosphere",
+    "alternative_label": "Amos_Halogen",
+    "definition": "Concentrations of halogens as elements or their inorganic compounds in all phases of the atmosphere.",
+    "modified_date": "2010-07-02 10:42:02.000"
+  },
+  {
+    "id": 185,
+    "code": "HLDE",
+    "name": null,
+    "label": "Other halocarbon dynamics in water bodies",
+    "alternative_label": "HalocDynam_WC",
+    "definition": "Parameters relating to the rates of creation and consumption of volatile halocarbons (compounds comprising carbon atoms covalently bonded to fluorine, chlorine, bromine or iodine atoms) other than tracers (i.e. freons/chlorofluorocarbons) and contaminants in any body of fresh or salt water.",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 186,
+    "code": "HLWC",
+    "name": null,
+    "label": "Concentration of inorganic halogens in water bodies",
+    "alternative_label": "WC_Halogen",
+    "definition": "Concentrations of halogens as elements or their inorganic compounds in all phases of any body of fresh or salt water",
+    "modified_date": "2010-07-02 10:44:29.000"
+  },
+  {
+    "id": 187,
+    "code": "HMSB",
+    "name": null,
+    "label": "Concentration of organic matter in water bodies",
+    "alternative_label": "Org_Mat_Water",
+    "definition": "Concentration (not 380nm light absorption) parameters for dissolved or total organic matter (includes humics, yellow matter, Gelbstoff) in any body of salt or fresh water.",
+    "modified_date": "2017-09-05 14:50:27.000"
+  },
+  {
+    "id": 188,
+    "code": "HZNV",
+    "name": null,
+    "label": "Hazards to navigation",
+    "alternative_label": "HazNav",
+    "definition": "Parameters describing the location, nature and extent of objects that pose a threat to travel on the water column such as wrecks and obstructions",
+    "modified_date": "2009-04-20 09:27:53.000"
+  },
+  {
+    "id": 189,
+    "code": "IACT",
+    "name": null,
+    "label": "Industrial activity",
+    "alternative_label": "IndAct",
+    "definition": "Parameters that quantify the level of industrial activity or industrial output",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 190,
+    "code": "IAGE",
+    "name": null,
+    "label": "Ice age",
+    "alternative_label": "Age_Ice",
+    "definition": "Measured or stratigraphically estimated age of ice",
+    "modified_date": "2006-02-20 11:55:04.000"
+  },
+  {
+    "id": 191,
+    "code": "IATC",
+    "name": null,
+    "label": "Insecta taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "Insect_txax_C_abund",
+    "definition": "Insecta carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 192,
+    "code": "IATX",
+    "name": null,
+    "label": "Insecta taxonomy-related abundance per unit volume of the water column",
+    "alternative_label": "Insect_taxa_abund",
+    "definition": "Insecta abundance parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 193,
+    "code": "ICEM",
+    "name": null,
+    "label": "Ice motion and related parameters",
+    "alternative_label": "Ice_motion",
+    "definition": "Parameters specifying the speed and direction of sea or land ice and the stresses associated with this motion.",
+    "modified_date": "2007-09-24 17:19:08.000"
+  },
+  {
+    "id": 194,
+    "code": "ICHM",
+    "name": null,
+    "label": "Snow and ice chemistry",
+    "alternative_label": "SnowIce_Chem",
+    "definition": "Parameters related to the chemical composition of any kind of water sample that was frozen solid at the time of sampling or measurement",
+    "modified_date": "2011-02-18 11:02:39.000"
+  },
+  {
+    "id": 195,
+    "code": "IDIS",
+    "name": null,
+    "label": "Industrial discharges",
+    "alternative_label": "IndDisch",
+    "definition": "Parameters that quantify and specify material output into the environment as a result of industrial activity",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 196,
+    "code": "INAP",
+    "name": null,
+    "label": "inapplicable",
+    "alternative_label": "Inapplicable",
+    "definition": "There is no appropriate value.",
+    "modified_date": "2017-05-02 14:09:15.000"
+  },
+  {
+    "id": 197,
+    "code": "INVD",
+    "name": null,
+    "label": "Invasive species monitoring parameters",
+    "alternative_label": "InvasiveSpecies",
+    "definition": "Parameters used to characterize and monitor biological invasion by non-native organisms.",
+    "modified_date": "2016-05-19 17:45:42.000"
+  },
+  {
+    "id": 198,
+    "code": "IPHY",
+    "name": null,
+    "label": "Snow and ice physical properties and characteristics",
+    "alternative_label": "SnowIce_PhysChar",
+    "definition": "Parameters related to physical properties (e.g. colour, density, in-situ temperature) or characteristics (e.g. sea ice type) of any kind of water sample that was in its solid state at the time of sampling or measurement",
+    "modified_date": "2011-02-18 11:04:05.000"
+  },
+  {
+    "id": 199,
+    "code": "IPRX",
+    "name": null,
+    "label": "Inorganic peroxides in water bodies",
+    "alternative_label": "OnorgPerox_Water",
+    "definition": "Parameters related to compounds containing two oxygen atoms joined by a single bond but no carbon atoms in any body of fresh or salt water.",
+    "modified_date": "2011-07-26 10:03:07.000"
+  },
+  {
+    "id": 200,
+    "code": "IRBO",
+    "name": null,
+    "label": "Stable isotopes in biota",
+    "alternative_label": "Iso_Biota",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) from measurements on living (at the time of sampling) organisms or parts thereof.",
+    "modified_date": "2017-08-09 15:02:28.000"
+  },
+  {
+    "id": 201,
+    "code": "IRSP",
+    "name": null,
+    "label": "Stable isotopes in speleothems",
+    "alternative_label": "Iso_Speleo",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) in secondary mineral deposits in caves. This includes stalactites, stalagmites, flowstone, and crystal growths.",
+    "modified_date": "2017-08-09 15:06:33.000"
+  },
+  {
+    "id": 202,
+    "code": "IS4R",
+    "name": null,
+    "label": "Reduction rates in bed sediments",
+    "alternative_label": "Sed_Red_Rt",
+    "definition": "Reduction rates of any species in sediment cores",
+    "modified_date": "2004-08-19 12:44:47.000"
+  },
+  {
+    "id": 203,
+    "code": "ISAT",
+    "name": null,
+    "label": "Stable isotopes in the atmosphere",
+    "alternative_label": "Iso_Atmos",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) in both the gaseous and aerosol phases of the atmosphere.",
+    "modified_date": "2017-08-09 15:01:36.000"
+  },
+  {
+    "id": 204,
+    "code": "IWAB",
+    "name": null,
+    "label": "Insect and earthworm taxonomy-related abundance per unit area of the bed",
+    "alternative_label": "InsWorm_tax_abund_bed",
+    "definition": "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) abundance per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples. This parameter group has been implemented to separate predominantly freshwater taxa from predominantly marine taxa.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 205,
+    "code": "IWDX",
+    "name": null,
+    "label": "Insect and earthworm taxonomy-related ash-free dry weight biomass per unit area of the bed",
+    "alternative_label": "InsWorm_tax_afdw_biomass",
+    "definition": "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) ash-free dry weight biomass per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples. This parameter group has been implemented to separate predominantly freshwater taxa from predominantly marine taxa.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 206,
+    "code": "KRTS",
+    "name": null,
+    "label": "Other wave statistics",
+    "alternative_label": "Oth_WaveStat",
+    "definition": "Statistical parameters derived from wave data expressing wave properties other than height, period and direction",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 207,
+    "code": "LERR",
+    "name": null,
+    "label": "Raw current meter output parameters",
+    "alternative_label": "Raw_CM_Parm",
+    "definition": "Parameters as logged by measuring devices, including raw counts/voltages and ADCP relative velocities",
+    "modified_date": "2004-08-17 01:16:41.000"
+  },
+  {
+    "id": 208,
+    "code": "LGCR",
+    "name": null,
+    "label": "Lagrangian currents and transport rates in the water column",
+    "alternative_label": "Lagran_Currents_WC",
+    "definition": "Parameters expressing the mean nett transport rates within the water column like Lagrangian currents. Note this is an unintentional duplicate of VDFC.",
+    "modified_date": "2007-01-18 16:36:09.000"
+  },
+  {
+    "id": 209,
+    "code": "LIBI",
+    "name": null,
+    "label": "Biota lipid concentrations",
+    "alternative_label": "Lipid_Biota",
+    "definition": "Lipids are defined as small water-insoluble biomolecules including fats, fatty acids, esters, sterols, isoprenoid compounds, etc..  Biota includes any type of sample originating from a living organism.",
+    "modified_date": "2012-03-01 16:10:50.000"
+  },
+  {
+    "id": 210,
+    "code": "LIFX",
+    "name": null,
+    "label": "Sedimentation flux of terrestrially derived material in the water column",
+    "alternative_label": "Terr_Flux",
+    "definition": "Fluxes of terrestrial biological or lithological material",
+    "modified_date": "2004-10-22 16:25:00.000"
+  },
+  {
+    "id": 211,
+    "code": "LITH",
+    "name": null,
+    "label": "Lithology",
+    "alternative_label": "Lithology",
+    "definition": "Parameters describing rocks on the basis of physical characteristics such as colour, structure, mineralogy and grain size",
+    "modified_date": "2008-01-30 07:53:20.000"
+  },
+  {
+    "id": 212,
+    "code": "LITT",
+    "name": null,
+    "label": "Litter abundance and type",
+    "alternative_label": "Litter",
+    "definition": "Parameters describing the abundance and nature of material classed as refuse introduced to the environment by activities of man that are not covered by the more specific P02 terms for micro-litter (UMLS and UMLW), beach litter (BLIT) or seafloor litter (SLIT).",
+    "modified_date": "2018-09-06 12:49:23.000"
+  },
+  {
+    "id": 213,
+    "code": "LRZA",
+    "name": null,
+    "label": "Vertical velocity of the water column (currents)",
+    "alternative_label": "CurrVert",
+    "definition": "Vertical water movement parameters including non-directional speeds",
+    "modified_date": "2004-08-23 18:01:00.000"
+  },
+  {
+    "id": 214,
+    "code": "LSST",
+    "name": null,
+    "label": "Land surface temperature",
+    "alternative_label": "LandTemp",
+    "definition": "Parameters relating to land surface temperature including fire and other hot spot location",
+    "modified_date": "2006-05-26 11:16:40.000"
+  },
+  {
+    "id": 215,
+    "code": "LVEG",
+    "name": null,
+    "label": "Land vegetation",
+    "alternative_label": "LandVeg",
+    "definition": "Parameters relating to land (including marshes and the intertidal zone) vegetation",
+    "modified_date": "2006-05-26 11:18:46.000"
+  },
+  {
+    "id": 216,
+    "code": "LVLT",
+    "name": null,
+    "label": "Raw light meter output",
+    "alternative_label": "RawLightOutput",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 217,
+    "code": "LWET",
+    "name": null,
+    "label": "Terrestrial water content",
+    "alternative_label": "LandWet",
+    "definition": "Parameters relating to the water held by land masses such as soil and vegetation moisture content",
+    "modified_date": "2006-05-26 14:36:40.000"
+  },
+  {
+    "id": 218,
+    "code": "LWRD",
+    "name": null,
+    "label": "Long-wave radiation",
+    "alternative_label": "LWRad",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 219,
+    "code": "MARC",
+    "name": null,
+    "label": "Marine archaeology",
+    "alternative_label": "MarineArch",
+    "definition": "Parameters related to the study of human interaction with the sea through the investigation of associated physical remains, be they vessels, shore side facilities, port-related structures, cargoes, human remains or submerged landscapes",
+    "modified_date": "2011-03-24 08:27:01.000"
+  },
+  {
+    "id": 220,
+    "code": "MATC",
+    "name": null,
+    "label": "Microzooplankton taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "Microzoo_taxa_C_biomass",
+    "definition": "Microzooplankton carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards., but exclude morphological classifications such as 'heterotrophic flagellate'.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 221,
+    "code": "MATX",
+    "name": null,
+    "label": "Microzooplankton taxonomic abundance in water bodies",
+    "alternative_label": "MicrozooTaxaAbundWater",
+    "definition": "Any enumeration (e.g. count, number per litre) of microzooplankton (free swimming heterotrophic organisms smaller than 200um) designated by taxonomic names (e.g. species, genus or family) in any fresh or salt water body.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 222,
+    "code": "MBAN",
+    "name": null,
+    "label": "Bathymetry and Elevation",
+    "alternative_label": "Bath_Elev",
+    "definition": "Depth of the water column or elevation of land surface relative to sea surface, geoid or other datum",
+    "modified_date": "2006-09-29 17:58:04.000"
+  },
+  {
+    "id": 223,
+    "code": "MDBO",
+    "name": null,
+    "label": "Trace metalloid concentrations in biota",
+    "alternative_label": "Metoid_Biota",
+    "definition": "Concentration parameters for trace metalloid elements in either whole organisms or their constituent parts. Trace metalloids are considered as B, Ge, As, Sb, Te and Po (but not Si which is classed separately because of its major role in environmental chemistry)",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 224,
+    "code": "MDPW",
+    "name": null,
+    "label": "Trace metalloid concentrations in sediment pore water",
+    "alternative_label": "Metoid_SedPW",
+    "definition": "Concentration parameters for trace metalloid elements in water occupying the space between sediment grains. Trace metalloids are considered as B, Ge, As, Sb, Te and Po (but not Si which is classed separately because of its major role in environmental chemistry)",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 225,
+    "code": "MDSV",
+    "name": null,
+    "label": "Suspended particulate material setting velocity parameters",
+    "alternative_label": "SPM_SettVeloc",
+    "definition": "",
+    "modified_date": "2004-05-27 17:23:12.000"
+  },
+  {
+    "id": 226,
+    "code": "MDWD",
+    "name": null,
+    "label": "Dissolved trace metalloid and inorganic selenium concentrations in water bodies",
+    "alternative_label": "Metoid_WC_Diss",
+    "definition": "Concentration parameters for trace metalloid elements and non-organic selenium species in the dissolved phase of any body of fresh or salt water. This may include a contribution from the particulate phase if this has not been totally removed by filtration and the metalloid in question is reactive (ie detected as if it were dissolved) to the analytical technique used. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).",
+    "modified_date": "2017-01-23 15:40:45.000"
+  },
+  {
+    "id": 227,
+    "code": "MDWP",
+    "name": null,
+    "label": "Particulate trace metalloid and inorganic selenium concentrations in water bodies",
+    "alternative_label": "Metoid_WC_Part",
+    "definition": "Concentration parameters for trace metalloid elements and inorganic selenium species in the particulate phase of any body of fresh or salt water collected by fitration, centrifugation or sediment trapping. Trace metalloids are considered as B, Ge, As, Sb, Te and Po (but not Si which is classed separately because of its major role in environmental chemistry).",
+    "modified_date": "2017-01-23 15:40:48.000"
+  },
+  {
+    "id": 228,
+    "code": "MEPH",
+    "name": null,
+    "label": "Zooplankton egg hatch proportion",
+    "alternative_label": "MesozooEggHatch",
+    "definition": "",
+    "modified_date": "2003-08-08 14:43:14.000"
+  },
+  {
+    "id": 229,
+    "code": "MFAB",
+    "name": null,
+    "label": "Zoobenthos generic abundance",
+    "alternative_label": "ZoobenthGenAbund",
+    "definition": "Any enumeration (e.g. count, number per square metre) of animals living on or near the seabed designated by terms other than taxonomic names (e.g. total).",
+    "modified_date": "2010-10-22 11:08:34.000"
+  },
+  {
+    "id": 230,
+    "code": "MFWW",
+    "name": null,
+    "label": "Zoobenthos non taxonomy-related wet weight biomass per unit area of the bed",
+    "alternative_label": "ZoobenthNontaxWetWtBiomass",
+    "definition": "Any zoobenthos wet weight biomass per unit area of the seabed parameters that are not included in parameter group ZWTX.",
+    "modified_date": "2004-04-26 16:17:17.000"
+  },
+  {
+    "id": 231,
+    "code": "MINC",
+    "name": null,
+    "label": "Mineral chemistry",
+    "alternative_label": "Min_chem",
+    "definition": "Chemical analyses of minerals extracted from rocks or sediment or analysed in-situ using techniques like the electron microprobe.",
+    "modified_date": "2007-09-24 17:12:07.000"
+  },
+  {
+    "id": 232,
+    "code": "MLES",
+    "name": null,
+    "label": "Marine environment leisure usage",
+    "alternative_label": "MarLeisUse",
+    "definition": "Parameters quantifying the extent and nature of recreational activities in coastal waters, estuaries and their margins such as beaches.",
+    "modified_date": "2011-10-27 16:00:57.000"
+  },
+  {
+    "id": 233,
+    "code": "MLFX",
+    "name": null,
+    "label": "Sedimentation flux of metallic and metalloid elements and isotopes in water bodies",
+    "alternative_label": "Metal_flux",
+    "definition": "Parameters quantifying metal and metalloid fluxes as element concentration or isotope activities per unit area per unit time",
+    "modified_date": "2011-10-18 15:30:54.000"
+  },
+  {
+    "id": 234,
+    "code": "MMAN",
+    "name": null,
+    "label": "Magnetics",
+    "alternative_label": "Magnetics",
+    "definition": "Parameterisations of the intensity and inclination of Earth's magnetic field",
+    "modified_date": "2010-10-22 14:34:10.000"
+  },
+  {
+    "id": 235,
+    "code": "MMST",
+    "name": null,
+    "label": "Man-made structures",
+    "alternative_label": "Structures",
+    "definition": "Parameters relating to human built structures on the coast or offshore and their impact on the environment.",
+    "modified_date": "2008-01-30 07:53:20.000"
+  },
+  {
+    "id": 236,
+    "code": "MNGS",
+    "name": null,
+    "label": "Sediment grain size parameters",
+    "alternative_label": "Sed_GrainSize",
+    "definition": "Parameters specifying the physical dimensions of the particles comprising unlithified sediment (including expressions of shape such as aspect ratio) and statistics derived from their variation in a sample (e.g. mean, mode, sorting, skewness).",
+    "modified_date": "2010-02-19 00:03:05.000"
+  },
+  {
+    "id": 237,
+    "code": "MPMN",
+    "name": null,
+    "label": "Moored instrument depth",
+    "alternative_label": "Depth",
+    "definition": "Parameters expressing depth (possibly as pressure) of an instrument on a suspended underwater mooring.  These are primarily collected to monitor mooring performance by quantifying knock-down and should not be regarded as instrument z co-ordinates (accurate calibration is rare) or as sea level measurements.",
+    "modified_date": "2004-08-17 10:22:00.000"
+  },
+  {
+    "id": 238,
+    "code": "MSBD",
+    "name": null,
+    "label": "Zooplankton dry weight biomass per unit volume of the water column",
+    "alternative_label": "WC_ZooDWBiomass",
+    "definition": "Zooplankton (mesozooplankton and larger, exclusing fish, mammals, reptiles and insects) biomass determined by drying to constant weight.",
+    "modified_date": "2004-04-23 10:17:15.000"
+  },
+  {
+    "id": 239,
+    "code": "MSBO",
+    "name": null,
+    "label": "Zooplankton ash-free dry weight biomass per unit volume of the water column",
+    "alternative_label": "WC_ZooAFDWBiomass",
+    "definition": "Zooplankton (mesozooplankton and larger, exclusing fish, mammals, reptiles and insects) biomass determined by gravimetric measurement of loss on ignition",
+    "modified_date": "2004-04-23 10:13:58.000"
+  },
+  {
+    "id": 240,
+    "code": "MSEP",
+    "name": null,
+    "label": "Zooplankton reproduction rate parameters",
+    "alternative_label": "ZooplanktonRepoduction",
+    "definition": "All parameters related to zooplankton reproduction rates",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 241,
+    "code": "MSFX",
+    "name": null,
+    "label": "Sedimentation flux quantification in the water column",
+    "alternative_label": "WC_SedFlux",
+    "definition": "Parameters expressing the total sedimentation flux in terms of particle mass, volume or counts",
+    "modified_date": "2004-08-19 10:28:07.000"
+  },
+  {
+    "id": 242,
+    "code": "MSIC",
+    "name": null,
+    "label": "Zooplankton carbon biomass per unit area of the water column",
+    "alternative_label": "WC_IntegratedZooCarbBiomass",
+    "definition": "Integrated zooplankton (mesozooplankton and larger, exclusing fish, mammals, reptiles and insects) carbon biomass parameters",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 243,
+    "code": "MTAT",
+    "name": null,
+    "label": "Metal concentrations in the atmosphere",
+    "alternative_label": "Met_At",
+    "definition": "Concentration of metal elements in any phase of the atmosphere",
+    "modified_date": "2008-09-12 09:42:00.000"
+  },
+  {
+    "id": 244,
+    "code": "MTIC",
+    "name": null,
+    "label": "Metal concentrations in the cryosphere",
+    "alternative_label": "Met_Ice",
+    "definition": "Concentration parameters for metallic elements in ice and snow",
+    "modified_date": "2008-09-12 09:48:26.000"
+  },
+  {
+    "id": 245,
+    "code": "MTPW",
+    "name": null,
+    "label": "Metal concentrations in sediment pore waters",
+    "alternative_label": "Met_SedPW",
+    "definition": "Concentrations of metal elements in sediment pore waters",
+    "modified_date": "2004-05-12 11:25:00.000"
+  },
+  {
+    "id": 246,
+    "code": "MTSD",
+    "name": null,
+    "label": "Metal concentrations in sediment",
+    "alternative_label": "Met_Sed",
+    "definition": "Concentrations of metal elements per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.",
+    "modified_date": "2020-10-20 16:00:08.000"
+  },
+  {
+    "id": 247,
+    "code": "MTWC",
+    "name": null,
+    "label": "Colloidal metal concentrations in the water column",
+    "alternative_label": "Met_WC_Coll",
+    "definition": "Concentrations of metal elements in the colloidal phase of the water column. Usually the dissolved concentration difference between conventionally filtered water and ultra-filtered water.",
+    "modified_date": "2004-05-12 01:00:00.000"
+  },
+  {
+    "id": 248,
+    "code": "MTWD",
+    "name": null,
+    "label": "Dissolved metal concentrations in the water column",
+    "alternative_label": "Met_WC_Diss",
+    "definition": "Concentrations of metal elements in the dissolved phase of the water column.  This may include a contribution from the particulate phase if this has not been totally removed by filtration and the metal in question is reactive (ie detected as if it were dissolved) to the analytical technique used.",
+    "modified_date": "2004-05-12 12:35:00.000"
+  },
+  {
+    "id": 249,
+    "code": "MTWP",
+    "name": null,
+    "label": "Particulate metal concentrations in the water column",
+    "alternative_label": "Met_WC_Part",
+    "definition": "Concentration parameters for metallic elements in the particulate phase of the water column collected by fitration, centrifugation or sediment trapping",
+    "modified_date": "2008-09-12 10:03:59.000"
+  },
+  {
+    "id": 250,
+    "code": "MTWT",
+    "name": null,
+    "label": "Total metal concentrations in water bodies",
+    "alternative_label": "Met_WC_Tot",
+    "definition": "Concentration parameters for metal elements in the combined dissolved and particulate phases of any body of fresh or salt water.",
+    "modified_date": "2010-01-27 14:25:50.000"
+  },
+  {
+    "id": 251,
+    "code": "MXLM",
+    "name": null,
+    "label": "Structure and stability of the water column",
+    "alternative_label": "Struct_WC",
+    "definition": "Parameters describing or predicting water column structure plus parameters quantifying the dynamic stability of that structure",
+    "modified_date": "2004-08-16 12:54:33.000"
+  },
+  {
+    "id": 252,
+    "code": "MZBC",
+    "name": null,
+    "label": "Microzooplankton non taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "WC_NontaxMicrozooCarbBiomass",
+    "definition": "Basically, any microzooplankton carbon biomass measurement that isn't included in parameter group MATC.  May include data integrations such as 'total microzooplankton'.",
+    "modified_date": "2004-04-19 16:25:41.000"
+  },
+  {
+    "id": 253,
+    "code": "MZBN",
+    "name": null,
+    "label": "Microzooplankton generic abundance in water bodies",
+    "alternative_label": "MicrozooGenAbundWater",
+    "definition": "Any enumeration (e.g. count, number per litre) of microzooplankton (free swimming heterotrophic organisms smaller than 200um) designated by terms other than taxonomic names (e.g. total) in any fresh or salt water body.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 254,
+    "code": "MZCT",
+    "name": null,
+    "label": "Microzooplankton grazing",
+    "alternative_label": "WC_MicrozooGraz",
+    "definition": "Parameters that express the consumption of the phytoplankton population by the microzooplankton.  Generally the results of dilution experiments on water samples screened through a 200-micron mesh.",
+    "modified_date": "2004-04-19 16:35:55.000"
+  },
+  {
+    "id": 255,
+    "code": "NOYS",
+    "name": null,
+    "label": "Acoustic noise in the water column",
+    "alternative_label": "Noise",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 256,
+    "code": "NTOT",
+    "name": null,
+    "label": "Particulate total and organic nitrogen concentrations in the water column",
+    "alternative_label": "WC_PON",
+    "definition": "Concentrations of total and organic nitrogen in the particulate phase of the water column, which is a function of both the SPM concentration in the water column and the concentration of nitrogen per unit weight of SPM. Note that it is commonly assumed that all particulate nitrogen is organic.",
+    "modified_date": "2004-08-02 15:06:46.000"
+  },
+  {
+    "id": 257,
+    "code": "NTPW",
+    "name": null,
+    "label": "Nutrient concentrations in sediment pore waters",
+    "alternative_label": "SedPoreWat_Nuts",
+    "definition": "Nutrient (nitrate, nitrite, ammonium, phosphate, silicate and urea) concentrations in sediment pore waters",
+    "modified_date": "2004-05-27 10:00:00.000"
+  },
+  {
+    "id": 258,
+    "code": "NTRA",
+    "name": null,
+    "label": "Nitrate concentration parameters in the water column",
+    "alternative_label": "WC_NO3",
+    "definition": "Nitrate concentration parameters (including statistical parameters such as standard deviation) in the water column. Includes nitrate+nitrite, which is often loosely referred to as nitrate.",
+    "modified_date": "2007-02-01 09:10:12.000"
+  },
+  {
+    "id": 259,
+    "code": "NTRI",
+    "name": null,
+    "label": "Nitrite concentration parameters in the water column",
+    "alternative_label": "WC_NO2",
+    "definition": "Nitrite concentration parameters (including statistical parameters such as standard deviation) in the water column",
+    "modified_date": "2004-05-27 10:51:38.000"
+  },
+  {
+    "id": 260,
+    "code": "NTSD",
+    "name": null,
+    "label": "Nitrogen concentrations in sediment",
+    "alternative_label": "Sed_Nitrogen",
+    "definition": "Concentrations of total, organic and inorganic nitrogen per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.",
+    "modified_date": "2004-08-02 01:43:00.000"
+  },
+  {
+    "id": 261,
+    "code": "NTSP",
+    "name": null,
+    "label": "Nitrogen concentrations in suspended particulate material",
+    "alternative_label": "SPM_Nitrogen",
+    "definition": "Concentrations of total, organic and inorganic nitrogen per unit weight of suspended particulate material collected by water column filtration, centrifugation or sediment trapping.  Note that it is common practice to assume all nitrogen in SPM is organic.",
+    "modified_date": "2004-08-02 01:35:00.000"
+  },
+  {
+    "id": 262,
+    "code": "NTUP",
+    "name": null,
+    "label": "New production in water bodies",
+    "alternative_label": "New_prod",
+    "definition": "Parameters quantifying the uptake rate of nitrate or gaseous nitrogen by flora and fauna living in any body of salt or fresh water",
+    "modified_date": "2009-11-15 16:11:26.000"
+  },
+  {
+    "id": 263,
+    "code": "NUTV",
+    "name": null,
+    "label": "Raw in-situ nutrient analyser output",
+    "alternative_label": "Raw_Nuts",
+    "definition": "Direct output parameters from spectophotometric or chemical in-situ nutrient analysers",
+    "modified_date": "2005-07-08 17:15:08.000"
+  },
+  {
+    "id": 264,
+    "code": "OCAA",
+    "name": null,
+    "label": "Concentration of other organic contaminants in the atmosphere",
+    "alternative_label": "AtmosOrgContam",
+    "definition": "Parameters quantifying concentrations of organic contaminants (substances regarded as harmful) other than PCBs and PAHs in all phases of the atmosphere",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 265,
+    "code": "OCPW",
+    "name": null,
+    "label": "Dissolved organic carbon concentrations in sediment pore waters",
+    "alternative_label": "SedPoreWat_DOC",
+    "definition": "Concentrations of dissolved organic carbon in sediment pore waters",
+    "modified_date": "2004-05-27 10:00:00.000"
+  },
+  {
+    "id": 266,
+    "code": "OGPW",
+    "name": null,
+    "label": "Dissolved concentration parameters for other gases in sediment pore waters",
+    "alternative_label": "SedPoreWater_Gases",
+    "definition": "All concentration parameters for inorganic dissolved gases other than oxygen and the noble gases in sediment pore water samples",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 267,
+    "code": "OHAT",
+    "name": null,
+    "label": "Concentration of other hydrocarbons in the atmosphere",
+    "alternative_label": "Atm_UnclassHydrocarb",
+    "definition": "'Other' (not alkanes, alkenes, alkynes or PAHs) hydrocarbon concentration parameters (including saturation of gaseous species) in all phases of the atmosphere.",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 268,
+    "code": "OHWC",
+    "name": null,
+    "label": "Concentration of other hydrocarbons in the water column",
+    "alternative_label": "WC_UnclassHydrocarb",
+    "definition": "'Other' (not alkanes, alkenes, alkynes or PAHs) hydrocarbon concentration parameters (including saturation of gaseous species) in all phases of the water column.  Does not include parameters expressed per unit weight of SPM.",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 269,
+    "code": "OMBI",
+    "name": null,
+    "label": "Organometallic species concentration parameters in biota",
+    "alternative_label": "Biota_OrganoMet",
+    "definition": "All measurements of the quantity or mass of any organometallic compound in any living organisms or their component parts",
+    "modified_date": "2010-05-19 11:55:30.000"
+  },
+  {
+    "id": 270,
+    "code": "OMET",
+    "name": null,
+    "label": "Other meteorological measurements",
+    "alternative_label": "UnclassMet",
+    "definition": "Bucket group for parameters that cannot be classified elsewhere",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 271,
+    "code": "OMPW",
+    "name": null,
+    "label": "Organometallic and organometalloid species concentration parameters in sediments",
+    "alternative_label": "Sed_OrganoMet",
+    "definition": "All organometallic and orgamometalloid compound concentration parameters (including saturations for gaseous species) in all phases of sediments (including pore waters)",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 272,
+    "code": "OMWC",
+    "name": null,
+    "label": "Organometallic and organometalloid species concentration parameters in water bodies",
+    "alternative_label": "Water_OrganoMet",
+    "definition": "All organometallic and organometalloid compound concentration parameters (including saturations for gaseous species) in all phases of any body of fresh or salt water.",
+    "modified_date": "2022-04-27 17:57:20.000"
+  },
+  {
+    "id": 273,
+    "code": "OPBS",
+    "name": null,
+    "label": "Optical backscatter",
+    "alternative_label": "OptBS",
+    "definition": "Includes all parameters covering the strength of electromagnetic radiation signal return, including absolute measurements of returning signal strength as well as parameters expressed as backscatter (the proportion of transmitted signal returned)",
+    "modified_date": "2008-11-04 00:58:25.000"
+  },
+  {
+    "id": 274,
+    "code": "OPCN",
+    "name": null,
+    "label": "Concentration of silicon species in suspended particulate material",
+    "alternative_label": "SPM_SiSpecies",
+    "definition": "Concentration parameters for silicon species (including opal) in SPM (material gathered by filtration or sediment trapping). Only includes parameters expressed per unit mass of SPM and not per unit volume of the water column",
+    "modified_date": "2004-08-13 15:37:15.000"
+  },
+  {
+    "id": 275,
+    "code": "OPFX",
+    "name": null,
+    "label": "Sedimentation flux of non-metallic inorganic species in the water column",
+    "alternative_label": "WC_SedFlux_nonmet",
+    "definition": "Quantity of any inorganic species such as silicon (opal) and phosphorus passing through unit area of the water column in unit time. Carbon and nitrogen are regarded as organic and explicitly excluded",
+    "modified_date": "2006-06-13 10:18:26.000"
+  },
+  {
+    "id": 276,
+    "code": "OPWC",
+    "name": null,
+    "label": "Unclassified pigment concentrations in the water column",
+    "alternative_label": "WC_Pigments",
+    "definition": "Includes all pigments that cannot be explicitly classified as chlorophylls, phaeopigments or carotenoids.  Generally, these are parameters where different pigments have been grouped together. Concentrations are expressed in terms of per unit volume or unit area of the water column.  Does not include data expressed per unit mass of SPM.",
+    "modified_date": "2004-07-07 17:41:00.000"
+  },
+  {
+    "id": 277,
+    "code": "OXYC",
+    "name": null,
+    "label": "Raw oxygen sensor output",
+    "alternative_label": "RawO2Output",
+    "definition": "Raw parameters (usually membrane current and temperature) from dissolved oxygen sensors",
+    "modified_date": "2004-08-11 16:07:28.000"
+  },
+  {
+    "id": 278,
+    "code": "OZON",
+    "name": null,
+    "label": "Ozone and oxygen concentrations in the atmosphere",
+    "alternative_label": "Atm_O3_Oxy",
+    "definition": "Ozone and oxygen concentration parameters in any phase of the atmosphere (but usually the gaseous phase)",
+    "modified_date": "2006-06-05 01:27:47.000"
+  },
+  {
+    "id": 279,
+    "code": "PASR",
+    "name": null,
+    "label": "Passive seismic refraction",
+    "alternative_label": "PassSeisRefrac",
+    "definition": "Parameters quantifying the magnitude of naturally occurring low frequency earth movements such as used for earthquake seismology and natural noise studies.",
+    "modified_date": "2010-02-21 17:24:44.000"
+  },
+  {
+    "id": 280,
+    "code": "PATX",
+    "name": null,
+    "label": "Phytoplankton taxonomic abundance in water bodies",
+    "alternative_label": "PhytoTaxaAbundWater",
+    "definition": "Any enumeration (e.g. count, abundance) of free-floating autotrophic biological entities designated by taxonomic names (e.g. species, genus, family) in any body of fresh or salt water.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 281,
+    "code": "PCAH",
+    "name": null,
+    "label": "Concentration of polycyclic aromatic hydrocarbons (PAHs) in suspended particulate material",
+    "alternative_label": "SPM_PAH",
+    "definition": "PAH concentrations in suspended particulate material, regarded as anything sampled by a water bottle, SAP, sediment trap etc.  This group is for SPM composition measurements (concentration per unit weight) and NOT concentrations per unit volume of the water column in the particulate phase.",
+    "modified_date": "2008-11-25 15:43:03.000"
+  },
+  {
+    "id": 282,
+    "code": "PCFX",
+    "name": null,
+    "label": "Sedimentation flux of identified biota expressed as carbon in the water column",
+    "alternative_label": "WC_SedFluxCellsCarb",
+    "definition": "Fluxes of any biota or remains thereof (excluding faecal pellets which are classed as SPM) downwards through the water column",
+    "modified_date": "2004-05-18 17:44:49.000"
+  },
+  {
+    "id": 283,
+    "code": "PCHW",
+    "name": null,
+    "label": "Concentration of polycyclic aromatic hydrocarbons (PAHs) in the water column",
+    "alternative_label": "WC_PAH",
+    "definition": "PAH concentrations in all phases of the water column. This group includes concentrations per unit volume of the water column in the particulate phase, but not concentrations per unit wieght of SPM.",
+    "modified_date": "2008-11-25 15:43:03.000"
+  },
+  {
+    "id": 284,
+    "code": "PCLM",
+    "name": null,
+    "label": "Palaeoclimatic indicators and parameters",
+    "alternative_label": "PalaeoInd",
+    "definition": "Parameterisations that describe climatic conditions in the past.  Includes climate indices, climate indicators and indirect measurements of climate-related phenomena such as sea level and water table depth.",
+    "modified_date": "2008-07-01 09:38:51.000"
+  },
+  {
+    "id": 285,
+    "code": "PCO2",
+    "name": null,
+    "label": "Partial pressure (pCO2) and fugacity (fCO2) of carbon dioxide in the water column",
+    "alternative_label": "WC_pCO2",
+    "definition": "",
+    "modified_date": "2004-08-11 10:08:12.000"
+  },
+  {
+    "id": 286,
+    "code": "PCOC",
+    "name": null,
+    "label": "Concentration of other organic contaminants in suspended particulate material",
+    "alternative_label": "SPM_Orgcontam",
+    "definition": "'Other' organic contaminant (substances regarded as harmful other than PCBs and PAHs) concentrations in suspended particulate material, regarded as anything sampled by a water bottle, SAP, sediment trap etc.  This group is for SPM composition measurements (concentration per unit weight) and NOT concentrations per unit volume of the water column in the particulate phase.",
+    "modified_date": "2004-05-28 09:15:00.000"
+  },
+  {
+    "id": 287,
+    "code": "PEBI",
+    "name": null,
+    "label": "Pesticide concentrations in biota",
+    "alternative_label": "Pesticide_Biota",
+    "definition": "Concentration parameters for substances synthesised by man to kill other life forms in either whole organisms or their constituent parts.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 288,
+    "code": "PESD",
+    "name": null,
+    "label": "Pesticide concentrations in sediment",
+    "alternative_label": "Pesticide_Sediment",
+    "definition": "Concentration parameters for substances synthesised by man to kill other life forms in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff'.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 289,
+    "code": "PESP",
+    "name": null,
+    "label": "Pesticide concentrations in suspended particulate material",
+    "alternative_label": "Pesticide_SPM",
+    "definition": "Concentration parameters for substances synthesised by man to kill other life forms in suspended particulate material (SPM) collected by water column filtration, centrifugation or sediment trapping. Only includes parameters expressed per unit mass of SPM and not per unit volume of the water column.",
+    "modified_date": "2021-05-18 17:10:00.000"
+  },
+  {
+    "id": 290,
+    "code": "PEWB",
+    "name": null,
+    "label": "Pesticide concentrations in water bodies",
+    "alternative_label": "Pesticide_WaterBody",
+    "definition": "Concentration parameters for substances synthesised by man to kill other life forms in either solution or suspension (i.e.includes measurements in both the dissolved and particulate phases) in any body of salt or fresh water.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 291,
+    "code": "PHAT",
+    "name": null,
+    "label": "Inorganic phosphorus species concentrations in the atmosphere",
+    "alternative_label": "Phos_At",
+    "definition": "Concentration of inorganic phosphorus species (element or compounds) in any phase of the atmosphere",
+    "modified_date": "2005-09-23 11:41:38.000"
+  },
+  {
+    "id": 292,
+    "code": "PHBI",
+    "name": null,
+    "label": "Pharmaceutical concentrations in biota",
+    "alternative_label": "Pharm_Biota",
+    "definition": "Concentration parameters for substances synthesised by man to modify bodily function or diagnose, cure, mitigate, treat, or prevent disease in either whole organisms or their constituent parts.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 293,
+    "code": "PHLT",
+    "name": null,
+    "label": "Raw pH sensor output",
+    "alternative_label": "Raw_pH_output",
+    "definition": "Raw pH parameter output from any type of pH sensor.",
+    "modified_date": "2015-11-16 13:22:28.000"
+  },
+  {
+    "id": 294,
+    "code": "PHOS",
+    "name": null,
+    "label": "Phosphate concentration parameters in the water column",
+    "alternative_label": "WC_PO4",
+    "definition": "Phosphate  concentration parameters (including statistical parameters such as standard deviation) in the water column",
+    "modified_date": "2004-05-27 11:03:09.000"
+  },
+  {
+    "id": 295,
+    "code": "PHSD",
+    "name": null,
+    "label": "Phaeopigment concentrations in sediment",
+    "alternative_label": "Sed_PhaeoPigs",
+    "definition": "Includes all variants of phaeopigment (chlorophyll degradation products). Sediment is defined as any solids collected by a corer, including fluff..",
+    "modified_date": "2004-07-07 17:40:00.000"
+  },
+  {
+    "id": 296,
+    "code": "PHSE",
+    "name": null,
+    "label": "Pharmaceutical concentrations in sediments",
+    "alternative_label": "Pharm_Sediment",
+    "definition": "Concentration parameters for substances synthesised by man to modify bodily function or diagnose, cure, mitigate, treat, or prevent disease in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff'.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 297,
+    "code": "PHUP",
+    "name": null,
+    "label": "Uptake of other nutrients in the water column",
+    "alternative_label": "OthNut_WCUp",
+    "definition": "Uptake of nutrients other than nitrogen species (ie phosphate and silicate) by the water column",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 298,
+    "code": "PHWB",
+    "name": null,
+    "label": "Pharmaceutical concentrations in water bodies",
+    "alternative_label": "Pharm_WaterBody",
+    "definition": "Concentration parameters for substances synthesised by man to modify bodily function or diagnose, cure, mitigate, treat, or prevent disease in either solution or suspension (i.e.includes measurements in both the dissolved and particulate phases) in any body of salt or fresh water.",
+    "modified_date": "2010-01-27 14:18:10.000"
+  },
+  {
+    "id": 299,
+    "code": "PHWC",
+    "name": null,
+    "label": "Phaeopigment concentrations in the water column",
+    "alternative_label": "WC_PhaeoPigs",
+    "definition": "Includes all variants of phaeopigment (chlorophyll degradation products) expressed in terms of per unit volume or unit area of the water column.  Does not include data expressed per unit mass of SPM.",
+    "modified_date": "2004-07-07 17:40:00.000"
+  },
+  {
+    "id": 300,
+    "code": "PHYC",
+    "name": null,
+    "label": "Phycobolin pigment concentrations in the water column",
+    "alternative_label": "WC_PhycobolPig",
+    "definition": "Concentration of phycobolin group pigments such as phycocyanin and phycoerythrin in the water column",
+    "modified_date": "2004-09-27 09:25:54.000"
+  },
+  {
+    "id": 301,
+    "code": "PHYG",
+    "name": null,
+    "label": "Phytoplankton growth",
+    "alternative_label": "Phyt_Growth",
+    "definition": "",
+    "modified_date": "2004-08-19 11:34:58.000"
+  },
+  {
+    "id": 302,
+    "code": "PNFX",
+    "name": null,
+    "label": "Sedimentation flux of identified biota in the water column",
+    "alternative_label": "WC_SedFluxCells",
+    "definition": "Fluxes expressed as number per unit area per unit time of any biota or remains thereof (excluding faecal pellets which are classed as SPM) downwards through the water column",
+    "modified_date": "2004-05-18 17:47:44.000"
+  },
+  {
+    "id": 303,
+    "code": "PNTX",
+    "name": null,
+    "label": "Phytoplankton generic abundance in water bodies",
+    "alternative_label": "PhytoGenAbundWater",
+    "definition": "Any enumeration (e.g. count, abundance) of free-floating autotrophic biological entities designated by terms other than taxonomic names (e.g. microphytoplankton, ciliate, flagellate) in any body of fresh or salt water.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 304,
+    "code": "PPAB",
+    "name": null,
+    "label": "Light absorption in the water column",
+    "alternative_label": "WC_LightAbsorb",
+    "definition": "Water column spectral absorption parameters",
+    "modified_date": "2004-07-30 15:27:59.000"
+  },
+  {
+    "id": 305,
+    "code": "PPCB",
+    "name": null,
+    "label": "Concentration of polychlorobiphenyls (PCBs) in suspended particulate material",
+    "alternative_label": "SPM_PCB",
+    "definition": "PCB concentrations in suspended particulate material, regarded as anything sampled by a water bottle, SAP, sediment trap etc.  This group is for SPM composition measurements (concentration per unit weight) and NOT concentrations per unit volume of the water column in the particulate phase.",
+    "modified_date": "2008-11-25 15:43:03.000"
+  },
+  {
+    "id": 306,
+    "code": "PPRD",
+    "name": null,
+    "label": "Primary production in the water column",
+    "alternative_label": "WC_PrimaryProd",
+    "definition": "Parameters associated with the quantification of primary production.  This is defined as the fixation of carbon dioxide into either organic or inorganic carbon by living entities and so includes photosynthesis and calcification.",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 307,
+    "code": "PPWC",
+    "name": null,
+    "label": "Concentration of polychlorobiphenyls (PCBs) in the water column",
+    "alternative_label": "WC_PCB",
+    "definition": "PCB concentrations in all phases of the water column. This group excludes SPM composition measurements (concentration per unit weight).",
+    "modified_date": "2008-11-25 15:43:03.000"
+  },
+  {
+    "id": 308,
+    "code": "PSAL",
+    "name": null,
+    "label": "Salinity of the water column",
+    "alternative_label": "WC_Sal",
+    "definition": "Parameters quantifying the concentration of sodium chloride in any body of water at any point between the bed and the atmosphere",
+    "modified_date": "2007-03-02 11:36:26.000"
+  },
+  {
+    "id": 309,
+    "code": "PSST",
+    "name": null,
+    "label": "Skin temperature of the water column",
+    "alternative_label": "Skin_temp",
+    "definition": "Temperature of the water column surface as measured by a radiometer.  It does NOT include temperature measurements in the upper few metres of the water column such as thermosalinograph data",
+    "modified_date": "2004-07-29 16:34:56.000"
+  },
+  {
+    "id": 310,
+    "code": "PTDZ",
+    "name": null,
+    "label": "Temperature variation in the water column",
+    "alternative_label": "WC_TempVar",
+    "definition": "Parameters expressing the variation of temperature in the water column either as a function of space or of time",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 311,
+    "code": "PTOX",
+    "name": null,
+    "label": "Concentration of phycotoxins in biota",
+    "alternative_label": "Phycotox_biota",
+    "definition": "Parameters associated with the concentration of algae-generated toxins in either whole organisms or their constituent parts",
+    "modified_date": "2006-06-05 15:32:17.000"
+  },
+  {
+    "id": 312,
+    "code": "PU02",
+    "name": null,
+    "label": "Macroalgae generic abundance in water bodies",
+    "alternative_label": "MacAlgaeGenAbundWater",
+    "definition": "Any enumeration (e.g. count, number per litre) of macroalgae (seaweeds) designated by terms other than taxonomic names (e.g. total) in any fresh or salt water body.",
+    "modified_date": "2010-10-22 11:06:41.000"
+  },
+  {
+    "id": 313,
+    "code": "PXSP",
+    "name": null,
+    "label": "Phosphorus concentrations in suspended particulate material",
+    "alternative_label": "SPM_Phosphorus",
+    "definition": "Concentrations of total, organic and inorganic phosphorus per unit weight of suspended particulate material collected by water column filtration, centrifugation or sediment trapping.",
+    "modified_date": "2004-08-02 15:10:30.000"
+  },
+  {
+    "id": 314,
+    "code": "PYTT",
+    "name": null,
+    "label": "Plankton abundance per unit volume of the water column",
+    "alternative_label": "WC_PlanktonAbund",
+    "definition": "Used for plankton abundance parameters where no differentiation between phytoplankton, microzooplankton or zooplankton is possible",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 315,
+    "code": "QDMD",
+    "name": null,
+    "label": "Quantity of material dumped",
+    "alternative_label": "Amount_dumped",
+    "definition": "Parameters quantifying the amount of liquids (e.g. ship's ballast) or solids (e.g. dredge spoil) deposited into the water column as a result of man's activities",
+    "modified_date": "2008-08-15 11:07:03.000"
+  },
+  {
+    "id": 316,
+    "code": "R410",
+    "name": null,
+    "label": "Ocean colour and earth-leaving visible waveband spectral radiation",
+    "alternative_label": "Ocean_clr",
+    "definition": "Parameters associated with the measurement of ocean colour, including visible waveband satellite spectral radiometer measurements, their calibration measurements (spectral water-leaving radiance and reflectance) and chart colour estimates.",
+    "modified_date": "2006-06-05 15:11:44.000"
+  },
+  {
+    "id": 317,
+    "code": "RACC",
+    "name": null,
+    "label": "Sediment accumulation rate",
+    "alternative_label": "AccumRate",
+    "definition": "Parameters quantifying the volume, mass or thickness of particulate material that gathers on the seabed per unit time.",
+    "modified_date": "2008-11-04 13:30:30.000"
+  },
+  {
+    "id": 318,
+    "code": "RAGE",
+    "name": null,
+    "label": "Rock age",
+    "alternative_label": "RockAge",
+    "definition": "Measured or stratigraphically estimated ages of lithified sediments, igneous rock or metamorphic rock.",
+    "modified_date": "2010-02-21 17:23:51.000"
+  },
+  {
+    "id": 319,
+    "code": "RALT",
+    "name": null,
+    "label": "Rock alteration",
+    "alternative_label": "RockAlt",
+    "definition": "Parameters describing aspects of a geologic unit that are the result of bulk chemical, mineralogical or physical changes related to change in the physical or chemical environment.  Includes weathering, supergene alteration, hydrothermal alteration and metasomatic effects not considered metamorphic.",
+    "modified_date": "2022-03-21 11:28:44.000"
+  },
+  {
+    "id": 320,
+    "code": "RBHY",
+    "name": null,
+    "label": "Molecular biology parameters",
+    "alternative_label": "MolecularBiol",
+    "definition": "Any parameters relating to molecular biology or genetics",
+    "modified_date": "2004-04-30 16:19:08.000"
+  },
+  {
+    "id": 321,
+    "code": "RBSC",
+    "name": null,
+    "label": "Radar backscatter",
+    "alternative_label": "RadarBScatter",
+    "definition": "Includes all parameters covering the strength of emitted microwave radiation return, including absolute measurements of returning signal strength as well as parameters expressed as backscatter (the proportion of transmitted signal returned)",
+    "modified_date": "2009-05-20 16:08:16.000"
+  },
+  {
+    "id": 322,
+    "code": "REFF",
+    "name": null,
+    "label": "Sediment resistivity",
+    "alternative_label": "Sed_Resist",
+    "definition": "",
+    "modified_date": "2004-08-17 15:12:44.000"
+  },
+  {
+    "id": 323,
+    "code": "RFVL",
+    "name": null,
+    "label": "Horizontal velocity of the water column (currents)",
+    "alternative_label": "Horiz_Currents_WC",
+    "definition": "Parameters expressing the velocity (including scalar speeds and directions) of water column horizontal movement, commonly termed Eulerian currents",
+    "modified_date": "2007-01-18 16:38:20.000"
+  },
+  {
+    "id": 324,
+    "code": "RGAS",
+    "name": null,
+    "label": "Raw gas analyser output",
+    "alternative_label": "Raw_gas",
+    "definition": "Raw concentration parameters from a gas analyser such as a LiCor",
+    "modified_date": "2007-09-24 12:56:11.000"
+  },
+  {
+    "id": 325,
+    "code": "RMIN",
+    "name": null,
+    "label": "Inorganic chemical composition of sediment or rocks",
+    "alternative_label": "InorgChemRockSed",
+    "definition": "Parameters specifying the proportions of inorganic components (major/minor/trace elements, trace metals etc.) in sediment or rock samples.  Major elements includes the H2O+ and H2O- parameters reported by convention in oxide weight per cent geochemical major element analyses.",
+    "modified_date": "2010-11-05 10:04:18.000"
+  },
+  {
+    "id": 326,
+    "code": "ROGS",
+    "name": null,
+    "label": "Rock grain size",
+    "alternative_label": "RockGrainSize",
+    "definition": "Parameters specifying the physical dimensions of the particles comprising lithified sedimentary rocks (including expressions of shape such as aspect ratio) and statistics derived from their variation in a sample (e.g. mean, mode, sorting, skewness).",
+    "modified_date": "2010-02-21 17:28:35.000"
+  },
+  {
+    "id": 327,
+    "code": "RPER",
+    "name": null,
+    "label": "Rock porosity and permeability",
+    "alternative_label": "RockPoros",
+    "definition": "Parmeters describing the space for fluids or gases within a geologic unit comprising lithified sediments, igneous rock or metamorphic rock.",
+    "modified_date": "2010-02-21 17:26:42.000"
+  },
+  {
+    "id": 328,
+    "code": "RPOT",
+    "name": null,
+    "label": "Redox potential in sediment",
+    "alternative_label": "Sed_RedoxPot",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 329,
+    "code": "RSIS",
+    "name": null,
+    "label": "Field resistivity,  electromagnetics  and polarisation",
+    "alternative_label": "Resistivity",
+    "definition": "Parameters quantifying the electrical properties of geological units in the field. Includes parameters used to determine resistivity structure for shallow sediment properties, porosities and presence of hydrocarbon (CSEM), deeper crust and mantle studies (Magnetotellurics) and ore body location (polarisation).",
+    "modified_date": "2011-09-16 12:32:12.000"
+  },
+  {
+    "id": 330,
+    "code": "RTCO",
+    "name": null,
+    "label": "Rock thermal conductivity",
+    "alternative_label": "RockThermCond",
+    "definition": "Parameters that describe the degree to which sedimentary, igneous or metamorphic rocks are able to conduct heat",
+    "modified_date": "2010-02-21 17:28:15.000"
+  },
+  {
+    "id": 331,
+    "code": "RVDS",
+    "name": null,
+    "label": "River flow and discharge",
+    "alternative_label": "Riv_flow_discharge",
+    "definition": "Parameters related to the volume of water passing through a point in a river system per unit time, including the rates of freshwater, dissolved material and particulate load discharge from a river into the sea.",
+    "modified_date": "2010-11-08 08:56:52.000"
+  },
+  {
+    "id": 332,
+    "code": "RWCH",
+    "name": null,
+    "label": "Precipitation chemistry",
+    "alternative_label": "Precip_Chem",
+    "definition": "Concentration of any chemical species in water collected from the atmosphere.  Includes rain, snow, hail and fog but excludes cloud samples or snow accumulations on the ground.",
+    "modified_date": "2008-12-09 10:34:11.000"
+  },
+  {
+    "id": 333,
+    "code": "SABB",
+    "name": null,
+    "label": "Shellfish abundance and biomass in water bodies",
+    "alternative_label": "Sfish_AbundBiom",
+    "definition": "Parameters that quantify the numbers or amount of living material of shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries) in any body of fresh or salt water.",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 334,
+    "code": "SACT",
+    "name": null,
+    "label": "Surfactant concentrations in water bodies",
+    "alternative_label": "WC_surfactant",
+    "definition": "Parameters quantifying the amount of compounds that lower the surface tension of a liquid, the interfacial tension between two liquids, or that between a liquid and a solid in any body of salt or fresh water. The term surfactants includes detergents, wetting agents, emulsifiers, foaming agents and dispersants.",
+    "modified_date": "2011-10-18 15:35:03.000"
+  },
+  {
+    "id": 335,
+    "code": "SAGE",
+    "name": null,
+    "label": "Sediment age",
+    "alternative_label": "Sed_Age",
+    "definition": "Measured or stratigraphically estimated ages of marine sediments",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 336,
+    "code": "SALK",
+    "name": null,
+    "label": "Concentration of aliphatic hydrocarbons in sediment samples",
+    "alternative_label": "Sed_AliphaticHC",
+    "definition": "Aliphatic hydrocarbon (alkane, alkene, alkyne, polycyclic aliphatics like hopane, terpenes etc.)  concentrations in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff'",
+    "modified_date": "2012-03-01 16:27:53.000"
+  },
+  {
+    "id": 337,
+    "code": "SAMO",
+    "name": null,
+    "label": "Nutrient fluxes between the bed and the water column",
+    "alternative_label": "WCBed_NutFlux",
+    "definition": "Parameters quantifying the exchange of nutrients between the bed (ie the sediment) and the water column sometimes termed benthic fluxes",
+    "modified_date": "2004-08-18 16:41:50.000"
+  },
+  {
+    "id": 338,
+    "code": "SAMP",
+    "name": null,
+    "label": "Sampling parameters",
+    "alternative_label": "SamplingParams",
+    "definition": "Qualitative and quantitative parameters related to the sampling activity; includes terms related to sampling effort, sampling gears, sample processing.",
+    "modified_date": "2018-12-11 13:04:28.000"
+  },
+  {
+    "id": 339,
+    "code": "SATM",
+    "name": null,
+    "label": "Shellfish morphology, age and physiology",
+    "alternative_label": "Sfish_MorphAgePhys",
+    "definition": "Parameters that quantify the size, shape, age and life processes (including mortality) of shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries).",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 340,
+    "code": "SBPH",
+    "name": null,
+    "label": "Seabed photography",
+    "alternative_label": "BedPhoto",
+    "definition": "Digital images of the seabed obtained using either still or video cameras",
+    "modified_date": "2009-04-20 09:33:04.000"
+  },
+  {
+    "id": 341,
+    "code": "SCAH",
+    "name": null,
+    "label": "Concentration of polycyclic aromatic hydrocarbons (PAHs) in sediment samples",
+    "alternative_label": "Sed_PAH",
+    "definition": "PAH concentrations in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff'",
+    "modified_date": "2004-05-28 10:21:00.000"
+  },
+  {
+    "id": 342,
+    "code": "SCDO",
+    "name": null,
+    "label": "Metal fluxes between the bed and the water column",
+    "alternative_label": "WCBed_MetalFlux",
+    "definition": "Parameters quantifying the exchange of metalsbetween the bed (ie the sediment) and the water column sometimes termed benthic fluxes",
+    "modified_date": "2004-08-18 16:49:27.000"
+  },
+  {
+    "id": 343,
+    "code": "SCOC",
+    "name": null,
+    "label": "Concentration of other organic contaminants in sediment samples",
+    "alternative_label": "Sed_Orgcontam",
+    "definition": "Concentration parameters for carbon compounds regarded as environmentally harmful in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff' that are not included in other specific categories",
+    "modified_date": "2010-01-27 14:00:34.000"
+  },
+  {
+    "id": 344,
+    "code": "SCOX",
+    "name": null,
+    "label": "Dissolved concentration parameters for other gases in the water column",
+    "alternative_label": "OthGas_WC",
+    "definition": "All concentration parameters for inorganic dissolved gases other than oxygen and the noble gases in the water column",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 345,
+    "code": "SDAC",
+    "name": null,
+    "label": "Sediment acoustics",
+    "alternative_label": "Sed_acoustics",
+    "definition": "Parameters relating to the elucidation of sediment structure by quantifying the proportion of waves from a low energy source reflected by sub-surface layers.",
+    "modified_date": "2007-11-22 11:35:40.000"
+  },
+  {
+    "id": 346,
+    "code": "SDNA",
+    "name": null,
+    "label": "Concentrations of biopolymers in sediment",
+    "alternative_label": "Biolpoly_sed",
+    "definition": "Parameters quantifying the amount of naturally-produced organic (molecules containing carbon) compounds that are built from multiple instances of structural units (monomers) that are covalently-bonded to produce larger structures in any sediment (material collected by a corer including fluff). Includes polynucleotides (RNA and DNA), polypeptides and polysaccharides (e.g. cellulose).",
+    "modified_date": "2014-02-20 09:20:24.000"
+  },
+  {
+    "id": 347,
+    "code": "SEBH",
+    "name": null,
+    "label": "Seal behaviour",
+    "alternative_label": "Seal_Behav",
+    "definition": "Parameters describing the actions or reactions, usually in response to the environment, of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).",
+    "modified_date": "2019-05-31 20:13:30.000"
+  },
+  {
+    "id": 348,
+    "code": "SECC",
+    "name": null,
+    "label": "Secchi disk depth",
+    "alternative_label": "Secchi",
+    "definition": "Measurements of optical visibility in the water column",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 349,
+    "code": "SEMO",
+    "name": null,
+    "label": "Seal mortality",
+    "alternative_label": "Seal_Mort",
+    "definition": "Parameters describing the causes and rate of mortality of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).",
+    "modified_date": "2019-05-31 20:13:30.000"
+  },
+  {
+    "id": 350,
+    "code": "SEMP",
+    "name": null,
+    "label": "Seal morphology and physiology",
+    "alternative_label": "Seal_Morph_Phys",
+    "definition": "Parameters describing the size, shape or physiological activity including disease and parasite infection status of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).",
+    "modified_date": "2019-05-31 20:13:30.000"
+  },
+  {
+    "id": 351,
+    "code": "SHTA",
+    "name": null,
+    "label": "Hydrolytic activity in sediment",
+    "alternative_label": "Sed_HydrolAct",
+    "definition": "",
+    "modified_date": "2004-08-20 11:05:20.000"
+  },
+  {
+    "id": 352,
+    "code": "SIAT",
+    "name": null,
+    "label": "Inorganic silicon species concentrations in the atmosphere",
+    "alternative_label": "Silic_At",
+    "definition": "Concentration of inorganic silicon species (element or compounds) in any phase of the atmosphere",
+    "modified_date": "2005-09-23 11:41:38.000"
+  },
+  {
+    "id": 353,
+    "code": "SICO",
+    "name": null,
+    "label": "Other fluxes between the bed and the water column",
+    "alternative_label": "OthFlux_WCBed",
+    "definition": "Fluxes of species other than metals and nutrients between the bed (ie the sediment) and the water column sometimes termed benthic fluxes or sediment demand",
+    "modified_date": "2010-11-08 15:08:09.000"
+  },
+  {
+    "id": 354,
+    "code": "SIGT",
+    "name": null,
+    "label": "Density of the water column",
+    "alternative_label": "WC_Dens",
+    "definition": "Absolute determinations of water column density plus parameters (generally expressed as density anomaly) derived from temperature and salinity",
+    "modified_date": "2004-08-16 12:31:09.000"
+  },
+  {
+    "id": 355,
+    "code": "SIPW",
+    "name": null,
+    "label": "Stable isotopes in sediment pore waters",
+    "alternative_label": "Iso_SedPoreWater",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) in either the solute or solvent phase of sediment pore waters.",
+    "modified_date": "2017-08-09 15:05:42.000"
+  },
+  {
+    "id": 356,
+    "code": "SIXX",
+    "name": null,
+    "label": "Concentration of silicon species in the water column",
+    "alternative_label": "WC_SiSpecies",
+    "definition": "Concentration parameters for silicon species (including opal) in all phases of the water column",
+    "modified_date": "2004-08-13 15:33:19.000"
+  },
+  {
+    "id": 357,
+    "code": "SLCA",
+    "name": null,
+    "label": "Silicate concentration parameters in the water column",
+    "alternative_label": "WC_SiO4",
+    "definition": "Silicate concentration parameters (including statistical parameters such as standard deviation) in the water column",
+    "modified_date": "2004-05-27 11:07:25.000"
+  },
+  {
+    "id": 358,
+    "code": "SLIT",
+    "name": null,
+    "label": "Sea-floor litter abundance",
+    "alternative_label": "SeaFloorLitter",
+    "definition": "Parameters describing the abundance and nature of litter data collected on the seabed.",
+    "modified_date": "2018-09-06 12:48:34.000"
+  },
+  {
+    "id": 359,
+    "code": "SPAG",
+    "name": null,
+    "label": "Speleothem age",
+    "alternative_label": "Speleo_Age",
+    "definition": "Measured or stratigraphically estimated ages of secondary mineral deposits in caves. This includes stalactites, stalagmites, flowstone, and crystal growths.",
+    "modified_date": "2006-06-21 10:23:05.000"
+  },
+  {
+    "id": 360,
+    "code": "SPCB",
+    "name": null,
+    "label": "Concentration of polychlorobiphenyls (PCBs) in sediment samples",
+    "alternative_label": "Sed_PCB",
+    "definition": "PCB concentrations in sediment, which is considered to be anything from the bed sampled by a grab or corer, including 'fluff'",
+    "modified_date": "2004-05-28 09:10:00.000"
+  },
+  {
+    "id": 361,
+    "code": "SPGS",
+    "name": null,
+    "label": "Suspended particulate material grain size parameters",
+    "alternative_label": "SPM_GrSize",
+    "definition": "Includes all SPM grain size measurements and derived statistics",
+    "modified_date": "2004-10-26 15:53:00.000"
+  },
+  {
+    "id": 362,
+    "code": "SPHT",
+    "name": null,
+    "label": "Concentration of inorganic sulphur species in sediment pore water",
+    "alternative_label": "PoreWat_S",
+    "definition": "Concentration parameters (including saturation if gaseous) for inorganic sulphur species in all phases of sediment pore waters",
+    "modified_date": "2004-08-13 01:35:54.000"
+  },
+  {
+    "id": 363,
+    "code": "SPOL",
+    "name": null,
+    "label": "Sediment pollen content",
+    "alternative_label": "Sed_Pollen",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 364,
+    "code": "SPRO",
+    "name": null,
+    "label": "Concentration of proteins in sediment",
+    "alternative_label": "Sed_Protein",
+    "definition": "Concentrations of proteins per unit mass or unit volume of sediment (material collected by a corer including fluff)",
+    "modified_date": "2004-08-13 12:31:01.000"
+  },
+  {
+    "id": 365,
+    "code": "SPWC",
+    "name": null,
+    "label": "Concentration of inorganic sulphur species in the water column",
+    "alternative_label": "WC_SulphSpecies",
+    "definition": "Concentration parameters (including saturation if gaseous) for inorganic sulphur species in all phases of the water column",
+    "modified_date": "2004-08-13 01:47:00.000"
+  },
+  {
+    "id": 366,
+    "code": "SR2D",
+    "name": null,
+    "label": "Two-dimensional seismic reflection",
+    "alternative_label": "2DSeisReflec",
+    "definition": "Parameters relating to structure beneath sea-bed determined by the reflection of seismic energy along a single track.",
+    "modified_date": "2010-02-21 17:25:39.000"
+  },
+  {
+    "id": 367,
+    "code": "SR3D",
+    "name": null,
+    "label": "Three-dimensional seismic reflection",
+    "alternative_label": "3DSeisReflec",
+    "definition": "Parameters relating to structure beneath sea-bed determined by the reflection of seismic energy along multiple parallel tracks.",
+    "modified_date": "2010-02-21 17:25:54.000"
+  },
+  {
+    "id": 368,
+    "code": "SRAD",
+    "name": null,
+    "label": "Geological sample radioactivity",
+    "alternative_label": "GeoRad",
+    "definition": "Any parameters quantifying ionising radiation emitted by cores or samples comprising rock, sediment (including surface sediment such as fluff)",
+    "modified_date": "2010-10-22 11:24:53.000"
+  },
+  {
+    "id": 369,
+    "code": "SREP",
+    "name": null,
+    "label": "Shellfish reproduction",
+    "alternative_label": "Sfish_Rep",
+    "definition": "Parameters that quantify the fecundity, reproductive rates or nature of reproduction in shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries).",
+    "modified_date": "2018-02-12 14:04:58.000"
+  },
+  {
+    "id": 370,
+    "code": "SRFL",
+    "name": null,
+    "label": "Seismic reflection",
+    "alternative_label": "Reflection",
+    "definition": "Parameters relating to the elucidation of geological structure by quantifying the proportion of waves from a high energy source reflected by sub-surface layers.",
+    "modified_date": "2007-11-22 11:35:40.000"
+  },
+  {
+    "id": 371,
+    "code": "SRFR",
+    "name": null,
+    "label": "Seismic refraction",
+    "alternative_label": "Refraction",
+    "definition": "Parameters relating to the elucidation of geological structure by quantifying the refration of waves from a high energy source by sub-surface layers.",
+    "modified_date": "2007-11-22 11:35:40.000"
+  },
+  {
+    "id": 372,
+    "code": "SSCN",
+    "name": null,
+    "label": "Side-scan sonar",
+    "alternative_label": "Side_Scan",
+    "definition": "A technique for mapping the morphology of the seafloor using a sonar swath projected sideways from a towed underwater vehicle.",
+    "modified_date": "2006-06-28 18:37:15.000"
+  },
+  {
+    "id": 373,
+    "code": "SSTB",
+    "name": null,
+    "label": "Stable isotopes in sediment",
+    "alternative_label": "Iso_Sed",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) in sediment, including biota-associated parameters such as isotope enrichment in foraminifera tests.",
+    "modified_date": "2017-08-09 15:08:26.000"
+  },
+  {
+    "id": 374,
+    "code": "SSTR",
+    "name": null,
+    "label": "Sedimentary structure",
+    "alternative_label": "Sed_struct",
+    "definition": "Parameters characterising structure in sedimentary rocks and unlithified sediment such as bedding, lamination and bioturbation.",
+    "modified_date": "2010-10-01 10:30:27.000"
+  },
+  {
+    "id": 375,
+    "code": "STCO",
+    "name": null,
+    "label": "Sediment thermal conductivity",
+    "alternative_label": "SedThermCond",
+    "definition": "Parameters that describe the degree to which unlithified sediment is able to conduct heat",
+    "modified_date": "2010-02-21 17:28:04.000"
+  },
+  {
+    "id": 376,
+    "code": "STGC",
+    "name": null,
+    "label": "Stomach and gut contents",
+    "alternative_label": "StomachGutContents",
+    "definition": "Parameters that characterize or quantify the contents of the stomach and gut of an animal or group of animals.",
+    "modified_date": "2016-02-16 15:44:14.000"
+  },
+  {
+    "id": 377,
+    "code": "STMP",
+    "name": null,
+    "label": "Temperature of geological units",
+    "alternative_label": "GeolTemp",
+    "definition": "Parameters that describe the distribution of the degree of hotness within a body of rock or unlithified sediment.",
+    "modified_date": "2010-11-04 11:07:14.000"
+  },
+  {
+    "id": 378,
+    "code": "STOM",
+    "name": null,
+    "label": "Concentration of organic matter in sediments",
+    "alternative_label": "Sed_OrgMatter",
+    "definition": "Parameters quantifying the proportion of organic material in a soil or sediment sample",
+    "modified_date": "2008-06-30 11:31:40.000"
+  },
+  {
+    "id": 379,
+    "code": "SUAT",
+    "name": null,
+    "label": "Sulphur species concentrations in the atmosphere",
+    "alternative_label": "Sulph_At",
+    "definition": "Concentration of sulphur species (element or compounds) in any phase of the atmosphere. Includes sulphur dioxide.",
+    "modified_date": "2006-06-05 12:38:28.000"
+  },
+  {
+    "id": 380,
+    "code": "SVEL",
+    "name": null,
+    "label": "Sound velocity and travel time in the water column",
+    "alternative_label": "WC_SoundVel",
+    "definition": "",
+    "modified_date": "2004-08-19 09:17:17.000"
+  },
+  {
+    "id": 381,
+    "code": "SXCN",
+    "name": null,
+    "label": "Concentration of inorganic sulphur species in suspended particulate material",
+    "alternative_label": "SPM_SulphSpecies",
+    "definition": "Concentration parameters for inorganic sulphur species in suspended particulate material (anything collected by filtration or sediment trapping).  Group does not include parameters expressing data per unit volume of the water column",
+    "modified_date": "2004-08-13 15:10:16.000"
+  },
+  {
+    "id": 382,
+    "code": "TADN",
+    "name": null,
+    "label": "Concentration of adenylates in sediment",
+    "alternative_label": "Sed_Adenylates",
+    "definition": "Concentrations of adenylates (ADP, ATP etc) per unit mass or unit volume of sediment (material collected by a corer including fluff)",
+    "modified_date": "2004-08-13 12:17:06.000"
+  },
+  {
+    "id": 383,
+    "code": "TBGZ",
+    "name": null,
+    "label": "Bacterial consumption in the water column",
+    "alternative_label": "WC_BactConsump",
+    "definition": "",
+    "modified_date": "2004-08-19 11:30:38.000"
+  },
+  {
+    "id": 384,
+    "code": "TCFX",
+    "name": null,
+    "label": "Sedimentation flux of carbon, nitrogen or organic matter in the water column",
+    "alternative_label": "WC_SedFluxOrgMatter",
+    "definition": "Fluxes of particulate total, organic and inorganic carbon (including as CaCO3) and nitrogen (often measured as 'total' but assumed to be 'organic'). Organic matter is defined as matter lost on ignition.",
+    "modified_date": "2008-11-25 15:43:03.000"
+  },
+  {
+    "id": 385,
+    "code": "TCNT",
+    "name": null,
+    "label": "Raw temperature and/or salinity instrument output",
+    "alternative_label": "Raw_TS",
+    "definition": "Direct output parameters from TS instruments such as thermosalinograph or CTD",
+    "modified_date": "2003-11-06 00:00:00.000"
+  },
+  {
+    "id": 386,
+    "code": "TCO2",
+    "name": null,
+    "label": "Total dissolved inorganic carbon (TCO2) concentration in the water column",
+    "alternative_label": "WC_TCO2",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 387,
+    "code": "TD00",
+    "name": null,
+    "label": "Terrestrial detritus in the water column suspended particulate material",
+    "alternative_label": "WC_Terrdetritus",
+    "definition": "Parameters quantifying and categorising terrestrially-derived detritus (eg dust and pollen) in the water column",
+    "modified_date": "2004-08-18 09:43:46.000"
+  },
+  {
+    "id": 388,
+    "code": "TDIN",
+    "name": null,
+    "label": "Dissolved inorganic nitrogen concentration in the water column",
+    "alternative_label": "DissInorgN",
+    "definition": "Total concentration of all dissolved inorganic nitrogen species in the water column, usually derived by summation of individual nutrient concentrations (NO3+NO2+NH4). Some workers may also include urea.",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 389,
+    "code": "TDNT",
+    "name": null,
+    "label": "Dissolved total and organic nitrogen concentrations in the water column",
+    "alternative_label": "WC_DissNitrogen",
+    "definition": "Concentration of total (organic plus inorganic) or organic dissolved nitrogen per unit volume of the water column.  Grouped together as organic nitrogen frequently determined as total nitrogen.",
+    "modified_date": "2004-10-22 14:57:38.000"
+  },
+  {
+    "id": 390,
+    "code": "TDPX",
+    "name": null,
+    "label": "Dissolved total or organic phosphorus concentration in the water column",
+    "alternative_label": "WC_DissPhosphorus",
+    "definition": "Concentration of total (organic plus inorganic) or organic dissolved phosphorus per unit volume of the water column. Grouped together as organic phosphorus frequently determined as total phosphorus.",
+    "modified_date": "2004-10-22 15:01:05.000"
+  },
+  {
+    "id": 391,
+    "code": "TEMP",
+    "name": null,
+    "label": "Temperature of the water column",
+    "alternative_label": "WC_Temp",
+    "definition": "Temperature parameters in any body of water at any point between the bed and the atmosphere excluding the top few microns sampled by radiometers known as the skin",
+    "modified_date": "2007-03-02 11:33:02.000"
+  },
+  {
+    "id": 392,
+    "code": "TFAA",
+    "name": null,
+    "label": "Dissolved amino acid concentrations in the water column",
+    "alternative_label": "WC_AminoAcid",
+    "definition": "Parameters quantifying the amount of organic compounds containing both a carboxyl group and an amino group dissolved in a body of water.",
+    "modified_date": "2008-12-09 11:24:54.000"
+  },
+  {
+    "id": 393,
+    "code": "TMES",
+    "name": null,
+    "label": "Metadata parameters",
+    "alternative_label": "Metadata_param",
+    "definition": "Data parameters that carry information relating to a measured parameter such as measurement temperatures, integration depths, quantities sampled and incubation durations",
+    "modified_date": "2004-08-17 12:46:57.000"
+  },
+  {
+    "id": 394,
+    "code": "TNRP",
+    "name": null,
+    "label": "Dissolved inorganic carbon production and respiration in the water column",
+    "alternative_label": "TCO2_Prod",
+    "definition": "Parameters related to the rates of TCO2 production and consumption based on light/dark bottle incubations",
+    "modified_date": "2004-08-19 11:40:19.000"
+  },
+  {
+    "id": 395,
+    "code": "TOCH",
+    "name": null,
+    "label": "Concentration of carbohydrates, phenols, alkanols (alcohols), aldehydes and ketones in water bodies",
+    "alternative_label": "CarbPhenolAlkanolAldKetWater",
+    "definition": "Concentrations of carbohydrates, phenols, alkanols (alcohols), aldehydes and simple (non-alkenone) ketones in all phases of any body of fresh or salt water",
+    "modified_date": "2012-03-01 16:21:17.000"
+  },
+  {
+    "id": 396,
+    "code": "TPHS",
+    "name": null,
+    "label": "Particulate total and organic phosphorus concentrations in the water column",
+    "alternative_label": "WC_PartP",
+    "definition": "Concentrations of total and organic phosphorus in the particulate phase of the water column, which is a function of both the SPM concentration in the water column and the concentration of phosphorus per unit weight of SPM.",
+    "modified_date": "2004-10-25 10:12:47.000"
+  },
+  {
+    "id": 397,
+    "code": "TRAN",
+    "name": null,
+    "label": "Transport activity",
+    "alternative_label": "TransAct",
+    "definition": "Parameters quantifying the level of activity moving people or cargo from one place to another.",
+    "modified_date": "2008-12-09 10:17:11.000"
+  },
+  {
+    "id": 398,
+    "code": "TRIS",
+    "name": null,
+    "label": "Concentration of inorganic sulphur species in sediment",
+    "alternative_label": "Sed_SulphSpecies",
+    "definition": "Concentration parameters for inorganic sulphur species in sediment (anything collected by a corer including fluff)",
+    "modified_date": "2004-08-13 15:05:26.000"
+  },
+  {
+    "id": 399,
+    "code": "TSED",
+    "name": null,
+    "label": "Concentration of suspended particulate material in the water column",
+    "alternative_label": "WC_SPM",
+    "definition": "Parameters quantifying SPM concentration in the water column by weight, by volume or in terms of turbidity",
+    "modified_date": "2004-08-17 15:25:41.000"
+  },
+  {
+    "id": 400,
+    "code": "TVLT",
+    "name": null,
+    "label": "Raw suspended particulate material concentration sensor output",
+    "alternative_label": "Raw_SPM_optics",
+    "definition": "Raw parameters (voltages and counts) from in-situ suspended particulate material sensors including transmissometers, nephelometers,in-situ particle sizers and ABS (including ADCP echo intensity).",
+    "modified_date": "2014-01-21 00:11:37.000"
+  },
+  {
+    "id": 401,
+    "code": "UMLS",
+    "name": null,
+    "label": "Micro-litter in sediments",
+    "alternative_label": "Sed_Microlitter",
+    "definition": "Parameters describing the abundance and nature of microscopic particles of man-made materials and in particular microplastics present in the sediment.",
+    "modified_date": "2017-11-21 21:46:12.000"
+  },
+  {
+    "id": 402,
+    "code": "UMLW",
+    "name": null,
+    "label": "Micro-litter in water bodies",
+    "alternative_label": "WC_Microlitter",
+    "definition": "Parameters describing the abundance and nature of microscopic particles of man-made materials and in particular microplastics present in any body of fresh or salt water.",
+    "modified_date": "2017-11-21 21:40:48.000"
+  },
+  {
+    "id": 403,
+    "code": "UPTH",
+    "name": null,
+    "label": "Bacterial production in the water column",
+    "alternative_label": "WC_BactProd",
+    "definition": "Parameters related to bacterial production determination by measurement of dissolved organic molecule (e.g. leucine, thymidine) uptake rates",
+    "modified_date": "2005-04-27 01:10:16.000"
+  },
+  {
+    "id": 404,
+    "code": "UREA",
+    "name": null,
+    "label": "Urea concentration parameters in the water column",
+    "alternative_label": "WC_Urea",
+    "definition": "Urea concentration parameters (including statistical parameters such as standard deviation) in the water column",
+    "modified_date": "2004-05-27 11:06:04.000"
+  },
+  {
+    "id": 405,
+    "code": "UVRD",
+    "name": null,
+    "label": "Ultra-violet (UV) radiation",
+    "alternative_label": "UVRad",
+    "definition": "Parameters relating to the intensity of ultra-violet radiation in either the atmosphere or the water column",
+    "modified_date": "2007-11-21 16:30:18.000"
+  },
+  {
+    "id": 406,
+    "code": "V999",
+    "name": null,
+    "label": "Microzooplankton taxonomy-related biovolume per unit volume of the water column",
+    "alternative_label": "WC_TaxMicrozooBiovol",
+    "definition": "Microzooplankton biovolume parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS. These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 407,
+    "code": "VATX",
+    "name": null,
+    "label": "Phytoplankton taxonomic volume in water bodies",
+    "alternative_label": "PhytoTaxaVolWater",
+    "definition": "Any parameterisation of cell volume of free-floating autotrophic biological entities designated by taxonomic names (e.g. species, genus, family) in any body of fresh or salt water.",
+    "modified_date": "2010-10-21 14:53:17.000"
+  },
+  {
+    "id": 408,
+    "code": "VDFC",
+    "name": null,
+    "label": "Transport in the water column",
+    "alternative_label": "WC_Transport",
+    "definition": "Parameters describing the transport of material, heat or energy in the water column",
+    "modified_date": "2004-08-16 12:57:26.000"
+  },
+  {
+    "id": 409,
+    "code": "VIRU",
+    "name": null,
+    "label": "Virus abundance in water bodies",
+    "alternative_label": "VirAbundWater",
+    "definition": "Any enumeration (e.g. count, number per square metre) of viruses in any body of fresh or salt water.",
+    "modified_date": "2010-10-22 11:10:30.000"
+  },
+  {
+    "id": 410,
+    "code": "VSRA",
+    "name": null,
+    "label": "Visible waveband radiance and irradiance measurements in the atmosphere",
+    "alternative_label": "Atm_VisRad",
+    "definition": "Includes visible waveband measurements at discrete wavelengths and PAR integrated values as photon and energy fluxes. Does not include satellite radiometer and associated calibration parameters (e.g. water-leaving radiance and reflectance)",
+    "modified_date": "2006-06-05 15:02:32.000"
+  },
+  {
+    "id": 411,
+    "code": "VSRW",
+    "name": null,
+    "label": "Visible waveband radiance and irradiance measurements in the water column",
+    "alternative_label": "WC_VisRad",
+    "definition": "Includes measurements at discrete wavelengths and PAR integrated values, measurements as photon and energy fluxes.",
+    "modified_date": "2004-07-30 09:37:00.000"
+  },
+  {
+    "id": 412,
+    "code": "WBRX",
+    "name": null,
+    "label": "Water body redox potential",
+    "alternative_label": "RC_redox",
+    "definition": "A measure of the tendency of any body of fresh or salt water to either gain or lose electrons when it is subject to change by introduction of a new species.",
+    "modified_date": "2012-02-16 09:27:29.000"
+  },
+  {
+    "id": 413,
+    "code": "WCOC",
+    "name": null,
+    "label": "Concentration of other organic contaminants in the water column",
+    "alternative_label": "WC_Orgcontam",
+    "definition": "Concentration parameters for carbon compounds regarded as environmentally harmful in solution or suspension (i.e.includes measurements in both the dissolved and particulate phases) in any body of salt or fresh water that are not included in other specific categories",
+    "modified_date": "2010-01-27 00:37:34.000"
+  },
+  {
+    "id": 414,
+    "code": "WCPH",
+    "name": null,
+    "label": "Water column photography",
+    "alternative_label": "WaterColPhoto",
+    "definition": "Digital images of the water column obtained using either still or video cameras",
+    "modified_date": "2009-04-20 09:34:10.000"
+  },
+  {
+    "id": 415,
+    "code": "WCTR",
+    "name": null,
+    "label": "Water body released tracers",
+    "alternative_label": "WC_tracer",
+    "definition": "Parameters describing the amount in a sample of a tracer (rhodamine, SF6, 3He, etc.) that has been purposely released into  a water body to track water mass movements or quantify exchanges with the atmosphere.",
+    "modified_date": "2010-10-01 10:50:05.000"
+  },
+  {
+    "id": 416,
+    "code": "WCWT",
+    "name": null,
+    "label": "Sediment water content, porosity and surface area",
+    "alternative_label": "Sed_WaterCont",
+    "definition": "Sediment porosity (water content by volume) and water content by weight parameters",
+    "modified_date": "2004-08-17 01:50:43.000"
+  },
+  {
+    "id": 417,
+    "code": "WDNA",
+    "name": null,
+    "label": "Concentrations of biopolymers in water bodies",
+    "alternative_label": "Biolpoly_water",
+    "definition": "Parameters quantifying the amount of naturally-produced organic (molecules containing carbon) compounds that are built from multiple instances of structural units (monomers) that are covalently-bonded to produce larger structures in any body of salt or fresh water. Includes polynucleotides (RNA and DNA), polypeptides and polysaccharides (e.g. cellulose).",
+    "modified_date": "2014-02-20 09:18:00.000"
+  },
+  {
+    "id": 418,
+    "code": "WPRO",
+    "name": null,
+    "label": "Concentration of proteins in the water column",
+    "alternative_label": "Prot_WX",
+    "definition": "Concentrations of proteins in all phases of the water column",
+    "modified_date": "2004-08-13 12:31:01.000"
+  },
+  {
+    "id": 419,
+    "code": "WQBI",
+    "name": null,
+    "label": "Water quality bioindicators",
+    "alternative_label": "WaterQualBioind",
+    "definition": "Parameters quantifying fauna and flora that indicate physical or chemical conditions in the water column such as colonisation depths and abundance of indicator species.",
+    "modified_date": "2009-04-20 09:24:21.000"
+  },
+  {
+    "id": 420,
+    "code": "WRAD",
+    "name": null,
+    "label": "Radioactivity in water bodies",
+    "alternative_label": "WC_RadAct",
+    "definition": "All parameters associated with radioactivity in any body of fresh or salt water, including radiation counts, isotope activities and activity ratios. Activities per unit mass of SPM are included.",
+    "modified_date": "2017-08-09 14:54:31.000"
+  },
+  {
+    "id": 421,
+    "code": "WSTB",
+    "name": null,
+    "label": "Stable isotopes in water bodies",
+    "alternative_label": "Iso_WC",
+    "definition": "Stable isotope parameters (concentrations, ratios and enrichments) in both the dissolved and particulate phases of any body of fresh or salt water.",
+    "modified_date": "2017-08-09 15:07:35.000"
+  },
+  {
+    "id": 422,
+    "code": "WSTR",
+    "name": null,
+    "label": "Wind stress and shear",
+    "alternative_label": "WindForces",
+    "definition": "Parameters related to forces due to interactions between atmosphere and the surface of the earth or between atmospheric air masses",
+    "modified_date": "2007-02-23 14:59:38.000"
+  },
+  {
+    "id": 423,
+    "code": "WVSP",
+    "name": null,
+    "label": "Spectral wave data parameters",
+    "alternative_label": "SpectWaveParm",
+    "definition": "Parameters for directional and non-directional spectral wave data, excluding wave directions derived from spectral data.",
+    "modified_date": "2004-07-30 16:09:00.000"
+  },
+  {
+    "id": 424,
+    "code": "WVST",
+    "name": null,
+    "label": "Wave height and period statistics",
+    "alternative_label": "WaveStats",
+    "definition": "Statistical parameters derived from wave records to express wave height and period.",
+    "modified_date": "2004-07-30 16:10:00.000"
+  },
+  {
+    "id": 425,
+    "code": "XKEY",
+    "name": null,
+    "label": "Security tags and keys",
+    "alternative_label": "Sec_Key",
+    "definition": "Parameters used to encode information specifying access rights to data, usually in terms of authorised roles",
+    "modified_date": "2008-12-09 11:17:27.000"
+  },
+  {
+    "id": 426,
+    "code": "XMGS",
+    "name": null,
+    "label": "Geological sample magnetic, electrical and acoustic properties",
+    "alternative_label": "GeoMagElecAcc",
+    "definition": "Any parameters quantifying the magnetic (e.g. magnetic susceptibility), electrical (e.g. resistivity) or acoustic (e.g. P-wave propogation speed) of sediment or rock cores and samples",
+    "modified_date": "2010-12-15 13:11:07.000"
+  },
+  {
+    "id": 427,
+    "code": "ZADX",
+    "name": null,
+    "label": "Zoobenthos dry weight biomass",
+    "alternative_label": "ZoobenthDryBiomass",
+    "definition": "Any quantification of the dry mass of zoobenthos (animals living on, in or near the bed of any water body). Includes animals normally considered planktonic if collected in sediment and data expressed ash-free and in terms of carbon, nitrogen etc..",
+    "modified_date": "2013-08-01 10:07:37.000"
+  },
+  {
+    "id": 428,
+    "code": "ZATP",
+    "name": null,
+    "label": "Zooplankton taxonomy-related biomass expressed as protein per unit volume of the water column",
+    "alternative_label": "Zoo_taxa_prot_biom",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) protein biomass per unit volume for entities that have been identified by taxonomic name",
+    "modified_date": "2005-08-18 10:55:05.000"
+  },
+  {
+    "id": 429,
+    "code": "ZATX",
+    "name": null,
+    "label": "Zooplankton taxonomy-related abundance per unit volume of the water column",
+    "alternative_label": "Zoo_taxa_abund",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) abundance parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 430,
+    "code": "ZBTX",
+    "name": null,
+    "label": "Zoobenthos taxonomic abundance",
+    "alternative_label": "ZoobenthTaxAbund",
+    "definition": "Any enumeration (e.g. count, number per square metre) of animals living on or near the seabed designated by taxonomic names (e.g. species, genus).",
+    "modified_date": "2010-10-22 11:03:50.000"
+  },
+  {
+    "id": 431,
+    "code": "ZCMP",
+    "name": null,
+    "label": "Zooplankton chemical composition",
+    "alternative_label": "ZooplChemComp",
+    "definition": "Chemical composition of zooplankton expressed in terms of mass (or molar quantity) per specimen or per unit tissue mass",
+    "modified_date": "2005-08-01 16:41:59.000"
+  },
+  {
+    "id": 432,
+    "code": "ZCTC",
+    "name": null,
+    "label": "Zooplankton taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "Zoo_taxa_C_biomass",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 433,
+    "code": "ZCTN",
+    "name": null,
+    "label": "Zooplankton taxonomy-related biomass expressed as nitrogen per unit volume of the water column",
+    "alternative_label": "Zoo_taxa_N_biomass",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) nitrogen biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 434,
+    "code": "ZFIT",
+    "name": null,
+    "label": "Zooplankton and zoobenthos physiological condition parameters",
+    "alternative_label": "ZooPhysioCondition",
+    "definition": "Parameters indicating the health of zooplankton and zoobenthos taxa, such as fecundity, egg condition, presence of parasites/diseases etc.",
+    "modified_date": "2014-08-04 09:52:15.000"
+  },
+  {
+    "id": 435,
+    "code": "ZNLG",
+    "name": null,
+    "label": "Metal ligand parameters in the water column",
+    "alternative_label": "WC_MetalLigand",
+    "definition": "Parameters concerned with the complexation of metals as ligands in the water column",
+    "modified_date": "2004-08-11 17:06:28.000"
+  },
+  {
+    "id": 436,
+    "code": "ZNTC",
+    "name": null,
+    "label": "Zooplankton non taxonomy-related biomass expressed as carbon per unit volume of the water column",
+    "alternative_label": "Zoo_nontaxa_C_biomass",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) carbon biomass per unit volume parameters not included in group ZCTC.  Usually used for generic names such as 'mesozooplankton'.",
+    "modified_date": "2004-04-20 09:52:00.000"
+  },
+  {
+    "id": 437,
+    "code": "ZNTN",
+    "name": null,
+    "label": "Zooplankton non taxonomy-related biomass expressed as nitrogen per unit volume of the water column",
+    "alternative_label": "Zoo_nontaxa_N_biomass",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) nitrogen biomass per unit volume parameters not included in group ZCTC.  Usually used for generic names such as 'mesozooplankton'.",
+    "modified_date": "2010-07-19 10:38:40.000"
+  },
+  {
+    "id": 438,
+    "code": "ZNTP",
+    "name": null,
+    "label": "Zooplankton non taxonomy-related biomass expressed as protein per unit volume of the water column",
+    "alternative_label": "Zoo_nontaxa_prot_biom",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) protein biomass per unit volume for entities that have not been identified by taxonomic name",
+    "modified_date": "2005-08-18 10:54:26.000"
+  },
+  {
+    "id": 439,
+    "code": "ZNTX",
+    "name": null,
+    "label": "Zooplankton non taxonomy-related abundance per unit volume of the water column",
+    "alternative_label": "Zoo_nontaxa_abund",
+    "definition": "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) abundance per unit volume parameters not included in group ZATX.  Usually used for generic names such as 'mesozooplankton'.",
+    "modified_date": "2004-04-19 17:35:00.000"
+  },
+  {
+    "id": 440,
+    "code": "ZOOB",
+    "name": null,
+    "label": "Zoobenthos taxonomy-related counts",
+    "alternative_label": "Zoobenth_taxa_count",
+    "definition": "Zoobenthos count parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards. Count includes presence/absence indicators.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 441,
+    "code": "ZV00",
+    "name": null,
+    "label": "Zooplankton biovolume",
+    "alternative_label": "ZooBiovol",
+    "definition": "",
+    "modified_date": "2003-06-10 14:53:19.000"
+  },
+  {
+    "id": 442,
+    "code": "ZWTX",
+    "name": null,
+    "label": "Zoobenthos taxonomy-related wet weight biomass per unit area of the bed",
+    "alternative_label": "Zoobenth_tax_ww_biomass",
+    "definition": "Zoobenthos wet weight biomass per unit area parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals considered as planktonic if they have been returned from sediment samples.",
+    "modified_date": "2017-07-17 01:08:43.000"
+  },
+  {
+    "id": 443,
+    "code": "ZZZZ",
+    "name": null,
+    "label": "Unspecified",
+    "alternative_label": "Unspec",
+    "definition": "The identity of the parameter is not declared.  Covers cases such as internal working parameters and dummy channels.",
+    "modified_date": "2008-12-09 10:56:20.000"
+  }
+]
