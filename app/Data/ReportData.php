@@ -58,28 +58,28 @@ class ReportData extends Data
     public Carbon $periodEndDate;
 
     /**
-     * @var \App\Data\CountryData|\Spatie\LaravelData\Lazy
+     * @var \App\Data\CountryData|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation]
-    public CountryData|Lazy $countryOfDeparture;
+    public CountryData|Lazy|null $countryOfDeparture;
 
     /**
-     * @var \App\Data\SeaPortData|\Spatie\LaravelData\Lazy
+     * @var \App\Data\SeaPortData|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation]
-    public SeaPortData|Lazy $portOfDeparture;
+    public SeaPortData|Lazy|null $portOfDeparture;
 
     /**
-     * @var \App\Data\CountryData|\Spatie\LaravelData\Lazy
+     * @var \App\Data\CountryData|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation]
-    public CountryData|Lazy $countryOfReturn;
+    public CountryData|Lazy|null $countryOfReturn;
 
     /**
-     * @var \App\Data\SeaPortData|\Spatie\LaravelData\Lazy
+     * @var \App\Data\SeaPortData|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation]
-    public SeaPortData|Lazy $portOfReturn;
+    public SeaPortData|Lazy|null $portOfReturn;
 
     /**
      * @var \App\Data\DataAccessRestrictionData|\Spatie\LaravelData\Lazy
@@ -88,15 +88,15 @@ class ReportData extends Data
     public DataAccessRestrictionData|Lazy $dataAccessRestriction;
 
     /**
-     * @var string
+     * @var string|null
      */
-    public string $objectives;
+    public ?string $objectives;
 
     /**
-     * @var string
+     * @var string|null
      */
     #[Max(255)]
-    public string $projectName;
+    public ?string $projectName;
 
     /**
      * @var \App\Data\PlatformData|\Spatie\LaravelData\Lazy
@@ -111,27 +111,27 @@ class ReportData extends Data
     public PlatformCategoryData|Lazy $platformCategory;
 
     /**
-     * @var string
+     * @var string|null
      */
-    public string $comment;
+    public ?string $comment;
 
     /**
-     * @var \Spatie\LaravelData\DataCollection<\App\Data\SeaScapeParameterData>|\Spatie\LaravelData\Lazy
+     * @var \Spatie\LaravelData\DataCollection<\App\Data\SeaScapeParameterData>|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation, DataCollectionOf(SeaScapeParameterData::class)]
-    public DataCollection|Lazy $parameters;
+    public DataCollection|Lazy|null $parameters;
 
     /**
-     * @var \Spatie\LaravelData\DataCollection<\App\Data\InstrumentData>|\Spatie\LaravelData\Lazy
+     * @var \Spatie\LaravelData\DataCollection<\App\Data\InstrumentData>|\Spatie\LaravelData\Lazy|null
      */
     #[WithoutValidation, DataCollectionOf(InstrumentData::class)]
-    public DataCollection|Lazy $instruments;
+    public DataCollection|Lazy|null $instruments;
 
     /**
-     * @var \Spatie\LaravelData\DataCollection<\App\Data\ReportMooringData>|\Spatie\LaravelData\Lazy
+     * @var \Spatie\LaravelData\DataCollection<\App\Data\ReportMooringData>|\Spatie\LaravelData\Lazy|null
      */
     #[DataCollectionOf(ReportMooringData::class)]
-    public DataCollection|Lazy $moorings;
+    public DataCollection|Lazy|null $moorings;
 
     /**
      * Get the validation rules.
@@ -142,10 +142,10 @@ class ReportData extends Data
     public static function rules(ValidationContext $context): array
     {
         return [
-            'country_of_departure' => 'required|numeric|exists:countries,id',
-            'port_of_departure' => 'required|numeric|exists:sea_ports,id',
-            'country_of_return' => 'required|numeric|exists:countries,id',
-            'port_of_return' => 'required|numeric|exists:sea_ports,id',
+            'country_of_departure' => 'nullable|numeric|exists:countries,id',
+            'port_of_departure' => 'nullable|numeric|exists:sea_ports,id',
+            'country_of_return' => 'nullable|numeric|exists:countries,id',
+            'port_of_return' => 'nullable|numeric|exists:sea_ports,id',
             'data_access_restriction' => 'required|numeric|exists:data_access_restriction,id',
             'platform' => 'required|numeric|exists:platforms,id',
             'platform_category' => 'required|numeric|exists:platform_category,id',
@@ -165,12 +165,16 @@ class ReportData extends Data
     public static function fromRequest(Request $request): static
     {
         return static::withoutMagicalCreationFrom(array_merge($request->all(), [
-            'parameters' => SeaScapeParameterData::collection(
-                SeaScapeParameter::whereIn('id', $request->input('parameters'))->get()
-            )->withoutWrapping(),
-            'instruments' => InstrumentData::collection(
-                Instrument::whereIn('id', $request->input('instruments'))->get()
-            )->withoutWrapping(),
+            'parameters' => $request->whenFilled('parameters', function () use ($request) {
+                return SeaScapeParameterData::collection(
+                    SeaScapeParameter::whereIn('id', $request->input('parameters'))->get()
+                )->withoutWrapping();
+            }, fn () => null),
+            'instruments' => $request->whenFilled('instruments', function () use ($request) {
+                return InstrumentData::collection(
+                    Instrument::whereIn('id', $request->input('instruments'))->get()
+                )->withoutWrapping();
+            }, fn () => null)
         ]));
     }
 

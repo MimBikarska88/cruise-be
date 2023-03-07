@@ -33,9 +33,9 @@ class UpsertReportAction
 
         $report->save();
         $report->moorings()->delete();
-        $report->parameters()->sync($data->parameters->toCollection()->pluck('id')->toArray());
-        $report->instruments()->sync($data->instruments->toCollection()->pluck('id')->toArray());
-        $data->moorings->map(function(ReportMooringData $reportMooringData) use ($report) {
+        $report->parameters()->sync($data->parameters?->toCollection()?->pluck('id')?->toArray() ?? []);
+        $report->instruments()->sync($data->instruments?->toCollection()?->pluck('id')?->toArray() ?? []);
+        $data->moorings?->map(function(ReportMooringData $reportMooringData) use ($report) {
             return $this->createReportMooringAction->handle($report, $reportMooringData);
         });
 
