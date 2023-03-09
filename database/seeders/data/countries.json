@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 1,
+    "code": "99",
+    "label": "Unknown",
+    "modified_date": "2008-10-02 16:03:17.000",
+    "definition": "The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists",
+    "alternative_label": "Unknown"
+  },
+  {
+    "id": 2,
+    "code": "9X",
+    "label": "inapplicable",
+    "modified_date": "2011-08-26 11:26:06.000",
+    "definition": "There is no appropriate value",
+    "alternative_label": "Inapplicable"
+  },
+  {
+    "id": 3,
+    "code": "AD",
+    "label": "Andorra",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AND"
+  },
+  {
+    "id": 4,
+    "code": "AE",
+    "label": "United Arab Emirates",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ARE"
+  },
+  {
+    "id": 5,
+    "code": "AF",
+    "label": "Afghanistan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AFG"
+  },
+  {
+    "id": 6,
+    "code": "AG",
+    "label": "Antigua and Barbuda",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ATG"
+  },
+  {
+    "id": 7,
+    "code": "AI",
+    "label": "Anguilla",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AIA"
+  },
+  {
+    "id": 8,
+    "code": "AL",
+    "label": "Albania",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ALB"
+  },
+  {
+    "id": 9,
+    "code": "AM",
+    "label": "Armenia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ARM"
+  },
+  {
+    "id": 10,
+    "code": "AO",
+    "label": "Angola",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AGO"
+  },
+  {
+    "id": 11,
+    "code": "AQ",
+    "label": "Antarctica",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ATA"
+  },
+  {
+    "id": 12,
+    "code": "AR",
+    "label": "Argentina",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ARG"
+  },
+  {
+    "id": 13,
+    "code": "AS",
+    "label": "American Samoa",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ASM"
+  },
+  {
+    "id": 14,
+    "code": "AT",
+    "label": "Austria",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AUT"
+  },
+  {
+    "id": 15,
+    "code": "AU",
+    "label": "Australia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AUS"
+  },
+  {
+    "id": 16,
+    "code": "AW",
+    "label": "Aruba",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ABW"
+  },
+  {
+    "id": 17,
+    "code": "AX",
+    "label": "Åland Islands",
+    "modified_date": "2011-12-14 00:25:42.000",
+    "definition": "",
+    "alternative_label": "ALA"
+  },
+  {
+    "id": 18,
+    "code": "AZ",
+    "label": "Azerbaijan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "AZE"
+  },
+  {
+    "id": 19,
+    "code": "BA",
+    "label": "Bosnia and Herzegovina",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BIH"
+  },
+  {
+    "id": 20,
+    "code": "BB",
+    "label": "Barbados",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BRB"
+  },
+  {
+    "id": 21,
+    "code": "BD",
+    "label": "Bangladesh",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BGD"
+  },
+  {
+    "id": 22,
+    "code": "BE",
+    "label": "Belgium",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BEL"
+  },
+  {
+    "id": 23,
+    "code": "BF",
+    "label": "Burkina Faso",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BFA"
+  },
+  {
+    "id": 24,
+    "code": "BG",
+    "label": "Bulgaria",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BGR"
+  },
+  {
+    "id": 25,
+    "code": "BH",
+    "label": "Bahrain",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BHR"
+  },
+  {
+    "id": 26,
+    "code": "BI",
+    "label": "Burundi",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BDI"
+  },
+  {
+    "id": 27,
+    "code": "BJ",
+    "label": "Benin",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BEN"
+  },
+  {
+    "id": 28,
+    "code": "BL",
+    "label": "Saint Barthélemy",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "Added in ISO Newsletter published 2007-09-21",
+    "alternative_label": "BLM"
+  },
+  {
+    "id": 29,
+    "code": "BM",
+    "label": "Bermuda",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BMU"
+  },
+  {
+    "id": 30,
+    "code": "BN",
+    "label": "Brunei Darussalam",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BRN"
+  },
+  {
+    "id": 31,
+    "code": "BO",
+    "label": "Bolivia, Plurinational State of",
+    "modified_date": "2011-12-14 00:27:21.000",
+    "definition": "",
+    "alternative_label": "BOL"
+  },
+  {
+    "id": 32,
+    "code": "BQ",
+    "label": "Bonaire, Sint Eustatius and Saba",
+    "modified_date": "2011-12-14 00:14:01.000",
+    "definition": "Added in ISO 3166-1 Newsletter VI-8 (2010-12-15)). Code was formerly used for the British Antarctic Territory",
+    "alternative_label": "BES"
+  },
+  {
+    "id": 33,
+    "code": "BR",
+    "label": "Brazil",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BRA"
+  },
+  {
+    "id": 34,
+    "code": "BS",
+    "label": "Bahamas",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BHS"
+  },
+  {
+    "id": 35,
+    "code": "BT",
+    "label": "Bhutan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BTN"
+  },
+  {
+    "id": 36,
+    "code": "BV",
+    "label": "Bouvet Island",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BVT"
+  },
+  {
+    "id": 37,
+    "code": "BW",
+    "label": "Botswana",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BWA"
+  },
+  {
+    "id": 38,
+    "code": "BY",
+    "label": "Belarus",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BLR"
+  },
+  {
+    "id": 39,
+    "code": "BZ",
+    "label": "Belize",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "BLZ"
+  },
+  {
+    "id": 40,
+    "code": "CA",
+    "label": "Canada",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CAN"
+  },
+  {
+    "id": 41,
+    "code": "CC",
+    "label": "Cocos (Keeling) Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CCK"
+  },
+  {
+    "id": 42,
+    "code": "CD",
+    "label": "Congo, Democratic Republic of",
+    "modified_date": "2019-04-16 16:26:52.000",
+    "definition": "",
+    "alternative_label": "COD"
+  },
+  {
+    "id": 43,
+    "code": "CF",
+    "label": "Central African Republic",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CAF"
+  },
+  {
+    "id": 44,
+    "code": "CG",
+    "label": "Congo",
+    "modified_date": "2010-11-01 15:35:53.000",
+    "definition": "",
+    "alternative_label": "COG"
+  },
+  {
+    "id": 45,
+    "code": "CH",
+    "label": "Switzerland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CHE"
+  },
+  {
+    "id": 46,
+    "code": "CI",
+    "label": "Côte d'Ivoire",
+    "modified_date": "2016-01-13 16:00:41.000",
+    "definition": "",
+    "alternative_label": "CIV"
+  },
+  {
+    "id": 47,
+    "code": "CK",
+    "label": "Cook Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "COK"
+  },
+  {
+    "id": 48,
+    "code": "CL",
+    "label": "Chile",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CHL"
+  },
+  {
+    "id": 49,
+    "code": "CM",
+    "label": "Cameroon",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CMR"
+  },
+  {
+    "id": 50,
+    "code": "CN",
+    "label": "China",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CHN"
+  },
+  {
+    "id": 51,
+    "code": "CO",
+    "label": "Colombia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "COL"
+  },
+  {
+    "id": 52,
+    "code": "CR",
+    "label": "Costa Rica",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CRI"
+  },
+  {
+    "id": 53,
+    "code": "CU",
+    "label": "Cuba",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CUB"
+  },
+  {
+    "id": 54,
+    "code": "CV",
+    "label": "Cape Verde",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CPV"
+  },
+  {
+    "id": 55,
+    "code": "CW",
+    "label": "Curaçao",
+    "modified_date": "2011-12-14 00:13:10.000",
+    "definition": "Added in ISO 3166-1 Newsletter VI-8 (2010-12-15)).",
+    "alternative_label": "CUW"
+  },
+  {
+    "id": 56,
+    "code": "CX",
+    "label": "Christmas Island",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CXR"
+  },
+  {
+    "id": 57,
+    "code": "CY",
+    "label": "Cyprus",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CYP"
+  },
+  {
+    "id": 58,
+    "code": "CZ",
+    "label": "Czechia",
+    "modified_date": "2019-04-16 16:26:52.000",
+    "definition": "Official name is Czech Republic",
+    "alternative_label": "CZE"
+  },
+  {
+    "id": 59,
+    "code": "DE",
+    "label": "Germany",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DEU"
+  },
+  {
+    "id": 60,
+    "code": "DJ",
+    "label": "Djibouti",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DJI"
+  },
+  {
+    "id": 61,
+    "code": "DK",
+    "label": "Denmark",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DNK"
+  },
+  {
+    "id": 62,
+    "code": "DM",
+    "label": "Dominica",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DMA"
+  },
+  {
+    "id": 63,
+    "code": "DO",
+    "label": "Dominican Republic",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DOM"
+  },
+  {
+    "id": 64,
+    "code": "DZ",
+    "label": "Algeria",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "DZA"
+  },
+  {
+    "id": 65,
+    "code": "EC",
+    "label": "Ecuador",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ECU"
+  },
+  {
+    "id": 66,
+    "code": "EE",
+    "label": "Estonia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "EST"
+  },
+  {
+    "id": 67,
+    "code": "EG",
+    "label": "Egypt",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "EGY"
+  },
+  {
+    "id": 68,
+    "code": "EH",
+    "label": "Western Sahara",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ESH"
+  },
+  {
+    "id": 69,
+    "code": "ER",
+    "label": "Eritrea",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ERI"
+  },
+  {
+    "id": 70,
+    "code": "ES",
+    "label": "Spain",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ESP"
+  },
+  {
+    "id": 71,
+    "code": "ET",
+    "label": "Ethiopia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ETH"
+  },
+  {
+    "id": 72,
+    "code": "EU",
+    "label": "European Union",
+    "modified_date": "2020-11-17 18:50:08.000",
+    "definition": "Exceptionally reserved ISO 3166 code for the European Union by the ISO 3166 Maintenance Agency (ISO 3166/MA) - to be used in applications where the European Union is the administrative or legal entity.",
+    "alternative_label": "EU"
+  },
+  {
+    "id": 73,
+    "code": "FI",
+    "label": "Finland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FIN"
+  },
+  {
+    "id": 74,
+    "code": "FJ",
+    "label": "Fiji",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FJI"
+  },
+  {
+    "id": 75,
+    "code": "FK",
+    "label": "Falkland Islands (Malvinas)",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FLK"
+  },
+  {
+    "id": 76,
+    "code": "FM",
+    "label": "Micronesia, Federated States of",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FSM"
+  },
+  {
+    "id": 77,
+    "code": "FO",
+    "label": "Faroe Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FRO"
+  },
+  {
+    "id": 78,
+    "code": "FR",
+    "label": "France",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "FRA"
+  },
+  {
+    "id": 79,
+    "code": "GA",
+    "label": "Gabon",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GAB"
+  },
+  {
+    "id": 80,
+    "code": "GB",
+    "label": "United Kingdom",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GBR"
+  },
+  {
+    "id": 81,
+    "code": "GD",
+    "label": "Grenada",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GRD"
+  },
+  {
+    "id": 82,
+    "code": "GE",
+    "label": "Georgia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GEO"
+  },
+  {
+    "id": 83,
+    "code": "GF",
+    "label": "French Guiana",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GUF"
+  },
+  {
+    "id": 84,
+    "code": "GG",
+    "label": "Guernsey",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GGY"
+  },
+  {
+    "id": 85,
+    "code": "GH",
+    "label": "Ghana",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GHA"
+  },
+  {
+    "id": 86,
+    "code": "GI",
+    "label": "Gibraltar",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GIB"
+  },
+  {
+    "id": 87,
+    "code": "GL",
+    "label": "Greenland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GRL"
+  },
+  {
+    "id": 88,
+    "code": "GM",
+    "label": "Gambia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GMB"
+  },
+  {
+    "id": 89,
+    "code": "GN",
+    "label": "Guinea",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GIN"
+  },
+  {
+    "id": 90,
+    "code": "GP",
+    "label": "Guadeloupe",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GLP"
+  },
+  {
+    "id": 91,
+    "code": "GQ",
+    "label": "Equatorial Guinea",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GNQ"
+  },
+  {
+    "id": 92,
+    "code": "GR",
+    "label": "Greece",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GRC"
+  },
+  {
+    "id": 93,
+    "code": "GS",
+    "label": "South Georgia and the South Sandwich Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SGS"
+  },
+  {
+    "id": 94,
+    "code": "GT",
+    "label": "Guatemala",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GTM"
+  },
+  {
+    "id": 95,
+    "code": "GU",
+    "label": "Guam",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GUM"
+  },
+  {
+    "id": 96,
+    "code": "GW",
+    "label": "Guinea-Bissau",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GNB"
+  },
+  {
+    "id": 97,
+    "code": "GY",
+    "label": "Guyana",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "GUY"
+  },
+  {
+    "id": 98,
+    "code": "HK",
+    "label": "Hong Kong",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HKG"
+  },
+  {
+    "id": 99,
+    "code": "HM",
+    "label": "Heard and McDonald Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HMD"
+  },
+  {
+    "id": 100,
+    "code": "HN",
+    "label": "Honduras",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HND"
+  },
+  {
+    "id": 101,
+    "code": "HR",
+    "label": "Croatia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HRV"
+  },
+  {
+    "id": 102,
+    "code": "HT",
+    "label": "Haiti",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HTI"
+  },
+  {
+    "id": 103,
+    "code": "HU",
+    "label": "Hungary",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "HUN"
+  },
+  {
+    "id": 104,
+    "code": "ID",
+    "label": "Indonesia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IDN"
+  },
+  {
+    "id": 105,
+    "code": "IE",
+    "label": "Ireland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IRL"
+  },
+  {
+    "id": 106,
+    "code": "IL",
+    "label": "Israel",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ISR"
+  },
+  {
+    "id": 107,
+    "code": "IM",
+    "label": "Isle Of Man",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IMN"
+  },
+  {
+    "id": 108,
+    "code": "IN",
+    "label": "India",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IND"
+  },
+  {
+    "id": 109,
+    "code": "IO",
+    "label": "British Indian Ocean Territory",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IOT"
+  },
+  {
+    "id": 110,
+    "code": "IQ",
+    "label": "Iraq",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IRQ"
+  },
+  {
+    "id": 111,
+    "code": "IR",
+    "label": "Iran, Islamic Republic of",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "IRN"
+  },
+  {
+    "id": 112,
+    "code": "IS",
+    "label": "Iceland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ISL"
+  },
+  {
+    "id": 113,
+    "code": "IT",
+    "label": "Italy",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ITA"
+  },
+  {
+    "id": 114,
+    "code": "JE",
+    "label": "Jersey",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "JEY"
+  },
+  {
+    "id": 115,
+    "code": "JM",
+    "label": "Jamaica",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "JAM"
+  },
+  {
+    "id": 116,
+    "code": "JO",
+    "label": "Jordan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "JOR"
+  },
+  {
+    "id": 117,
+    "code": "JP",
+    "label": "Japan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "JPN"
+  },
+  {
+    "id": 118,
+    "code": "KE",
+    "label": "Kenya",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KEN"
+  },
+  {
+    "id": 119,
+    "code": "KG",
+    "label": "Kyrgyzstan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KGZ"
+  },
+  {
+    "id": 120,
+    "code": "KH",
+    "label": "Cambodia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KHM"
+  },
+  {
+    "id": 121,
+    "code": "KI",
+    "label": "Kiribati",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KIR"
+  },
+  {
+    "id": 122,
+    "code": "KM",
+    "label": "Comoros",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "COM"
+  },
+  {
+    "id": 123,
+    "code": "KN",
+    "label": "Saint Kitts and Nevis",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KNA"
+  },
+  {
+    "id": 124,
+    "code": "KP",
+    "label": "Korea, Democratic People's Republic of",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PRK"
+  },
+  {
+    "id": 125,
+    "code": "KR",
+    "label": "Korea, Republic of",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KOR"
+  },
+  {
+    "id": 126,
+    "code": "KW",
+    "label": "Kuwait",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KWT"
+  },
+  {
+    "id": 127,
+    "code": "KY",
+    "label": "Cayman Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "CYM"
+  },
+  {
+    "id": 128,
+    "code": "KZ",
+    "label": "Kazakhstan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "KAZ"
+  },
+  {
+    "id": 129,
+    "code": "LA",
+    "label": "Lao People's Democratic Republic",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LAO"
+  },
+  {
+    "id": 130,
+    "code": "LB",
+    "label": "Lebanon",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LBN"
+  },
+  {
+    "id": 131,
+    "code": "LC",
+    "label": "Saint Lucia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LCA"
+  },
+  {
+    "id": 132,
+    "code": "LI",
+    "label": "Liechtenstein",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LIE"
+  },
+  {
+    "id": 133,
+    "code": "LK",
+    "label": "Sri Lanka",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LKA"
+  },
+  {
+    "id": 134,
+    "code": "LR",
+    "label": "Liberia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LBR"
+  },
+  {
+    "id": 135,
+    "code": "LS",
+    "label": "Lesotho",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LSO"
+  },
+  {
+    "id": 136,
+    "code": "LT",
+    "label": "Lithuania",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LTU"
+  },
+  {
+    "id": 137,
+    "code": "LU",
+    "label": "Luxembourg",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LUX"
+  },
+  {
+    "id": 138,
+    "code": "LV",
+    "label": "Latvia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "LVA"
+  },
+  {
+    "id": 139,
+    "code": "LY",
+    "label": "Libya",
+    "modified_date": "2011-12-14 00:30:11.000",
+    "definition": "",
+    "alternative_label": "LBY"
+  },
+  {
+    "id": 140,
+    "code": "MA",
+    "label": "Morocco",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MAR"
+  },
+  {
+    "id": 141,
+    "code": "MC",
+    "label": "Monaco",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MCO"
+  },
+  {
+    "id": 142,
+    "code": "MD",
+    "label": "Moldova, Republic of",
+    "modified_date": "2011-12-14 00:31:36.000",
+    "definition": "",
+    "alternative_label": "MDA"
+  },
+  {
+    "id": 143,
+    "code": "ME",
+    "label": "Montenegro",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MNE"
+  },
+  {
+    "id": 144,
+    "code": "MF",
+    "label": "Saint Martin (French part)",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "Added in ISO Newsletter published 2007-09-21",
+    "alternative_label": "MAF"
+  },
+  {
+    "id": 145,
+    "code": "MG",
+    "label": "Madagascar",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MDG"
+  },
+  {
+    "id": 146,
+    "code": "MH",
+    "label": "Marshall Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MHL"
+  },
+  {
+    "id": 147,
+    "code": "MK",
+    "label": "North Macedonia",
+    "modified_date": "2020-03-03 08:22:20.000",
+    "definition": "Official name is the Republic of North Macedonia. Changed from 'Macedonia, The Former Yugoslav Republic of' in 2019",
+    "alternative_label": "MKD"
+  },
+  {
+    "id": 148,
+    "code": "ML",
+    "label": "Mali",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MLI"
+  },
+  {
+    "id": 149,
+    "code": "MM",
+    "label": "Myanmar",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MMR"
+  },
+  {
+    "id": 150,
+    "code": "MN",
+    "label": "Mongolia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MNG"
+  },
+  {
+    "id": 151,
+    "code": "MO",
+    "label": "Macau",
+    "modified_date": "2019-04-16 16:26:52.000",
+    "definition": "Also spelled 'Macao'",
+    "alternative_label": "MAC"
+  },
+  {
+    "id": 152,
+    "code": "MP",
+    "label": "Northern Mariana Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MNP"
+  },
+  {
+    "id": 153,
+    "code": "MQ",
+    "label": "Martinique",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MTQ"
+  },
+  {
+    "id": 154,
+    "code": "MR",
+    "label": "Mauritania",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MRT"
+  },
+  {
+    "id": 155,
+    "code": "MS",
+    "label": "Montserrat",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MSR"
+  },
+  {
+    "id": 156,
+    "code": "MT",
+    "label": "Malta",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MLT"
+  },
+  {
+    "id": 157,
+    "code": "MU",
+    "label": "Mauritius",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MUS"
+  },
+  {
+    "id": 158,
+    "code": "MV",
+    "label": "Maldives",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MDV"
+  },
+  {
+    "id": 159,
+    "code": "MW",
+    "label": "Malawi",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MWI"
+  },
+  {
+    "id": 160,
+    "code": "MX",
+    "label": "Mexico",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MEX"
+  },
+  {
+    "id": 161,
+    "code": "MY",
+    "label": "Malaysia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MYS"
+  },
+  {
+    "id": 162,
+    "code": "MZ",
+    "label": "Mozambique",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MOZ"
+  },
+  {
+    "id": 163,
+    "code": "NA",
+    "label": "Namibia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NAM"
+  },
+  {
+    "id": 164,
+    "code": "NC",
+    "label": "New Caledonia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NCL"
+  },
+  {
+    "id": 165,
+    "code": "NE",
+    "label": "Niger",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NER"
+  },
+  {
+    "id": 166,
+    "code": "NF",
+    "label": "Norfolk Island",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NFK"
+  },
+  {
+    "id": 167,
+    "code": "NG",
+    "label": "Nigeria",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NGA"
+  },
+  {
+    "id": 168,
+    "code": "NI",
+    "label": "Nicaragua",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NIC"
+  },
+  {
+    "id": 169,
+    "code": "NL",
+    "label": "Netherlands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NLD"
+  },
+  {
+    "id": 170,
+    "code": "NO",
+    "label": "Norway",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NOR"
+  },
+  {
+    "id": 171,
+    "code": "NP",
+    "label": "Nepal",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NPL"
+  },
+  {
+    "id": 172,
+    "code": "NR",
+    "label": "Nauru",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NRU"
+  },
+  {
+    "id": 173,
+    "code": "NU",
+    "label": "Niue",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NIU"
+  },
+  {
+    "id": 174,
+    "code": "NZ",
+    "label": "New Zealand",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "NZL"
+  },
+  {
+    "id": 175,
+    "code": "OM",
+    "label": "Oman",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "OMN"
+  },
+  {
+    "id": 176,
+    "code": "PA",
+    "label": "Panama",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PAN"
+  },
+  {
+    "id": 177,
+    "code": "PE",
+    "label": "Peru",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PER"
+  },
+  {
+    "id": 178,
+    "code": "PF",
+    "label": "French Polynesia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PYF"
+  },
+  {
+    "id": 179,
+    "code": "PG",
+    "label": "Papua New Guinea",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PNG"
+  },
+  {
+    "id": 180,
+    "code": "PH",
+    "label": "Philippines",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PHL"
+  },
+  {
+    "id": 181,
+    "code": "PK",
+    "label": "Pakistan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PAK"
+  },
+  {
+    "id": 182,
+    "code": "PL",
+    "label": "Poland",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "POL"
+  },
+  {
+    "id": 183,
+    "code": "PM",
+    "label": "Saint Pierre and Miquelon",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SPM"
+  },
+  {
+    "id": 184,
+    "code": "PN",
+    "label": "Pitcairn",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PCN"
+  },
+  {
+    "id": 185,
+    "code": "PR",
+    "label": "Puerto Rico",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PRI"
+  },
+  {
+    "id": 186,
+    "code": "PS",
+    "label": "Palestine, State of",
+    "modified_date": "2019-04-16 16:26:52.000",
+    "definition": "Formerly known as 'Occupied Palestinian Territory'",
+    "alternative_label": "PSE"
+  },
+  {
+    "id": 187,
+    "code": "PT",
+    "label": "Portugal",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PRT"
+  },
+  {
+    "id": 188,
+    "code": "PW",
+    "label": "Palau",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PLW"
+  },
+  {
+    "id": 189,
+    "code": "PY",
+    "label": "Paraguay",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "PRY"
+  },
+  {
+    "id": 190,
+    "code": "QA",
+    "label": "Qatar",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "QAT"
+  },
+  {
+    "id": 191,
+    "code": "RE",
+    "label": "Réunion",
+    "modified_date": "2011-12-14 00:34:56.000",
+    "definition": "",
+    "alternative_label": "REU"
+  },
+  {
+    "id": 192,
+    "code": "RO",
+    "label": "Romania",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ROU"
+  },
+  {
+    "id": 193,
+    "code": "RS",
+    "label": "Serbia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SRB"
+  },
+  {
+    "id": 194,
+    "code": "RU",
+    "label": "Russian Federation",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "RUS"
+  },
+  {
+    "id": 195,
+    "code": "RW",
+    "label": "Rwanda",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "RWA"
+  },
+  {
+    "id": 196,
+    "code": "SA",
+    "label": "Saudi Arabia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SAU"
+  },
+  {
+    "id": 197,
+    "code": "SB",
+    "label": "Solomon Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SLB"
+  },
+  {
+    "id": 198,
+    "code": "SC",
+    "label": "Seychelles",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SYC"
+  },
+  {
+    "id": 199,
+    "code": "SD",
+    "label": "Sudan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SDN"
+  },
+  {
+    "id": 200,
+    "code": "SE",
+    "label": "Sweden",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SWE"
+  },
+  {
+    "id": 201,
+    "code": "SG",
+    "label": "Singapore",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SGP"
+  },
+  {
+    "id": 202,
+    "code": "SH",
+    "label": "Saint Helena, Ascension and Tristan da Cunha",
+    "modified_date": "2011-12-14 00:35:59.000",
+    "definition": "",
+    "alternative_label": "SHN"
+  },
+  {
+    "id": 203,
+    "code": "SI",
+    "label": "Slovenia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SVN"
+  },
+  {
+    "id": 204,
+    "code": "SJ",
+    "label": "Svalbard and Jan Mayen",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SJM"
+  },
+  {
+    "id": 205,
+    "code": "SK",
+    "label": "Slovakia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SVK"
+  },
+  {
+    "id": 206,
+    "code": "SL",
+    "label": "Sierra Leone",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SLE"
+  },
+  {
+    "id": 207,
+    "code": "SM",
+    "label": "San Marino",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SMR"
+  },
+  {
+    "id": 208,
+    "code": "SN",
+    "label": "Senegal",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SEN"
+  },
+  {
+    "id": 209,
+    "code": "SO",
+    "label": "Somalia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SOM"
+  },
+  {
+    "id": 210,
+    "code": "SR",
+    "label": "Suriname",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SUR"
+  },
+  {
+    "id": 211,
+    "code": "SS",
+    "label": "South Sudan",
+    "modified_date": "2011-08-19 17:04:18.000",
+    "definition": "Added in ISO Newsletter published 2011-08-16",
+    "alternative_label": "SSD"
+  },
+  {
+    "id": 212,
+    "code": "ST",
+    "label": "Sao Tome and Principe",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "STP"
+  },
+  {
+    "id": 213,
+    "code": "SV",
+    "label": "El Salvador",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SLV"
+  },
+  {
+    "id": 214,
+    "code": "SX",
+    "label": "Sint Maarten (Dutch part)",
+    "modified_date": "2011-12-14 00:38:30.000",
+    "definition": "Added in ISO 3166-1 Newsletter VI-8 (2010-12-15)).",
+    "alternative_label": "SXM"
+  },
+  {
+    "id": 215,
+    "code": "SY",
+    "label": "Syrian Arab Republic",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "SYR"
+  },
+  {
+    "id": 216,
+    "code": "SZ",
+    "label": "Eswatini",
+    "modified_date": "2019-04-16 16:26:53.000",
+    "definition": "Official name is Kingdom of Eswatini, Changed from 'Kingdom of Swaziland' in 2018",
+    "alternative_label": "SWZ"
+  },
+  {
+    "id": 217,
+    "code": "TC",
+    "label": "Turks and Caicos Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TCA"
+  },
+  {
+    "id": 218,
+    "code": "TD",
+    "label": "Chad",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TCD"
+  },
+  {
+    "id": 219,
+    "code": "TF",
+    "label": "French Southern Territories",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ATF"
+  },
+  {
+    "id": 220,
+    "code": "TG",
+    "label": "Togo",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TGO"
+  },
+  {
+    "id": 221,
+    "code": "TH",
+    "label": "Thailand",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "THA"
+  },
+  {
+    "id": 222,
+    "code": "TJ",
+    "label": "Tajikistan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TJK"
+  },
+  {
+    "id": 223,
+    "code": "TK",
+    "label": "Tokelau",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TKL"
+  },
+  {
+    "id": 224,
+    "code": "TL",
+    "label": "Timor-Leste",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TLS"
+  },
+  {
+    "id": 225,
+    "code": "TM",
+    "label": "Turkmenistan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TKM"
+  },
+  {
+    "id": 226,
+    "code": "TN",
+    "label": "Tunisia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TUN"
+  },
+  {
+    "id": 227,
+    "code": "TO",
+    "label": "Tonga",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TON"
+  },
+  {
+    "id": 228,
+    "code": "TR",
+    "label": "Turkey",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TUR"
+  },
+  {
+    "id": 229,
+    "code": "TT",
+    "label": "Trinidad and Tobago",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TTO"
+  },
+  {
+    "id": 230,
+    "code": "TV",
+    "label": "Tuvalu",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TUV"
+  },
+  {
+    "id": 231,
+    "code": "TW",
+    "label": "Taiwan, Province of China",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TWN"
+  },
+  {
+    "id": 232,
+    "code": "TZ",
+    "label": "Tanzania, United Republic of",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "TZA"
+  },
+  {
+    "id": 233,
+    "code": "UA",
+    "label": "Ukraine",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "UKR"
+  },
+  {
+    "id": 234,
+    "code": "UG",
+    "label": "Uganda",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "UGA"
+  },
+  {
+    "id": 235,
+    "code": "UM",
+    "label": "United States Minor Outlying Islands",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "UMI"
+  },
+  {
+    "id": 236,
+    "code": "US",
+    "label": "United States",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "USA"
+  },
+  {
+    "id": 237,
+    "code": "UY",
+    "label": "Uruguay",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "URY"
+  },
+  {
+    "id": 238,
+    "code": "UZ",
+    "label": "Uzbekistan",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "UZB"
+  },
+  {
+    "id": 239,
+    "code": "VA",
+    "label": "Holy See (Vatican City State)",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "VAT"
+  },
+  {
+    "id": 240,
+    "code": "VC",
+    "label": "Saint Vincent and the Grenadines",
+    "modified_date": "2019-04-16 16:26:53.000",
+    "definition": "",
+    "alternative_label": "VCT"
+  },
+  {
+    "id": 241,
+    "code": "VE",
+    "label": "Venezuela, Bolivarian Republic of",
+    "modified_date": "2011-12-14 00:39:31.000",
+    "definition": "",
+    "alternative_label": "VEN"
+  },
+  {
+    "id": 242,
+    "code": "VG",
+    "label": "Virgin Islands, British",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "VGB"
+  },
+  {
+    "id": 243,
+    "code": "VI",
+    "label": "Virgin Islands, U.S.",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "VIR"
+  },
+  {
+    "id": 244,
+    "code": "VN",
+    "label": "Viet Nam",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "VNM"
+  },
+  {
+    "id": 245,
+    "code": "VU",
+    "label": "Vanuatu",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "VUT"
+  },
+  {
+    "id": 246,
+    "code": "WF",
+    "label": "Wallis and Futuna",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "WLF"
+  },
+  {
+    "id": 247,
+    "code": "WS",
+    "label": "Samoa",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "WSM"
+  },
+  {
+    "id": 248,
+    "code": "YE",
+    "label": "Yemen",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "YEM"
+  },
+  {
+    "id": 249,
+    "code": "YT",
+    "label": "Mayotte",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "MYT"
+  },
+  {
+    "id": 250,
+    "code": "ZA",
+    "label": "South Africa",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ZAF"
+  },
+  {
+    "id": 251,
+    "code": "ZM",
+    "label": "Zambia",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ZMB"
+  },
+  {
+    "id": 252,
+    "code": "ZW",
+    "label": "Zimbabwe",
+    "modified_date": "2008-10-03 11:53:06.000",
+    "definition": "",
+    "alternative_label": "ZWE"
+  }
+]

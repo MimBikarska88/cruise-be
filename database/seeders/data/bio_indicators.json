@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "code": "B01",
+    "name": null,
+    "label": "Primary productivity",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 2,
+    "code": "B02",
+    "name": null,
+    "label": "Phytoplankton pigs (eg chlorophyll, fluorescence)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 3,
+    "code": "B03",
+    "name": null,
+    "label": "Seston",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 4,
+    "code": "B06",
+    "name": null,
+    "label": "Dissolved organic matter (inc DOC)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 5,
+    "code": "B07",
+    "name": null,
+    "label": "Pelagic bacteria/micro-organisms",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 6,
+    "code": "B08",
+    "name": null,
+    "label": "Phytoplankton",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 7,
+    "code": "B09",
+    "name": null,
+    "label": "Zooplankton",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 8,
+    "code": "B10",
+    "name": null,
+    "label": "Neuston",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 9,
+    "code": "B11",
+    "name": null,
+    "label": "Nekton",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:19.000",
+    "definition": ""
+  },
+  {
+    "id": 10,
+    "code": "B13",
+    "name": null,
+    "label": "Eggs and larvae",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 11,
+    "code": "B14",
+    "name": null,
+    "label": "Pelagic fish",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 12,
+    "code": "B16",
+    "name": null,
+    "label": "Benthic bacteria/micro-organisms",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 13,
+    "code": "B17",
+    "name": null,
+    "label": "Phytobenthos",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 14,
+    "code": "B18",
+    "name": null,
+    "label": "Zoobenthos",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 15,
+    "code": "B19",
+    "name": null,
+    "label": "Demersal fish",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 16,
+    "code": "B20",
+    "name": null,
+    "label": "Molluscs",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 17,
+    "code": "B21",
+    "name": null,
+    "label": "Crustaceans",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 18,
+    "code": "B25",
+    "name": null,
+    "label": "Birds",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 19,
+    "code": "B26",
+    "name": null,
+    "label": "Mammals and reptiles",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 20,
+    "code": "B28",
+    "name": null,
+    "label": "Acoustic reflection on marine organisms.",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 21,
+    "code": "B37",
+    "name": null,
+    "label": "Taggings",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 22,
+    "code": "B64",
+    "name": null,
+    "label": "Gear research",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 23,
+    "code": "B65",
+    "name": null,
+    "label": "Exploratory fishing",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 24,
+    "code": "B71",
+    "name": null,
+    "label": "Particulate organic matter (inc POC, PON)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 25,
+    "code": "B72",
+    "name": null,
+    "label": "Biochemical measurements (eg lipids, amino acids)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 26,
+    "code": "B73",
+    "name": null,
+    "label": "Sediment traps",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 27,
+    "code": "B90",
+    "name": null,
+    "label": "Other biological/fisheries measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:20.000",
+    "definition": ""
+  },
+  {
+    "id": 28,
+    "code": "D01",
+    "name": null,
+    "label": "Current meters",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 29,
+    "code": "D03",
+    "name": null,
+    "label": "Currents measured from ship drift",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 30,
+    "code": "D04",
+    "name": null,
+    "label": "GEK",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 31,
+    "code": "D05",
+    "name": null,
+    "label": "Surface drifters/drifting buoys",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 32,
+    "code": "D06",
+    "name": null,
+    "label": "Neutrally buoyant floats",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 33,
+    "code": "D09",
+    "name": null,
+    "label": "Sea level (inc. bot. press., inverted echosounder)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 34,
+    "code": "D71",
+    "name": null,
+    "label": "Current profiler (eg ADCP)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 35,
+    "code": "D72",
+    "name": null,
+    "label": "Instrumented wave measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 36,
+    "code": "D90",
+    "name": null,
+    "label": "Other physical oceanographic measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 37,
+    "code": "G01",
+    "name": null,
+    "label": "Dredge",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:07.000",
+    "definition": ""
+  },
+  {
+    "id": 38,
+    "code": "G02",
+    "name": null,
+    "label": "Grab",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 39,
+    "code": "G03",
+    "name": null,
+    "label": "Core - rock",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 40,
+    "code": "G04",
+    "name": null,
+    "label": "Core - soft bottom",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 41,
+    "code": "G08",
+    "name": null,
+    "label": "Bottom photography",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 42,
+    "code": "G24",
+    "name": null,
+    "label": "Long/short range side scan sonar",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 43,
+    "code": "G26",
+    "name": null,
+    "label": "Seismic refraction",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 44,
+    "code": "G27",
+    "name": null,
+    "label": "Gravity measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 45,
+    "code": "G28",
+    "name": null,
+    "label": "Magnetic measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 46,
+    "code": "G71",
+    "name": null,
+    "label": "In-situ seafloor measurement/sampling",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 47,
+    "code": "G72",
+    "name": null,
+    "label": "Geophysical measurements made at depth",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 48,
+    "code": "G73",
+    "name": null,
+    "label": "Single-beam echosounding",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 49,
+    "code": "G74",
+    "name": null,
+    "label": "Multi-beam echosounding",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 50,
+    "code": "G75",
+    "name": null,
+    "label": "Single channel seismic reflection",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:08.000",
+    "definition": ""
+  },
+  {
+    "id": 51,
+    "code": "G76",
+    "name": null,
+    "label": "Multichannel seismic reflection",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:09.000",
+    "definition": ""
+  },
+  {
+    "id": 52,
+    "code": "G90",
+    "name": null,
+    "label": "Other geological/geophysical measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:09.000",
+    "definition": ""
+  },
+  {
+    "id": 53,
+    "code": "H09",
+    "name": null,
+    "label": "Water bottle stations",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 54,
+    "code": "H10",
+    "name": null,
+    "label": "CTD stations",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 55,
+    "code": "H11",
+    "name": null,
+    "label": "Subsurface temperature and salinity measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:12:08.000",
+    "definition": "Measurements of temperature and salinity within a water body other than CTD profiles which are considered as a separate entity in this vocabulary. Examples where this term is appropriate are conductivity+temperature sensors mounted on undulators, AUVs, moving vessel profilers, or moorings."
+  },
+  {
+    "id": 56,
+    "code": "H13",
+    "name": null,
+    "label": "Bathythermograph",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 57,
+    "code": "H16",
+    "name": null,
+    "label": "Transparency (eg transmissometer)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 58,
+    "code": "H17",
+    "name": null,
+    "label": "Optics (eg underwater light levels)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 59,
+    "code": "H21",
+    "name": null,
+    "label": "Oxygen",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 60,
+    "code": "H22",
+    "name": null,
+    "label": "Phosphate",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 61,
+    "code": "H23",
+    "name": null,
+    "label": "Total - P",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 62,
+    "code": "H24",
+    "name": null,
+    "label": "Nitrate",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 63,
+    "code": "H25",
+    "name": null,
+    "label": "Nitrite",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 64,
+    "code": "H26",
+    "name": null,
+    "label": "Silicate",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 65,
+    "code": "H27",
+    "name": null,
+    "label": "Alkalinity",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 66,
+    "code": "H28",
+    "name": null,
+    "label": "pH",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 67,
+    "code": "H30",
+    "name": null,
+    "label": "Trace elements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 68,
+    "code": "H31",
+    "name": null,
+    "label": "Radioactivity",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 69,
+    "code": "H32",
+    "name": null,
+    "label": "Isotopes",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 70,
+    "code": "H33",
+    "name": null,
+    "label": "Other dissolved gases",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 71,
+    "code": "H71",
+    "name": null,
+    "label": "Surface measurements underway (T,S)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 72,
+    "code": "H72",
+    "name": null,
+    "label": "Subsurface temperature measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:18:20.000",
+    "definition": "Measurements of temperature with no associated conductivity measurements within a water body, such as moored instruments with temperature sensors. Originally set up for thermistor chains but broadened as these were replaced by other hardware with the same functionality."
+  },
+  {
+    "id": 73,
+    "code": "H73",
+    "name": null,
+    "label": "Geochemical tracers (eg freons)",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 01:00:00.000",
+    "definition": ""
+  },
+  {
+    "id": 74,
+    "code": "H74",
+    "name": null,
+    "label": "Carbon dioxide",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 75,
+    "code": "H75",
+    "name": null,
+    "label": "Total - N",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 76,
+    "code": "H76",
+    "name": null,
+    "label": "Ammonia",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 77,
+    "code": "H90",
+    "name": null,
+    "label": "Other chemical oceanographic measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:31.000",
+    "definition": ""
+  },
+  {
+    "id": 78,
+    "code": "M01",
+    "name": null,
+    "label": "Upper air observations",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 79,
+    "code": "M02",
+    "name": null,
+    "label": "Incident radiation",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 80,
+    "code": "M04",
+    "name": null,
+    "label": "Ice observations",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": "Descriptions of the extent or physical characteristics of sea ice or the collection of sea ice samples for physical, chemical or biological analysis."
+  },
+  {
+    "id": 81,
+    "code": "M05",
+    "name": null,
+    "label": "Occasional standard measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 82,
+    "code": "M06",
+    "name": null,
+    "label": "Routine standard measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 83,
+    "code": "M71",
+    "name": null,
+    "label": "Atmospheric chemistry",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 84,
+    "code": "M90",
+    "name": null,
+    "label": "Other meteorological measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:14.000",
+    "definition": ""
+  },
+  {
+    "id": 85,
+    "code": "P01",
+    "name": null,
+    "label": "Suspended matter",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 86,
+    "code": "P02",
+    "name": null,
+    "label": "Trace metals",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 87,
+    "code": "P03",
+    "name": null,
+    "label": "Petroleum residues",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 88,
+    "code": "P04",
+    "name": null,
+    "label": "Chlorinated hydrocarbons",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 89,
+    "code": "P05",
+    "name": null,
+    "label": "Other dissolved substances",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 90,
+    "code": "P12",
+    "name": null,
+    "label": "Bottom deposits",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 91,
+    "code": "P13",
+    "name": null,
+    "label": "Contaminants in organisms",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 92,
+    "code": "P90",
+    "name": null,
+    "label": "Other contaminant measurements",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 10:58:25.000",
+    "definition": ""
+  },
+  {
+    "id": 93,
+    "code": "R01",
+    "name": null,
+    "label": "Water column photography",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:30:54.000",
+    "definition": "Shipboard activity identifying the capture of still and moving images of water column photography using any kind of photographic equipment."
+  },
+  {
+    "id": 94,
+    "code": "R02",
+    "name": null,
+    "label": "Above surface photography",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:30:55.000",
+    "definition": "Shipboard activity identifying the capture of still and moving images above the water surface using any kind of photographic equipment."
+  },
+  {
+    "id": 95,
+    "code": "R03",
+    "name": null,
+    "label": "Robotic vehicle deployments",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:30:56.000",
+    "definition": "Shipboard activity identifying the deployment of Remotely Operated Vehicles, Autonomous Underwater Vehicles or Unmanned Surface Vehicles."
+  },
+  {
+    "id": 96,
+    "code": "R04",
+    "name": null,
+    "label": "Underwater passive acoustics",
+    "alternative_label": "",
+    "modified_date": "2023-02-19 16:33:18.000",
+    "definition": "Shipboard activity identifying the recording of passive underwater sounds or noises using any kind of sound recording equipment."
+  }
+]

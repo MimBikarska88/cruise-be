@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1,
+    "code": "0",
+    "name": null,
+    "definition": "The correct value is not known to, and not computable by, the creator of this information. However, a correct value probably exists.",
+    "label": "unknown",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 2,
+    "code": "10",
+    "name": null,
+    "definition": "A platform located on the solid surface of the Earth either above or below sea level.",
+    "label": "land or seafloor",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 09:22:38.000"
+  },
+  {
+    "id": 3,
+    "code": "11",
+    "name": null,
+    "definition": "A collection of oceanographic instruments mounted at a fixed position on the seabed (e.g. POL Monitoring Platform, seabed ADCP).",
+    "label": "fixed benthic node",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 4,
+    "code": "12",
+    "name": null,
+    "definition": "An instrumented platform that is propelled on wheels or tracks on the seabed (e.g benthic crawler).",
+    "label": "sea bed vehicle",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 5,
+    "code": "13",
+    "name": null,
+    "definition": "A structure to which instrumentation may be attached that is either in air or under water depending on the state of the tide and weather conditions.",
+    "label": "beach/intertidal zone structure",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 6,
+    "code": "14",
+    "name": null,
+    "definition": "A fixed man-made structure on land to which instrumentation may be attached (e.g. meteorological tower).",
+    "label": "land/onshore structure",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 7,
+    "code": "15",
+    "name": null,
+    "definition": "An instrumented vehicle or sample collector that operates on the solid surface of the Earth (e.g. mobile meteorological station, land crawler, snowmobile).",
+    "label": "land/onshore vehicle",
+    "alternative_label": "",
+    "modified_date": "2012-07-19 10:21:27.000"
+  },
+  {
+    "id": 8,
+    "code": "16",
+    "name": null,
+    "definition": "A fixed (for the duration of the measurements) man-made structure away from the coast to which instrumentation may be attached (e.g. oil rig, gas rig or jack-up barge).",
+    "label": "offshore structure",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 9,
+    "code": "17",
+    "name": null,
+    "definition": "A fixed man-made structure permanently linked to land with access to water at all states of the tide to which instrumentation may be attached (e.g. pier).",
+    "label": "coastal structure",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 10,
+    "code": "18",
+    "name": null,
+    "definition": "An instrumented structure in a river upstream of its tidal limit.",
+    "label": "river station",
+    "alternative_label": "",
+    "modified_date": "2006-08-23 17:03:17.000"
+  },
+  {
+    "id": 11,
+    "code": "19",
+    "name": null,
+    "definition": "A large polythene bag containing a water sample suspended in the natural environment so that it shares ambient physical conditions such as temperature and light levels, but is chemically isolated to allow experiments such as fertilisation.",
+    "label": "mesocosm bag",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 12,
+    "code": "20",
+    "name": null,
+    "definition": "A platform operating within a water body.",
+    "label": "submersible",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 09:29:03.000"
+  },
+  {
+    "id": 13,
+    "code": "21",
+    "name": null,
+    "definition": "A platform operating in the water column that has both self-contained propulsion and at least one human operator on board (e.g. submarine).",
+    "label": "propelled manned submersible",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 14,
+    "code": "22",
+    "name": null,
+    "definition": "A platform operating in the water column attached to a mothership by an umbilical with limited propulsion and no human operator on board (e.g. ROV).",
+    "label": "propelled unmanned submersible",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 15,
+    "code": "23",
+    "name": null,
+    "definition": "A vehicle towed by rigid cable through the water column at fixed or varying depth with no propulsion and no human operator (e.g. Towfish, Scanfish, UOR, SeaSoar).",
+    "label": "towed unmanned submersible",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 16,
+    "code": "24",
+    "name": null,
+    "definition": "A platform operating in the water column attached to a mothership by an umbilical but with no means of propulsion that has at least one human operator on board (e.g. bathysphere).",
+    "label": "drifting manned submersible",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 17,
+    "code": "25",
+    "name": null,
+    "definition": "A free-roving platform operating in the water column with propulsion but no human operator on board (e.g. Autosub, Gavia).",
+    "label": "autonomous underwater vehicle",
+    "alternative_label": "",
+    "modified_date": "2021-03-25 00:20:45.000"
+  },
+  {
+    "id": 18,
+    "code": "26",
+    "name": null,
+    "definition": "An unmanned platform lowered and raised vertically by a cable from the mothership.  Includes any type of profiling sensor mounting such as CTD frames, profiling radiometers and instrumented nets.",
+    "label": "lowered unmanned submersible",
+    "alternative_label": "",
+    "modified_date": "2008-12-04 09:08:25.000"
+  },
+  {
+    "id": 19,
+    "code": "27",
+    "name": null,
+    "definition": "Platforms with buoyancy-based propulsion that are capable of operations at variable depths which are not constrained to be near the sea surface.",
+    "label": "sub-surface gliders",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:56:39.000"
+  },
+  {
+    "id": 20,
+    "code": "30",
+    "name": null,
+    "definition": "A large platform operating on the surface of the water column. Objective definitions for guidelines: >50m length (EU), >100 foot length (USA), >300 GRT weight (SOLAS). Subjective definition: a ship is a vessel big enough to carry a boat.",
+    "label": "ship",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 21,
+    "code": "31",
+    "name": null,
+    "definition": "A platform of any size operating on the surface of the water column in unpredictable locations that is specifically equipped, manned and operated for scientific, usually oceanographic, research.",
+    "label": "research vessel",
+    "alternative_label": "",
+    "modified_date": "2007-11-20 14:59:20.000"
+  },
+  {
+    "id": 22,
+    "code": "32",
+    "name": null,
+    "definition": "A platform for purpose of commerce of any size operating on the surface of the water column in unpredictable locations that regularly collects scientific (oceanographic and meteorological) data (e.g. an instrumented cargo vessel).",
+    "label": "vessel of opportunity",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 23,
+    "code": "33",
+    "name": null,
+    "definition": "A small self-propelled platform operating on the surface of the water column that may be easily removed from the water (e.g. shore-based RIBs, ships' boats).",
+    "label": "self-propelled small boat",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 24,
+    "code": "34",
+    "name": null,
+    "definition": "A platform of any size occupying a fixed location on the surface of the water column for prolonged periods collecting scientific (oceanographic and meteorological) data as a primary or secondary mission.  Includes light vessels and weather ships.",
+    "label": "vessel at fixed position",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 25,
+    "code": "35",
+    "name": null,
+    "definition": "A platform repeatedly following a predictable fixed track on the surface of the water column that collects scientific (oceanographic and meteorological) data (e.g. an instrumented ferry).",
+    "label": "vessel of opportunity on fixed route",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 26,
+    "code": "36",
+    "name": null,
+    "definition": "A platform operating on the surface of the water column whose primary purpose is the commercial harvesting of fish or shellfish but may be engaged in scientific activities such as fish stock surveys or mooring deployments and recoveries.",
+    "label": "fishing vessel",
+    "alternative_label": "",
+    "modified_date": "2016-01-06 11:37:28.000"
+  },
+  {
+    "id": 27,
+    "code": "37",
+    "name": null,
+    "definition": "A small self-propelled platform operating on the surface of the water column in unpredictable locations that is smaller than a ship, but too large to easily remove from the water.",
+    "label": "self-propelled boat",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 28,
+    "code": "38",
+    "name": null,
+    "definition": "A platform operating on the surface of the water column that is manually propelled and may not be easily removed from the water (e.g. trireme).",
+    "label": "man-powered boat",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 29,
+    "code": "39",
+    "name": null,
+    "definition": "A platform operating on the surface of the water column in unpredictable locations that is primarily equipped, manned and operated for military purposes.  Includes surface warships of all sizes and logistic support vessels.",
+    "label": "naval vessel",
+    "alternative_label": "",
+    "modified_date": "2007-11-20 14:58:29.000"
+  },
+  {
+    "id": 30,
+    "code": "3A",
+    "name": null,
+    "definition": "A platform operating on the surface of the water column that is manually propelled and may be easily removed from the water (e.g. rowing boat, canoe).",
+    "label": "man-powered small boat",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 31,
+    "code": "3B",
+    "name": null,
+    "definition": "A self-propelled vehicle operating on the sea surface with no human occupants.",
+    "label": "autonomous surface water vehicle",
+    "alternative_label": "",
+    "modified_date": "2006-11-15 16:22:32.000"
+  },
+  {
+    "id": 32,
+    "code": "3C",
+    "name": null,
+    "definition": "Platforms operating at a single depth near the sea surface, using a combination of solar energy and wave motion as means of propulsion.",
+    "label": "surface gliders",
+    "alternative_label": "",
+    "modified_date": "2018-03-13 10:07:37.000"
+  },
+  {
+    "id": 33,
+    "code": "3D",
+    "name": null,
+    "definition": "A drillship is a merchant vessel designed for use in exploratory offshore drilling of new oil and gas wells or for scientific drilling purposes.",
+    "label": "drillship",
+    "alternative_label": "",
+    "modified_date": "2015-11-05 08:43:51.000"
+  },
+  {
+    "id": 34,
+    "code": "3Z",
+    "name": null,
+    "definition": "A mobile platform with propulsion operating on and restricted to the surface of a water body.",
+    "label": "surface vessel",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 09:44:01.000"
+  },
+  {
+    "id": 35,
+    "code": "41",
+    "name": null,
+    "definition": "An unmanned instrumented platform operating on the surface of the water column loosely tethered to the seafloor to maintain a fixed position (e.g. ODAS buoy).",
+    "label": "moored surface buoy",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 36,
+    "code": "42",
+    "name": null,
+    "definition": "An unmanned instrumented platform operating on the surface of the water column often attached to a drogue to track currents rather than winds (e.g. Argos buoy).",
+    "label": "drifting surface float",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 37,
+    "code": "43",
+    "name": null,
+    "definition": "A collection of oceanographic instruments attached to wires suspended between anchors on the seabed and buoyant spheres in the water column.",
+    "label": "subsurface mooring",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 38,
+    "code": "44",
+    "name": null,
+    "definition": "An unmanned instrumented platform drifting freely in the water column at a depth governed by its density (e.g. Swallow float).",
+    "label": "drifting subsurface float",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 39,
+    "code": "45",
+    "name": null,
+    "definition": "A platform that periodically makes an automated vertical traverse of the water column at a predetermined fixed location. (e.g. YSI vertical profiler, HOMER CTD).",
+    "label": "fixed subsurface vertical profiler",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 40,
+    "code": "46",
+    "name": null,
+    "definition": "An unmanned instrumented platform drifting freely in the water column that periodically makes vertical traverses through the water column (e.g. Argo float).",
+    "label": "drifting subsurface profiling float",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 41,
+    "code": "47",
+    "name": null,
+    "definition": "A free-floating platform either on the surface of the water column or at a predetermined depth within the water column.",
+    "label": "float",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 09:50:08.000"
+  },
+  {
+    "id": 42,
+    "code": "48",
+    "name": null,
+    "definition": "A tethered collection of oceanographic instruments at a fixed location that may include seafloor, mid-water and surface components.",
+    "label": "mooring",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 09:55:15.000"
+  },
+  {
+    "id": 43,
+    "code": "49",
+    "name": null,
+    "definition": "An undrogued (i.e. no sub-surface parachute) surface float that is deployed in regions where sea ice forms that moves with either ice or water depending upon the time of year.",
+    "label": "surface ice buoy",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 15:00:20.000"
+  },
+  {
+    "id": 44,
+    "code": "4A",
+    "name": null,
+    "definition": "A platform that periodically makes an automated vertical traverse of the water column that is fixed to a floating body of ice.",
+    "label": "Ice-tethered subsurface profiling float",
+    "alternative_label": "ITP",
+    "modified_date": "2020-09-11 14:41:01.000"
+  },
+  {
+    "id": 45,
+    "code": "50",
+    "name": null,
+    "definition": "A platform capable of flight in the atmosphere because it is lighter than air.",
+    "label": "buoyant aircraft",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:13:31.000"
+  },
+  {
+    "id": 46,
+    "code": "51",
+    "name": null,
+    "definition": "A container filled with a gas that is lighter than air, which is constrained to rise vertically at a fixed location.",
+    "label": "free-rising balloon",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:48:26.000"
+  },
+  {
+    "id": 47,
+    "code": "52",
+    "name": null,
+    "definition": "A container filled with a gas that is lighter than air, which is free to drift in the atmosphere.",
+    "label": "free-floating balloon",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:48:37.000"
+  },
+  {
+    "id": 48,
+    "code": "53",
+    "name": null,
+    "definition": "A container filled with a gas that is lighter than air, which is tethered at a fixed height and location.",
+    "label": "tethered balloon",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:49:03.000"
+  },
+  {
+    "id": 49,
+    "code": "54",
+    "name": null,
+    "definition": "A self-propelled container filled with a gas that is lighter than air.",
+    "label": "airship",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 50,
+    "code": "60",
+    "name": null,
+    "definition": "A platform capable of flight in the atmosphere despite its being heavier than air.",
+    "label": "non-buoyant aircraft",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:46:32.000"
+  },
+  {
+    "id": 51,
+    "code": "61",
+    "name": null,
+    "definition": "A fixed-wing self-propelled aircraft that is equipped, manned and operated for atmospheric, meteorological or oceanographic research.",
+    "label": "research aeroplane",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 52,
+    "code": "62",
+    "name": null,
+    "definition": "A fixed-wing self-propelled aircraft.",
+    "label": "aeroplane",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 53,
+    "code": "63",
+    "name": null,
+    "definition": "A rocket is a vehicle, missile or aircraft which obtains thrust by the reaction to the ejection of fast moving exhaust gas from within a rocket engine.",
+    "label": "rocket",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 54,
+    "code": "64",
+    "name": null,
+    "definition": "A vehicle operating beyond the Earth's atmosphere without human occupants that orbits the Earth at the same rate as the Earth's rotation keeping it over a fixed location on the Earth's surface..",
+    "label": "geostationary orbiting satellite",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 55,
+    "code": "65",
+    "name": null,
+    "definition": "A vehicle operating beyond the Earth's atmosphere without human occupants that orbits the Earth at a different rate to the Earth's rotation so it moves over the Earth's surface..",
+    "label": "orbiting satellite",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 56,
+    "code": "66",
+    "name": null,
+    "definition": "A vehicle operating beyond the Earth's atmosphere with human occupants.",
+    "label": "manned spacecraft",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 57,
+    "code": "67",
+    "name": null,
+    "definition": "An aircraft without wings that obtains its lift from the rotation of overhead blades.",
+    "label": "helicopter",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 58,
+    "code": "68",
+    "name": null,
+    "definition": "A vehicle operating beyond the Earth's atmosphere without human occupants that orbits the Earth.",
+    "label": "satellite",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 59,
+    "code": "69",
+    "name": null,
+    "definition": "An aircraft without wings that obtains its lift from the rotation of overhead blades, but obtains forward populsion from a fixed propellor.",
+    "label": "autogyro",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 60,
+    "code": "6A",
+    "name": null,
+    "definition": "A fixed-wing aircraft with no propulsion.",
+    "label": "glider",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 61,
+    "code": "6B",
+    "name": null,
+    "definition": "An aerofoil tethered to the ground held aloft by the wind.",
+    "label": "kite",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 62,
+    "code": "6C",
+    "name": null,
+    "definition": "A fabric sheet designed to slow the descent of an object through the atmosphere.",
+    "label": "parachute",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 63,
+    "code": "6D",
+    "name": null,
+    "definition": "Any untethered heavier-than-air aircraft that is not occupied by people: may be a remotely piloted aircraft or an autonomous aircraft. Also referred to as a drone.",
+    "label": "unmanned aerial vehicle",
+    "alternative_label": "UAV",
+    "modified_date": "2015-03-26 11:19:23.000"
+  },
+  {
+    "id": 64,
+    "code": "6Z",
+    "name": null,
+    "definition": "A platform operating beyond the Earth's atmosphere.",
+    "label": "spacecraft",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 65,
+    "code": "70",
+    "name": null,
+    "definition": "A living creature carrying instruments or collecting samples.",
+    "label": "organism",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 66,
+    "code": "71",
+    "name": null,
+    "definition": "A human being without specialised equipment operating on land or the surface of the water column.",
+    "label": "human",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 67,
+    "code": "72",
+    "name": null,
+    "definition": "A human being with self-contained equipment or surface-connected suit enabling operation within the water column.",
+    "label": "diver",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 68,
+    "code": "73",
+    "name": null,
+    "definition": "A bird that is unable to fly with the ability to exist within the water column (e.g. penguin).",
+    "label": "flightless bird",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 69,
+    "code": "74",
+    "name": null,
+    "definition": "A flighted bird that is able to exist on the water column surface and dive into the water column (e.g. cormorants, auks, ducks and gulls).",
+    "label": "seabird and duck",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 70,
+    "code": "75",
+    "name": null,
+    "definition": "A mammal that exists within the water column but needing to regularly surface to breathe (i.e. dolphins and whales).",
+    "label": "cetacean",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 71,
+    "code": "76",
+    "name": null,
+    "definition": "A free-swimming creature that exists totally within the water column.",
+    "label": "fish",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 72,
+    "code": "77",
+    "name": null,
+    "definition": "A mammal that exists both on land and within the water column. Includes seals, sealions, sea-otters and walruses.",
+    "label": "land-sea mammals",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 73,
+    "code": "90",
+    "name": null,
+    "definition": "A frozen body of water on land, freshwater or sea.",
+    "label": "cryosphere",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:31:40.000"
+  },
+  {
+    "id": 74,
+    "code": "91",
+    "name": null,
+    "definition": "A floating ice sheet detached from the coast.",
+    "label": "ice island",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 75,
+    "code": "92",
+    "name": null,
+    "definition": "A floating ice sheet attached to the coast.",
+    "label": "ice shelf",
+    "alternative_label": "",
+    "modified_date": "2006-07-07 11:38:37.000"
+  },
+  {
+    "id": 76,
+    "code": "93",
+    "name": null,
+    "definition": "Sea ice not connected to land with an ice concentration of over 70 per cent.",
+    "label": "pack ice",
+    "alternative_label": "",
+    "modified_date": "2020-06-08 12:54:32.000"
+  },
+  {
+    "id": 77,
+    "code": "94",
+    "name": null,
+    "definition": "Sea ice not connected to land with an ice concentration of under 70 per cent.",
+    "label": "drift ice",
+    "alternative_label": "",
+    "modified_date": "2020-06-08 12:54:32.000"
+  },
+  {
+    "id": 78,
+    "code": "95",
+    "name": null,
+    "definition": "A self-propelled platform capable of operating on land and within or on the surface of a water body.",
+    "label": "amphibious vehicle",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:45:42.000"
+  },
+  {
+    "id": 79,
+    "code": "96",
+    "name": null,
+    "definition": "A self-propelled vehicle capable of operation on land or the seabed (e.g. beach crawler).",
+    "label": "amphibious crawler",
+    "alternative_label": "",
+    "modified_date": "2013-08-20 14:53:41.000"
+  },
+  {
+    "id": 80,
+    "code": "9A",
+    "name": null,
+    "definition": "A six-wheel drive amphibious truck developed during the second World War.",
+    "label": "DUKW",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:51:53.000"
+  },
+  {
+    "id": 81,
+    "code": "9B",
+    "name": null,
+    "definition": "A craft capable of moving over water or land on a downwardly-propelled cushion of air.",
+    "label": "hovercraft",
+    "alternative_label": "",
+    "modified_date": "2008-02-21 10:51:53.000"
+  }
+]

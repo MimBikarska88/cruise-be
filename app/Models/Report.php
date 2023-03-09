@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Report extends Model
 {
@@ -125,5 +126,15 @@ class Report extends Model
             Instrument::class,
             'instruments_to_reports'
         );
+    }
+
+    /**
+     * Get the instruments.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function moorings(): HasMany
+    {
+        return $this->hasMany(ReportMooring::class);
     }
 }

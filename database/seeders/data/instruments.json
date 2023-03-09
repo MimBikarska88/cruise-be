@@ -1,0 +1,2333 @@
+[
+  {
+    "id": 1,
+    "code": "101",
+    "name": null,
+    "label": "anemometers",
+    "alternative_label": "",
+    "definition": "Instrument that measures wind speed and direction at a single elevation.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 2,
+    "code": "102",
+    "name": null,
+    "label": "meteorological packages",
+    "alternative_label": "",
+    "definition": "Instrument that makes routine meteorological measurements on the atmosphere, typically air pressure, temperature and humidity.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 3,
+    "code": "103",
+    "name": null,
+    "label": "radiosondes",
+    "alternative_label": "",
+    "definition": "A balloon-borne package equipped with a radio transmitter and meteorological sensors typically measuring temperature, pressure, and humidity.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 4,
+    "code": "11",
+    "name": null,
+    "label": "discrete air samplers",
+    "alternative_label": "",
+    "definition": "A device that collects a sample of air from the atmosphere and stores it, usually under pressure, for subsequent analysis.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 5,
+    "code": "110",
+    "name": null,
+    "label": "wave recorders",
+    "alternative_label": "",
+    "definition": "Instrument that measures water column surface wave parameters including height, period, direction and energy spectra.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 6,
+    "code": "111",
+    "name": null,
+    "label": "sea level recorders",
+    "alternative_label": "",
+    "definition": "Instruments that make smoothed measurements of the elevation of the sea surface relative to a fixed vertical datum.",
+    "modified_date": "2015-11-30 00:50:09.000"
+  },
+  {
+    "id": 7,
+    "code": "112",
+    "name": null,
+    "label": "inverted echosounders",
+    "alternative_label": "",
+    "definition": "Instruments that locate acoustic reflectors such as fronts in the water column by transmitting pulses of sound from the seabed and determing reflection return times.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 8,
+    "code": "113",
+    "name": null,
+    "label": "fluorometers",
+    "alternative_label": "",
+    "definition": "Instrument that measures the amount of stimulated electromagnetic radiation produced by pulses of electromagnetic radiation emitted into the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 9,
+    "code": "114",
+    "name": null,
+    "label": "current meters",
+    "alternative_label": "",
+    "definition": "Instrument that measures current speed and direction at a single depth.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 10,
+    "code": "115",
+    "name": null,
+    "label": "current profilers",
+    "alternative_label": "",
+    "definition": "Instrument that measures current speed and direction at multiple predetermined depths simultaneously.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 11,
+    "code": "116",
+    "name": null,
+    "label": "lowered current profilers",
+    "alternative_label": "",
+    "definition": "An acoustic doppler current meter lowered and raised vertically from a surface platform, typically a ship.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 12,
+    "code": "12",
+    "name": null,
+    "label": "fog samplers",
+    "alternative_label": "",
+    "definition": "A device that condenses a sample of fog from the atmosphere.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 13,
+    "code": "121",
+    "name": null,
+    "label": "satellite tracking system",
+    "alternative_label": "",
+    "definition": "A network of satellites that determines the position of a transponder by triangulation such as Argos. Generally used to track surface buoys for the determination of Lagrangian currents.",
+    "modified_date": "2016-03-10 06:50:01.000"
+  },
+  {
+    "id": 14,
+    "code": "122",
+    "name": null,
+    "label": "radiometers",
+    "alternative_label": "",
+    "definition": "Instrument that measures the intensity of electromagnetic radiation in either the atmosphere or the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 15,
+    "code": "123",
+    "name": null,
+    "label": "optical backscatter sensors",
+    "alternative_label": "",
+    "definition": "Instrument that measures the amount of electromagnetic radiation emitted into the water column returned to the instrument.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 16,
+    "code": "124",
+    "name": null,
+    "label": "transmissometers",
+    "alternative_label": "",
+    "definition": "Systems that measure the attenuation of electromagnetic radiation by the water column. Includes human observer plus Secchi Disk.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 17,
+    "code": "13",
+    "name": null,
+    "label": "aerosol samplers",
+    "alternative_label": "",
+    "definition": "A device that collects a sample of aerosol (dry particles or liquid droplets) from the atmosphere.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 18,
+    "code": "130",
+    "name": null,
+    "label": "CTD",
+    "alternative_label": "",
+    "definition": "A reusable instrument that always simultaneously measures conductivity and temperature (for salinity) and pressure (for depth).",
+    "modified_date": "2018-04-06 18:31:36.000"
+  },
+  {
+    "id": 19,
+    "code": "131",
+    "name": null,
+    "label": "CTD undulators",
+    "alternative_label": "",
+    "definition": "An undulating platform towed behind a ship carrying an instrument that measures temperature, conductivity and pressure (for depth) and possibly other instruments such as fluorometers. Current thinking is that this is a platform category and not an instrument category and so its inclusion in this vocabulary was an error. Its usage is not recommended.",
+    "modified_date": "2018-04-06 18:31:36.000"
+  },
+  {
+    "id": 20,
+    "code": "132",
+    "name": null,
+    "label": "bathythermographs",
+    "alternative_label": "",
+    "definition": "Instruments that measure vertical profiles of sea temperature by either lowering a pressure plus temperature senor package (MBT) or dropping a free falling disposable sensor (XBT).",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 21,
+    "code": "133",
+    "name": null,
+    "label": "thermosalinographs",
+    "alternative_label": "",
+    "definition": "Temperature and conductivity sensors mounted on a sea-surface platform continuously measuring a surface water supply.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 22,
+    "code": "134",
+    "name": null,
+    "label": "water temperature sensor",
+    "alternative_label": "",
+    "definition": "An instrument that measures the temperature of the water with which it is in contact.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 23,
+    "code": "135",
+    "name": null,
+    "label": "thermistor chains",
+    "alternative_label": "",
+    "definition": "A group of rigidly-mounted temperature sensors sampled by a common data logger held at various depths in the water column.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 24,
+    "code": "14",
+    "name": null,
+    "label": "precipitation samplers",
+    "alternative_label": "",
+    "definition": "A device that collects a sample of precipitation (rain, hail or snow) as it falls.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 25,
+    "code": "150",
+    "name": null,
+    "label": "in-situ particle sizers",
+    "alternative_label": "",
+    "definition": "Sensors or instruments physically located in any body of water that measure the size spectrum of particles suspended in it.",
+    "modified_date": "2017-08-08 15:48:18.000"
+  },
+  {
+    "id": 26,
+    "code": "151",
+    "name": null,
+    "label": "benthic incubation chambers",
+    "alternative_label": "",
+    "definition": "A device that isolates a portion of seabed plus overlying water from its surroundings. Either returns the entire system to the surface or incorporates sampling devices and/or in-situ sensors.",
+    "modified_date": "2008-01-10 15:47:47.000"
+  },
+  {
+    "id": 27,
+    "code": "152",
+    "name": null,
+    "label": "sidescan sonars",
+    "alternative_label": "",
+    "definition": "Instruments with directional acoustic transmitters and receivers fitted to an underwater platform that emit fan-shaped pulses down toward the seafloor across a wide angle perpendicular to the path of the platform through the water. Used for the classification of seafloor substrates and structures according to the intensity of signal return. Higher signal return intensities indicate harder substrates or structures, and vice versa.",
+    "modified_date": "2022-11-17 09:42:34.000"
+  },
+  {
+    "id": 28,
+    "code": "153",
+    "name": null,
+    "label": "single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source of unspecified frequency plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:58:13.000"
+  },
+  {
+    "id": 29,
+    "code": "154",
+    "name": null,
+    "label": "multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source of unspecified frequency plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:59:29.000"
+  },
+  {
+    "id": 30,
+    "code": "155",
+    "name": null,
+    "label": "seismic refraction systems",
+    "alternative_label": "",
+    "definition": "A network of seismometers or geophones plus an energy source that determine geologic structure by detecting waves refracted by subsurface layers.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 31,
+    "code": "156",
+    "name": null,
+    "label": "single-beam echosounders",
+    "alternative_label": "",
+    "definition": "Instruments that measure water depth at a single point below the platform by timing pulses of sound reflected on the seafloor.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 32,
+    "code": "157",
+    "name": null,
+    "label": "multi-beam echosounders",
+    "alternative_label": "",
+    "definition": "Instruments that measure water depth along several tracks parallel to the platform track by timing pulses of sound reflected on the seafloor.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 33,
+    "code": "158",
+    "name": null,
+    "label": "gravimeters",
+    "alternative_label": "",
+    "definition": "Instrument that makes measurements of the Earth's gravity field.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 34,
+    "code": "159",
+    "name": null,
+    "label": "magnetometers",
+    "alternative_label": "",
+    "definition": "Instrument that makes measurements of the Earth's magnetic field.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 35,
+    "code": "181",
+    "name": null,
+    "label": "nutrient analysers",
+    "alternative_label": "",
+    "definition": "Instrument that makes in-situ measurements of one or more of nitrate, nitrite, ammonium, urea, phosphate or silicate dissolved in the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 36,
+    "code": "182",
+    "name": null,
+    "label": "inapplicable",
+    "alternative_label": "",
+    "definition": "There is no appropriate value. To be used in cases where metadata elements cannot be set null due to schema constraints.",
+    "modified_date": "2011-08-26 11:27:29.000"
+  },
+  {
+    "id": 37,
+    "code": "183",
+    "name": null,
+    "label": "acoustic backscatter sensors",
+    "alternative_label": "",
+    "definition": "Instrument that measures the amount of sound energy transmitted into the water column returned to the instrument.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 38,
+    "code": "184",
+    "name": null,
+    "label": "microstructure sensors",
+    "alternative_label": "",
+    "definition": "Fast response sensors sampled at high frequency to determine the distribution of water body properties on a millimetric scale.",
+    "modified_date": "2012-02-23 10:11:31.000"
+  },
+  {
+    "id": 39,
+    "code": "185",
+    "name": null,
+    "label": "sound velocity sensors",
+    "alternative_label": "",
+    "definition": "Instrument that measures the velocity of sound in seawater.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 40,
+    "code": "186",
+    "name": null,
+    "label": "radar altimeters",
+    "alternative_label": "",
+    "definition": "Instruments that determine the distance between the platform and the Earth's surface by timing reflected electromagnetic radiation, usually microwaves.",
+    "modified_date": "2011-04-15 15:18:31.000"
+  },
+  {
+    "id": 41,
+    "code": "21",
+    "name": null,
+    "label": "plankton recorders",
+    "alternative_label": "",
+    "definition": "A device that continuously samples a flow of water, separating and fixing plankton for subsequent identification and counting.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 42,
+    "code": "22",
+    "name": null,
+    "label": "plankton nets",
+    "alternative_label": "",
+    "definition": "A fine-meshed net designed to collect small size organisms, aggregates, or litter in the water column including for example microzooplankton, mesozooplankton, nekton, microplastic or other litter.",
+    "modified_date": "2018-02-20 17:43:56.000"
+  },
+  {
+    "id": 43,
+    "code": "23",
+    "name": null,
+    "label": "pelagic trawl nets",
+    "alternative_label": "",
+    "definition": "A net towed through the water column designed to sample free-swimming nekton or fish.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 44,
+    "code": "24",
+    "name": null,
+    "label": "benthos samplers",
+    "alternative_label": "",
+    "definition": "A mechanical device that collects organisms from the seafloor. Includes dredges, sledges, weighted nets like beam trawls, and ROV manipulators.",
+    "modified_date": "2019-12-19 11:32:58.000"
+  },
+  {
+    "id": 45,
+    "code": "30",
+    "name": null,
+    "label": "discrete water samplers",
+    "alternative_label": "",
+    "definition": "A device that collects an in-situ discrete water sample from any depth and returns it to the surface without contamination by the waters through which it passes, such as a water bottle.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 46,
+    "code": "301",
+    "name": null,
+    "label": "satellite positioning systems",
+    "alternative_label": "",
+    "definition": "A network of statellites that generate signals that allow a receiver to determine its position such as GPS.",
+    "modified_date": "2007-11-20 09:03:34.000"
+  },
+  {
+    "id": 47,
+    "code": "302",
+    "name": null,
+    "label": "water body temperature sensor",
+    "alternative_label": "",
+    "definition": "Sensors that measure the intensity and nature of electromagnetic radiation emitted from the Earth in a manner optimised for the determination of water body surface temperature.",
+    "modified_date": "2010-11-19 14:27:24.000"
+  },
+  {
+    "id": 48,
+    "code": "303",
+    "name": null,
+    "label": "surface current radars",
+    "alternative_label": "",
+    "definition": "Instruments that measure the speed and direction of sea surface travel by timing reflected radio waves.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 49,
+    "code": "304",
+    "name": null,
+    "label": "ocean colour radiometers",
+    "alternative_label": "",
+    "definition": "Sensors that measure the intensity and nature of electromagnetic radiation in a manner optimised for the determination of ocean chlorophyll concentration.",
+    "modified_date": "2008-01-10 16:19:34.000"
+  },
+  {
+    "id": 50,
+    "code": "305",
+    "name": null,
+    "label": "scatterometers",
+    "alternative_label": "",
+    "definition": "Sensors that measure the reflection or scattering effect produced while scanning the surface of the earth. Primarily used to measure near surface winds over the oceans.",
+    "modified_date": "2007-11-20 09:03:34.000"
+  },
+  {
+    "id": 51,
+    "code": "306",
+    "name": null,
+    "label": "synthetic aperture radars",
+    "alternative_label": "",
+    "definition": "Instruments that generate maps of radar reflectivity through the synthesis of multiple pulses from a moving platform.",
+    "modified_date": "2008-01-10 16:21:12.000"
+  },
+  {
+    "id": 52,
+    "code": "307",
+    "name": null,
+    "label": "accelerometers",
+    "alternative_label": "",
+    "definition": "Instruments that measure non-gravitational accelerations acting upon a spacecraft.",
+    "modified_date": "2008-01-10 16:21:52.000"
+  },
+  {
+    "id": 53,
+    "code": "308",
+    "name": null,
+    "label": "atmospheric radiometers",
+    "alternative_label": "",
+    "definition": "Sensors that measure the intensity an nature of electromagnetic radiation in a manner optimised for the quantification of atmospheric phenomena.",
+    "modified_date": "2008-01-10 16:22:48.000"
+  },
+  {
+    "id": 54,
+    "code": "309",
+    "name": null,
+    "label": "terrestrial radiometers",
+    "alternative_label": "",
+    "definition": "Sensors that measure the intensity and nature of electromagnetic radiation in a manner optimised for the quantification of terrestrial phenomena.",
+    "modified_date": "2008-01-10 16:23:53.000"
+  },
+  {
+    "id": 55,
+    "code": "31",
+    "name": null,
+    "label": "continuous water samplers",
+    "alternative_label": "",
+    "definition": "A device that continuously supplies a flow of water either to an analytical instrument, over a sensor or from which samples may be drawn.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 56,
+    "code": "310",
+    "name": null,
+    "label": "laser altimeters",
+    "alternative_label": "",
+    "definition": "Instruments that determine the distance between the platform and the Earth's surface by timing reflected pulses of laser light.",
+    "modified_date": "2012-12-18 15:18:17.000"
+  },
+  {
+    "id": 57,
+    "code": "311",
+    "name": null,
+    "label": "cameras",
+    "alternative_label": "",
+    "definition": "All types of photographic equipment used to record visual images. Includes stills, video, film and digital systems.",
+    "modified_date": "2020-09-18 11:36:01.000"
+  },
+  {
+    "id": 58,
+    "code": "312",
+    "name": null,
+    "label": "bathymetric LiDARs",
+    "alternative_label": "",
+    "definition": "Instruments that measure the depth of a water body by determining the distances from the platform to the surface and the bed by timing reflected pulses of laser light.",
+    "modified_date": "2009-10-16 12:58:26.000"
+  },
+  {
+    "id": 59,
+    "code": "313",
+    "name": null,
+    "label": "bird detection radars",
+    "alternative_label": "",
+    "definition": "X-band and S-band radar systems developed for the detection, tracking and counting of birds in flight.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 60,
+    "code": "314",
+    "name": null,
+    "label": "Atmospheric chemistry remote sensors",
+    "alternative_label": "",
+    "definition": "Instruments that measure the intensity and nature of electromagnetic radiation in a manner optimised for the quantification of chemical compounds in the atmosphere.",
+    "modified_date": "2017-03-09 16:15:08.000"
+  },
+  {
+    "id": 61,
+    "code": "32",
+    "name": null,
+    "label": "particulates samplers",
+    "alternative_label": "",
+    "definition": "A system that collects samples of water column particulates such as in-situ high volume filtration systems liks SAPs.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 62,
+    "code": "33",
+    "name": null,
+    "label": "sediment traps",
+    "alternative_label": "",
+    "definition": "A collector of particulates as they sink through the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 63,
+    "code": "350",
+    "name": null,
+    "label": "salinity sensor",
+    "alternative_label": "",
+    "definition": "Instrument that simultaneously measures electrical conductivity and temperature in the water column to provide temperature and salinity data.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 64,
+    "code": "351",
+    "name": null,
+    "label": "dissolved gas sensors",
+    "alternative_label": "",
+    "definition": "Instrument that measures the concentration of gases, generally oxygen, dissolved in the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 65,
+    "code": "352",
+    "name": null,
+    "label": "plankton categorisers and counters",
+    "alternative_label": "",
+    "definition": "Instruments that categorise and/or count plankton, and/or enable 2D/3D spatial reconstruction of plankton in the water column.",
+    "modified_date": "2020-07-30 01:20:21.000"
+  },
+  {
+    "id": 66,
+    "code": "353",
+    "name": null,
+    "label": "active fluorometers",
+    "alternative_label": "",
+    "definition": "Fluorometers that measure photosynthetic parameters by taking measurements whilst manipulating the phytoplankton with controlled high-intensity illumination such as pump and probe and FRRF.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 67,
+    "code": "354",
+    "name": null,
+    "label": "expendable CTDs",
+    "alternative_label": "",
+    "definition": "Instruments that measure vertical profiles of sea temperature and salinity with a free falling disposable temperature and conductivity sensor package.",
+    "modified_date": "2007-11-20 09:34:40.000"
+  },
+  {
+    "id": 68,
+    "code": "355",
+    "name": null,
+    "label": "pH sensors",
+    "alternative_label": "",
+    "definition": "Instruments that measure the hydrogen ion concentration in the water column.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 69,
+    "code": "356",
+    "name": null,
+    "label": "redox potential sensors",
+    "alternative_label": "",
+    "definition": "Instruments that measure the tendency of the water column to either gain or lose electrons when it is subject to change by introduction of a new species.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 70,
+    "code": "357",
+    "name": null,
+    "label": "acoustic tracking systems",
+    "alternative_label": "",
+    "definition": "A network of acoustic sensors that determine the location of a sound source by triangulation such as acoustically active float tracking systems.",
+    "modified_date": "2011-02-02 00:45:55.000"
+  },
+  {
+    "id": 71,
+    "code": "358",
+    "name": null,
+    "label": "bubble detectors",
+    "alternative_label": "",
+    "definition": "Instruments that measure the concentration and size of air bubbles in the water column.",
+    "modified_date": "2008-01-10 16:15:11.000"
+  },
+  {
+    "id": 72,
+    "code": "359",
+    "name": null,
+    "label": "plummets",
+    "alternative_label": "",
+    "definition": "Devices comprising a weight attached to the end of a graduated rope used to measure point water depths.",
+    "modified_date": "2010-02-19 00:00:55.000"
+  },
+  {
+    "id": 73,
+    "code": "360",
+    "name": null,
+    "label": "piezometers",
+    "alternative_label": "",
+    "definition": "Devices that measure fluid  (air, gas, water, or oil) pressure within soil, sediment, rock or concrete providing information such as water table level in an aquifer system.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 74,
+    "code": "361",
+    "name": null,
+    "label": "penetrometers",
+    "alternative_label": "",
+    "definition": "Dynamic or passive devices that determine the consistency or hardness of soil or sediment by measuring the depth or rate of penetration of a needle or cone rig into it when a known force is applied.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 75,
+    "code": "362",
+    "name": null,
+    "label": "250 Hz top-bandwidth single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 250 Hz (sampling interval ranging from 2-8 msec) plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 76,
+    "code": "363",
+    "name": null,
+    "label": "1000 Hz top-bandwidth single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 1000 Hz (sampling interval ranging from 2-0.5 msec) plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 77,
+    "code": "364",
+    "name": null,
+    "label": "1000 Hz top-bandwidth multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 1000 Hz (sampling interval ranging from 2-0.5 msec) plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 78,
+    "code": "365",
+    "name": null,
+    "label": "2000 Hz top-bandwidth multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 2000 Hz (sampling interval ranging from 0.5-0.25 msec) plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 79,
+    "code": "366",
+    "name": null,
+    "label": ">2000 Hz top-bandwidth multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to >2000 Hz (sampling interval lower than 0.25 msec) plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 80,
+    "code": "367",
+    "name": null,
+    "label": ">2000 Hz top-bandwidth sub-bottom penetrator and mud profiler systems",
+    "alternative_label": "",
+    "definition": "Devices that provide information on unconsolidated sediment structure through transmission and reception of an energy source with a frequency corresponding to a sampling interval lower than 0.25 msec.",
+    "modified_date": "2010-11-18 11:16:45.000"
+  },
+  {
+    "id": 81,
+    "code": "368",
+    "name": null,
+    "label": "seismometers",
+    "alternative_label": "",
+    "definition": "Devices placed on the ground or seabed to measure physical movement of that substrate.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 82,
+    "code": "369",
+    "name": null,
+    "label": "hydrophones",
+    "alternative_label": "",
+    "definition": "Devices containing transducers that convert underwater sound waves into electrical signals.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 83,
+    "code": "370",
+    "name": null,
+    "label": "geothermometers",
+    "alternative_label": "",
+    "definition": "Instruments carrying a sensor that determines the temperature (degree of hotness) within geological units.",
+    "modified_date": "2010-11-18 11:35:46.000"
+  },
+  {
+    "id": 84,
+    "code": "371",
+    "name": null,
+    "label": "60 Hz top-bandwidth single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 60 Hz (sampling interval higher than 8 msec) plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 85,
+    "code": "372",
+    "name": null,
+    "label": "2000 Hz top-bandwidth single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 2000 Hz (sampling interval ranging from 0.5-0.25 msec) plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 86,
+    "code": "373",
+    "name": null,
+    "label": ">2000 Hz top-bandwidth single-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to >2000 Hz (sampling interval lower than 0.25 msec) plus a single string of towed hydrophones (streamer) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 87,
+    "code": "374",
+    "name": null,
+    "label": "60 Hz top-bandwidth multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 60 Hz (sampling interval higher than 8 msec) plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 88,
+    "code": "375",
+    "name": null,
+    "label": "250 Hz top-bandwidth multi-channel seismic reflection systems",
+    "alternative_label": "",
+    "definition": "An energy source with a frequency up to 250 Hz (sampling interval ranging from 2-8 msec) plus a multiple strings of towed hydrophones (streamers) that determine geologic structure by detecting waves reflected by subsurface layers.",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 89,
+    "code": "376",
+    "name": null,
+    "label": "sediment surface markers",
+    "alternative_label": "",
+    "definition": "Physical markers that allow changes in the position of the boundary between sediment and air or water by visible comparison against marked graduations in units of measurement of dimension length.",
+    "modified_date": "2010-04-22 16:13:51.000"
+  },
+  {
+    "id": 90,
+    "code": "377",
+    "name": null,
+    "label": "water level markers",
+    "alternative_label": "",
+    "definition": "Fixed physical markers that allow changes in the position of the boundary between a water body and the atmosphere by visible comparison against marked graduations in units of measurement of dimension length.",
+    "modified_date": "2010-04-22 16:16:00.000"
+  },
+  {
+    "id": 91,
+    "code": "378",
+    "name": null,
+    "label": "sediment profile imagers",
+    "alternative_label": "",
+    "definition": "Devices that provide in-situ still or video images of a section including bottom water, the undisturbed sediment-water interface and the upper sediment layers.",
+    "modified_date": "2010-04-22 16:18:44.000"
+  },
+  {
+    "id": 92,
+    "code": "379",
+    "name": null,
+    "label": "altimeters",
+    "alternative_label": "",
+    "definition": "Instruments that measure their distance above a specified elevation such as the sea surface or the seabed. Classification includes acoustic and pressure-based instruments that are designed to provide platform z co-ordinate spatial coverage in the atmosphere or a water body. It excludes remote sensing instruments such as LIDAR and satellite radar altimeters designed to map surface elevation.",
+    "modified_date": "2012-12-18 15:18:17.000"
+  },
+  {
+    "id": 93,
+    "code": "380",
+    "name": null,
+    "label": "submarine cables",
+    "alternative_label": "",
+    "definition": "Electrical conductors routed beneath the sea and connecting land stations.  Oceanographic interest focuses on changes in electrical resistance that may be related to the magnitude of Lagrangian currents.",
+    "modified_date": "2010-09-15 11:32:05.000"
+  },
+  {
+    "id": 94,
+    "code": "381",
+    "name": null,
+    "label": "precipitation gauges",
+    "alternative_label": "",
+    "definition": "Instruments that measure either the rate of fall or integrated amount of rain, snow, sleet, hail or graupel.",
+    "modified_date": "2010-09-15 11:35:20.000"
+  },
+  {
+    "id": 95,
+    "code": "382",
+    "name": null,
+    "label": "atmospheric gas analysers",
+    "alternative_label": "",
+    "definition": "In-situ instruments that can determine the proportion of one or more gaseous components of the atmosphere.",
+    "modified_date": "2010-09-15 11:38:47.000"
+  },
+  {
+    "id": 96,
+    "code": "383",
+    "name": null,
+    "label": "metal analysers",
+    "alternative_label": "",
+    "definition": "In-situ instruments that can determine the total, dissolved or particulate concentration of one or more metallic elements (including trace metalloids like arsenic) in a water body.",
+    "modified_date": "2010-09-15 11:41:46.000"
+  },
+  {
+    "id": 97,
+    "code": "384",
+    "name": null,
+    "label": "ADVs and turbulence probes",
+    "alternative_label": "",
+    "definition": "ADV is the acronym for acoustic doppler velocimeter. The group includes all in-situ instruments that make high frequency measurements of three-dimensional current velocity in order to determine the extent of turbulence within a water body.",
+    "modified_date": "2010-09-15 11:51:26.000"
+  },
+  {
+    "id": 98,
+    "code": "385",
+    "name": null,
+    "label": "platform attitude sensors",
+    "alternative_label": "",
+    "definition": "Instruments that measure platform orientation or rates of platform motion or acceleration in any direction or along any axis. Excludes inertial navigation systems that are designed to determine platform location with respect to an external co-ordinate reference system.",
+    "modified_date": "2010-09-15 12:00:32.000"
+  },
+  {
+    "id": 99,
+    "code": "386",
+    "name": null,
+    "label": "Aerosol physical characterisers",
+    "alternative_label": "",
+    "definition": "Instruments that determine physical attributes such as size and abundance of atmospheric aerosols.",
+    "modified_date": "2010-10-01 11:36:44.000"
+  },
+  {
+    "id": 100,
+    "code": "387",
+    "name": null,
+    "label": "Aethalometers",
+    "alternative_label": "",
+    "definition": "Instruments that quantify atmospheric particulate carbon ('black carbon') concentrations.",
+    "modified_date": "2010-10-01 11:29:09.000"
+  },
+  {
+    "id": 101,
+    "code": "388",
+    "name": null,
+    "label": "flow meters",
+    "alternative_label": "",
+    "definition": "Sensors that quantify the rate at which fluids (e.g. water or air) pass through sensor packages, instruments or sampling devices.",
+    "modified_date": "2011-05-20 10:35:53.000"
+  },
+  {
+    "id": 102,
+    "code": "389",
+    "name": null,
+    "label": "Expendable bathythermographs",
+    "alternative_label": "",
+    "definition": "Disposable, free-falling probes that measure temperature in relation to depth using a thermistor and electronic data acquisition system. Probes are dropped into the water and a temperature signal is transferred to the platform by a wire that breaks when the wire is out. Depth is calculated as a function of time to descend and a known constant rate of descent.",
+    "modified_date": "2018-10-24 09:19:59.000"
+  },
+  {
+    "id": 103,
+    "code": "390",
+    "name": null,
+    "label": "Mechanical bathythermographs",
+    "alternative_label": "",
+    "definition": "Tethered probes that measure temperature in relation to depth using a temperature and pressure package that is lowered into the water and subsequently retrieved using a winch. The profile of temperature is recorded mechanically by etchings on a glass slide. Depth is calculated as a function of pressure.",
+    "modified_date": "2018-10-24 10:48:30.000"
+  },
+  {
+    "id": 104,
+    "code": "391",
+    "name": null,
+    "label": "sediment suction samplers",
+    "alternative_label": "",
+    "definition": "Devices that collect samples from the sediment layer surface using suction. The mechanism of suction can be accomplished by either vacuum, by pressure difference between the air inside the sampler and surrounding water, by pumping water directly into the sampler or by under pressure air to elevate the sediment inside the sampler. Devices are typically diver- or remotely-operated.",
+    "modified_date": "2019-12-19 15:01:25.000"
+  },
+  {
+    "id": 105,
+    "code": "392",
+    "name": null,
+    "label": "colonisation substrata",
+    "alternative_label": "substrates",
+    "definition": "Natural or artificial materials deployed in a marine or artificial environment for a given period to act as standardised, passive settlement sampling devices (e.g. settlement plates). They are used to determine the extent of colonisation and/or the diversity of settled organisms.",
+    "modified_date": "2020-04-07 11:14:48.000"
+  },
+  {
+    "id": 106,
+    "code": "393",
+    "name": null,
+    "label": "binoculars and terrestrial scopes",
+    "alternative_label": "",
+    "definition": "Optical tools used to magnify and observe terrestrial objects that are distant from the observer. This includes tools such as binoculars, monoculars, terrestrial telescopes and spotting scopes. It excludes astronomical telescopes, camera devices, and tools which enlarge objects close to the observer such as hand lenses.",
+    "modified_date": "2020-06-04 15:46:07.000"
+  },
+  {
+    "id": 107,
+    "code": "394",
+    "name": null,
+    "label": "Pinger sub-bottom profilers",
+    "alternative_label": "",
+    "definition": "Marine seismic sources that send sound pulses into the sub-sea floor sediments. The sound pulses bounce off the sea floor and subsequent buried sediment layers according to differences in their acoustic impedance (hardness) and in turn, their density. Pingers are single channel, high frequency systems that typically operate between 2 kHz to 20 kHz.",
+    "modified_date": "2020-06-25 10:10:37.000"
+  },
+  {
+    "id": 108,
+    "code": "395",
+    "name": null,
+    "label": "clock synchronisers",
+    "alternative_label": "",
+    "definition": "Instruments that coordinate the time or frequency of independent time devices usually across networks.",
+    "modified_date": "2021-04-20 19:54:05.000"
+  },
+  {
+    "id": 109,
+    "code": "50",
+    "name": null,
+    "label": "sediment grabs",
+    "alternative_label": "",
+    "definition": "A device that collects a sample of surface sediment including manually deployed equipment like a shovel or bucket.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 110,
+    "code": "51",
+    "name": null,
+    "label": "unconsolidated sediment corers",
+    "alternative_label": "",
+    "definition": "Devices designed to collect samples of unconsolidated sediment from between the surface and depths from centimetres to 10s of metres with minimal disturbance of the sediment structure.",
+    "modified_date": "2014-11-12 11:08:53.000"
+  },
+  {
+    "id": 111,
+    "code": "52",
+    "name": null,
+    "label": "sediment porewater samplers",
+    "alternative_label": "",
+    "definition": "A device that collects samples of pore water from various horizons below the seabed.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 112,
+    "code": "53",
+    "name": null,
+    "label": "rock corers",
+    "alternative_label": "",
+    "definition": "A device that extracts rock either by chipping or drilling.",
+    "modified_date": "2018-09-20 11:24:53.000"
+  },
+  {
+    "id": 113,
+    "code": "54",
+    "name": null,
+    "label": "rock dredges",
+    "alternative_label": "",
+    "definition": "A device dragged across the seabed designed to collect loose rock samples.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 114,
+    "code": "55",
+    "name": null,
+    "label": "sediment settling tubes",
+    "alternative_label": "",
+    "definition": "A specialised water bottle that both collects water samples and provides a settling velocity experiment apparatus.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 115,
+    "code": "56",
+    "name": null,
+    "label": "snow and ice samplers",
+    "alternative_label": "",
+    "definition": "A device that collects a sample of frozen seawater or accumulated frozen precipitation.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 116,
+    "code": "57",
+    "name": null,
+    "label": "manual rock samplers",
+    "alternative_label": "",
+    "definition": "A simple tool like a hammer, saw or even just a hand for the collection of rock samples.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 117,
+    "code": "58",
+    "name": null,
+    "label": "continuous air samplers",
+    "alternative_label": "",
+    "definition": "A device that continuously supplies a flow of air either to an analytical instrument, over a sensor or from which discrete samples may be drawn.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 118,
+    "code": "59",
+    "name": null,
+    "label": "sampling extent markers",
+    "alternative_label": "",
+    "definition": "Devices that label the region within which sampling is to be confined such as permanent quadrats and location markers.",
+    "modified_date": "2014-06-05 10:44:31.000"
+  },
+  {
+    "id": 119,
+    "code": "60",
+    "name": null,
+    "label": "sediment dredges",
+    "alternative_label": "",
+    "definition": "Bucket-like containers hauled over the sea bed collecting integrated samples of surface sediment along a segment of ship track.",
+    "modified_date": "2010-07-20 09:06:54.000"
+  },
+  {
+    "id": 120,
+    "code": "61",
+    "name": null,
+    "label": "demersal trawl nets",
+    "alternative_label": "",
+    "definition": "Nets towed over the sea floor designed to sample species living on or near the bottom.",
+    "modified_date": "2010-07-30 11:16:21.000"
+  },
+  {
+    "id": 121,
+    "code": "62",
+    "name": null,
+    "label": "beam trawls",
+    "alternative_label": "",
+    "definition": "Nets towed over the sea floor having the horizontal net opening provided by a wooden or metal beam that disrupts the surface of the bed.",
+    "modified_date": "2010-07-30 11:19:35.000"
+  },
+  {
+    "id": 122,
+    "code": "63",
+    "name": null,
+    "label": "passive fishing gear",
+    "alternative_label": "",
+    "definition": "Apparatus where capture is based on the movement of the target species towards the gear (e.g. creels and fish traps).",
+    "modified_date": "2010-07-30 11:22:48.000"
+  },
+  {
+    "id": 123,
+    "code": "64",
+    "name": null,
+    "label": "active fishing gear",
+    "alternative_label": "",
+    "definition": "Apparatus where capture is based on chasing the target species (e.g. a trawl).",
+    "modified_date": "2010-07-30 11:24:37.000"
+  },
+  {
+    "id": 124,
+    "code": "65",
+    "name": null,
+    "label": "gill nets",
+    "alternative_label": "",
+    "definition": "Nets drifting in the sea or standing on the sea floor in which fish become entangled, usually through their gill covers.",
+    "modified_date": "2011-08-26 15:52:51.000"
+  },
+  {
+    "id": 125,
+    "code": "66",
+    "name": null,
+    "label": "flushing drills",
+    "alternative_label": "",
+    "definition": "Devices primarily designed to drill wells through sediment or rock that flush the drill spoil back to the surface where it is examined to provide lithological data through the process known as mud logging.",
+    "modified_date": "2011-08-26 15:59:54.000"
+  },
+  {
+    "id": 126,
+    "code": "67",
+    "name": null,
+    "label": "high-speed plankton samplers",
+    "alternative_label": "HSS",
+    "definition": "A fine-meshed net or filter towed behind a moving vessel that collects a single sample for a tow. Samples microzooplankton, mesozooplankton and nekton.",
+    "modified_date": "2011-11-25 11:45:36.000"
+  },
+  {
+    "id": 127,
+    "code": "68",
+    "name": null,
+    "label": "multinet",
+    "alternative_label": "",
+    "definition": "A system comprising several nets that can be opened and closed sequentially to collect a series of samples during a tow or haul. Samples microzooplankton, mesozooplankton and nekton.",
+    "modified_date": "2011-11-25 11:47:24.000"
+  },
+  {
+    "id": 128,
+    "code": "69",
+    "name": null,
+    "label": "neuston net",
+    "alternative_label": "",
+    "definition": "A fine-meshed net designed to collect small size organisms, aggregates, or litter on top of or close to the surface of a water column (top 10 to 50 centimetres) including for example microzooplankton, mesozooplankton, nekton, microplastic or other litter.",
+    "modified_date": "2018-02-20 17:43:58.000"
+  },
+  {
+    "id": 129,
+    "code": "70",
+    "name": null,
+    "label": "fish aggregating devices",
+    "alternative_label": "FAD",
+    "definition": "Any kind of permanent, semi-permanent or temporary structure designed to attract fishes (specially tunas) and used in ocean purse seine fisheries. FADs can be moored or drifting devices and consist of surface or sub-surface buoys or floats to which underwater ropes, lines or chains can be attached. The most sophisticated type can be equipped with an echo sounder to estimate the biomass under it, a GPS to locate the device, and either a VHF, Immarsat or Iridium connection to periodically send the information to the vessel which owns it.",
+    "modified_date": "2019-09-04 11:01:22.000"
+  },
+  {
+    "id": 130,
+    "code": "81",
+    "name": null,
+    "label": "shipboard incubators",
+    "alternative_label": "",
+    "definition": "A device mounted on a ship that holds water samples under conditions of controlled temperature or controlled temperature and illumination.",
+    "modified_date": "2008-01-10 15:47:47.000"
+  },
+  {
+    "id": 131,
+    "code": "82",
+    "name": null,
+    "label": "in-situ incubators",
+    "alternative_label": "",
+    "definition": "A rig that allows water samples to be retained from where they were collected whilst physically separated from their surroundings.  Includes small-scale incubation rigs and mesocosms.",
+    "modified_date": "2008-01-10 15:47:47.000"
+  },
+  {
+    "id": 132,
+    "code": "83",
+    "name": null,
+    "label": "centrifuges",
+    "alternative_label": "",
+    "definition": "Devices that separate the liquid and solid phases of a sample through forces exerted by rapid rotation.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 133,
+    "code": "84",
+    "name": null,
+    "label": "sieves and filters",
+    "alternative_label": "",
+    "definition": "Devices that separate solid particles larger than a particular size from a sample collected by another device that is a suspension of solid particles in a liquid or gas.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 134,
+    "code": "85",
+    "name": null,
+    "label": "biorectors and chemostats",
+    "alternative_label": "",
+    "definition": "Devices in which controlled conditions are maintained for a chemical process to be carried out by organisms or biochemically active substances derived from such organisms.",
+    "modified_date": "2012-08-02 15:49:48.000"
+  },
+  {
+    "id": 135,
+    "code": "86",
+    "name": null,
+    "label": "inorganic carbon analysers",
+    "alternative_label": "",
+    "definition": "Instruments measuring carbonate in sediments and inorganic carbon in the water column.",
+    "modified_date": "2016-10-03 15:55:30.000"
+  },
+  {
+    "id": 136,
+    "code": "90",
+    "name": null,
+    "label": "manual biota samplers",
+    "alternative_label": "",
+    "definition": "A simple tool like a hammer, saw or even just a hand for the collection of biota samples.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 137,
+    "code": "91",
+    "name": null,
+    "label": "observers",
+    "alternative_label": "",
+    "definition": "Humans who estimate a parameter through observation of a phenomenon such as bird counts, bird song mappings and visual wave observations.",
+    "modified_date": "2014-11-18 00:21:30.000"
+  },
+  {
+    "id": 138,
+    "code": "92",
+    "name": null,
+    "label": "meteorological LiDARs",
+    "alternative_label": "",
+    "definition": "Instruments that measure meteorological phenomena such as wind speed, wind direction and air quality remotely by determining the distances from a platform to a reflective surface in the atmosphere or at ground level, calculated from timed return rates of continuous or pulsed emissions of laser light.",
+    "modified_date": "2016-06-06 16:34:38.000"
+  },
+  {
+    "id": 139,
+    "code": "999",
+    "name": null,
+    "label": "unknown",
+    "alternative_label": "",
+    "definition": "The correct value is not known to and not computable by the creator of this information. However a correct value probably exists.",
+    "modified_date": "2007-11-20 08:50:03.000"
+  },
+  {
+    "id": 140,
+    "code": "AQPL",
+    "name": null,
+    "label": "Aquapulse",
+    "alternative_label": "",
+    "definition": "A marine seismic source where a propane-oxygen mixture is exploded inside a steel cylinder.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 141,
+    "code": "ARAG",
+    "name": null,
+    "label": "airgun array",
+    "alternative_label": "",
+    "definition": "A marine seismic source where multiple airguns of different sizes are tuned so that  a broader frequency spectrum will be generated.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 142,
+    "code": "ATRANS",
+    "name": null,
+    "label": "atmospheric transparency quantifiers",
+    "alternative_label": "",
+    "definition": "Instruments that quantify the degree of scattering and absorption of light passing through the atmosphere, including instruments that quantify aerosol and particulate concentrations (e.g. black carbon) and instruments measure meteorological visibility.",
+    "modified_date": "2013-04-23 01:49:23.000"
+  },
+  {
+    "id": 143,
+    "code": "BLUMS",
+    "name": null,
+    "label": "bioluminescence sensors",
+    "alternative_label": "",
+    "definition": "Submersible instruments which measure visible emissions from bioluminescent organisms by stimulating intracellular chemiluminescence through mechanical-stressors, such as turbulent water-flow, and sensing by photodetectors, such as photodiodes or photomultiplier tubes. Excludes bioluminescence biosensors which detect the presence of target chemicals or compounds using engineered-bioluminescent bacteria.",
+    "modified_date": "2014-02-04 00:34:21.000"
+  },
+  {
+    "id": 144,
+    "code": "BOMR",
+    "name": null,
+    "label": "Boomer",
+    "alternative_label": "",
+    "definition": "A marine seismic energy source in which capacitors are charged to high voltage and then discharged through a transducer in the water. The transducer consists of a flat coil with a spring-loaded aluminium plate. Eddy currents force the plates to separate sharply, producing a low pressure region between the plates into which the water rushes generating a pressure wave by implosion.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 145,
+    "code": "CCOV",
+    "name": null,
+    "label": "cloud cover quantifiers",
+    "alternative_label": "",
+    "definition": "Instruments that measure the proportion of the sky covered by cloud (cloud amount) and/or the height of the cloud above the ground (cloud base).",
+    "modified_date": "2013-04-23 14:40:00.000"
+  },
+  {
+    "id": 146,
+    "code": "CHRP",
+    "name": null,
+    "label": "Chirp",
+    "alternative_label": "",
+    "definition": "Chirp systems emit a 'swept-frequency signal', meaning that the transmitted signal is emitted over a period of time and over a set range of frequencies. This repeatable (transmitted) waveform can be varied in terms of pulse length, frequency bandwidth, and phase/amplitude. A matched filter, or correlation process, collapses the swept frequency modulated (FM) received signal into a pulse of short duration, maximizing the signal-to-noise-ratio. The reflected signal is received by a tuned transducer array that generates the outgoing acoustic energy. Chirps operate within a range of 400Hz - 24 kHz and are used for the first 20-30 metres of unconsolidated sediments.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 147,
+    "code": "COLCMP",
+    "name": null,
+    "label": "Colour comparators",
+    "alternative_label": "",
+    "definition": "Sets of standard materials that provide reference colour charts for the quantification of the colour of an object by visual comparison.",
+    "modified_date": "2014-09-01 09:01:41.000"
+  },
+  {
+    "id": 148,
+    "code": "CSEM",
+    "name": null,
+    "label": "controlled-source electromagnetic systems",
+    "alternative_label": "CSEM",
+    "definition": "Systems that measure sub-surface resistivity structure through the measurement of the electromegnetic fields resulting from stimulation by a towed source.  Includes systems incorporating both transmitter and receiver and systems where the transmitter and receiver are separate.",
+    "modified_date": "2016-03-10 06:45:48.000"
+  },
+  {
+    "id": 149,
+    "code": "DLOG",
+    "name": null,
+    "label": "data loggers",
+    "alternative_label": "",
+    "definition": "Electronic devices that record data over time or in relation to location either with a built-in instrument or sensor or via external instruments and sensors.",
+    "modified_date": "2017-12-05 11:14:23.000"
+  },
+  {
+    "id": 150,
+    "code": "EMSR",
+    "name": null,
+    "label": "electromagnetic sensors",
+    "alternative_label": "",
+    "definition": "In-situ sensors that simultaneuously measure electrical and magnetic fields.  They are usually moored on the seabed for long periods of time for determination of deep structure through monitoring magnetotelluric currents.  However, some may also be configured to be receivers for active electromagnetic surveys such as CSEM.",
+    "modified_date": "2019-12-11 18:23:45.000"
+  },
+  {
+    "id": 151,
+    "code": "EQUIL",
+    "name": null,
+    "label": "equilibrators",
+    "alternative_label": "",
+    "definition": "Devices in which samples and carriers are brought into chemical equilibrium prior to analysis. For example, a shower head or tower full of marbles used to equilibrate water samples with air that is subsequently analysed for carbon dioxide to give pCO2 in the water sample.",
+    "modified_date": "2013-04-23 14:37:39.000"
+  },
+  {
+    "id": 152,
+    "code": "ERTQ",
+    "name": null,
+    "label": "earthquake",
+    "alternative_label": "",
+    "definition": "A sudden release of stress in the Earth's crust that creates energy in the form of seimic waves.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 153,
+    "code": "EXHL",
+    "name": null,
+    "label": "high resolution low penetration explosives",
+    "alternative_label": "",
+    "definition": "Groups all explosives that allows high resolution but low penetration surveys.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 154,
+    "code": "EXLH",
+    "name": null,
+    "label": "high penetration low resolution explosives",
+    "alternative_label": "",
+    "definition": "Groups all explosives that allows high penetration but low resolution surveys.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 155,
+    "code": "FFES",
+    "name": null,
+    "label": "Fish-finder echosounders",
+    "alternative_label": "",
+    "definition": "Instruments primarily designed to detect shoals of fish through transmission and reception of acoustic signals.  They are often optimised for this purpose through the use of multiple frequencies.",
+    "modified_date": "2011-11-26 15:02:06.000"
+  },
+  {
+    "id": 156,
+    "code": "FLXS",
+    "name": null,
+    "label": "Flexichoc",
+    "alternative_label": "",
+    "definition": "An implosive energy source for marine shooting. Two plates are separated by compressed air until they lock into position. The air between them is then pumped out creating a vacuum. On the signal the plates are unlocked and the water pressure forces them together creating a shock wave in the water.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 157,
+    "code": "FLXT",
+    "name": null,
+    "label": "Flexotir",
+    "alternative_label": "",
+    "definition": "A seismic method for marine shooting whereby small charges are propelled through a rubber hose by water under pressure into a steel cage where they are detonated. Holes in the cage allow the water repelled by the explosion to flow out and in thus dissipating some of the energy in the bubble effect.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 158,
+    "code": "GIAG",
+    "name": null,
+    "label": "GI-gun",
+    "alternative_label": "",
+    "definition": "A marine seismic source where a pair of conventional airguns (one, the generator, fires in the conventional manner; the second, known as the injector) fires some milliseconds later to prevent bubble from collapsing. Could be used in true GI mode (volume of injector twice of volume of generator), harmonic mode (same volume of generator and injector) or true airgun (no delay between generator and injector).",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 159,
+    "code": "ICEP",
+    "name": null,
+    "label": "ice thickness profilers",
+    "alternative_label": "",
+    "definition": "Instruments that measure the freeboard, draught or thickness of ice sheets or sea ice. These are not to be confused with tethered ice profilers that are platforms that sample the water column beneath sea ice.",
+    "modified_date": "2013-04-23 01:40:29.000"
+  },
+  {
+    "id": 160,
+    "code": "LAB01",
+    "name": null,
+    "label": "elemental analysers",
+    "alternative_label": "",
+    "definition": "Instruments that quantify carbon, nitrogen and sometimes other elements by combusting the sample at very high temperature and assaying the resulting gaseous oxides. Usually used for samples including organic material.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 161,
+    "code": "LAB02",
+    "name": null,
+    "label": "gas chromatographs",
+    "alternative_label": "",
+    "definition": "Instruments separating gases, volatile substances or substances dissolved in a volatile solvent by transporting an inert gas through a column packed with a sorbent to a detector for assay.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 162,
+    "code": "LAB03",
+    "name": null,
+    "label": "colorimeters",
+    "alternative_label": "",
+    "definition": "Instruments measuring the amount of light of a given wavelength absorbed by a sample of solution to determine the concentration of a specific coloured solute.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 163,
+    "code": "LAB04",
+    "name": null,
+    "label": "autoanalysers",
+    "alternative_label": "",
+    "definition": "Instruments that continuously draw samples through plumbing adding reagents whilst controlling the environment to produce a chemical reaction before passing the sample to a detector, e.g. the automated colorimetric determination of nutrients.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 164,
+    "code": "LAB05",
+    "name": null,
+    "label": "optical microscopes",
+    "alternative_label": "",
+    "definition": "Instruments that generate enlarged images of samples using the phenomena of reflection and absorption of visible light. Includes conventional and inverted instruments.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 165,
+    "code": "LAB06",
+    "name": null,
+    "label": "fluorescence microscopes",
+    "alternative_label": "",
+    "definition": "Instruments that generate enlarged images of samples using the phenomena of fluorescence and phosphorescence instead of, or in addition to, reflection and absorption of visible light. Includes conventional and inverted instruments.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 166,
+    "code": "LAB07",
+    "name": null,
+    "label": "electron microscopes",
+    "alternative_label": "",
+    "definition": "Instruments that generate enlarged images of samples using the phenomena of reflection and absorption of electrons behaving as waves.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 167,
+    "code": "LAB08",
+    "name": null,
+    "label": "electron microprobes",
+    "alternative_label": "",
+    "definition": "Instruments that chemically analyse a small area of a sample by bombarding it with electrons and spectroscopically assaying the resulting X-Ray emissions.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 168,
+    "code": "LAB09",
+    "name": null,
+    "label": "ion microprobes",
+    "alternative_label": "",
+    "definition": "Instruments that isotopically analyse a small area of sample by bombarding it with ions to form a plasma that is analysed in a mass spectrometer.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 169,
+    "code": "LAB10",
+    "name": null,
+    "label": "atomic absorption spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments that volatilise the sample, illuminate the resultant vapour with light wavelengths matched to the analyte of interest and quantify the radiation absorbed, which is proportional to concentration.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 170,
+    "code": "LAB11",
+    "name": null,
+    "label": "high performance liquid chromatographs",
+    "alternative_label": "",
+    "definition": "Instruments that separate and analyse mixtures of substances by high pressure pumping the sample through a column packed with microspheres coated with the stationary phase.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 171,
+    "code": "LAB12",
+    "name": null,
+    "label": "titrators",
+    "alternative_label": "",
+    "definition": "Instruments that incrementally add quantified aliquites of a reagent to a sample until the end-point of a chemical reaction is reached.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 172,
+    "code": "LAB13",
+    "name": null,
+    "label": "balances and scales",
+    "alternative_label": "",
+    "definition": "Devices that determine the mass or weight of a sample.",
+    "modified_date": "2010-07-02 15:19:32.000"
+  },
+  {
+    "id": 173,
+    "code": "LAB14",
+    "name": null,
+    "label": "inductively-coupled plasma atomic emission spectroscopes",
+    "alternative_label": "",
+    "definition": "Instruments that pass nebulised samples into an inductively-coupled gas plasma (8-10000 K) where they are atomised and excited. The de-excitation optical emissions at characteristic wavelengths are spectroscopically analysed.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 174,
+    "code": "LAB15",
+    "name": null,
+    "label": "inductively-coupled plasma mass spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments that pass nebulised samples into an inductively-coupled gas plasma (8-10000 K) where they are atomised and ionised. Ions of specific mass-to-charge ratios are quantified in a quadrupole mass spectrometer.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 175,
+    "code": "LAB16",
+    "name": null,
+    "label": "mass spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments used to measure the mass-to-charge ratio of ions most generally used to find the composition of a sample by generating a mass spectrum representing the masses of sample components.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 176,
+    "code": "LAB17",
+    "name": null,
+    "label": "accelerator mass spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments measuring the mass-to-charge ratio of the products of sample molecule disassociation, atom ionisation and ion acceleration in a particle accelerator.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 177,
+    "code": "LAB18",
+    "name": null,
+    "label": "nuclear magnetic resonance spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments that identify and quantify magnetically active chemical entities by subjecting a sample to orthogonal magnetic and electrical fields.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 178,
+    "code": "LAB19",
+    "name": null,
+    "label": "gas chromatograph mass spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments separating gases, volatile substances or substances dissolved in a volatile solvent by transporting an inert gas through a column packed with a sorbent to a detector for assay by a mass spectrometer.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 179,
+    "code": "LAB20",
+    "name": null,
+    "label": "spectrophotometers",
+    "alternative_label": "",
+    "definition": "Instruments measuring the relative absorption of electromagnetic radiation of different wavelengths in the near infra-red, visible and ultraviolet wavebands by samples.",
+    "modified_date": "2011-04-15 15:18:31.000"
+  },
+  {
+    "id": 180,
+    "code": "LAB21",
+    "name": null,
+    "label": "liquid scintillation counters",
+    "alternative_label": "",
+    "definition": "Instruments assaying alpha and beta radiation by quantitative detection of visible light produced by the passage of rays or particles through a suitable scintillant incorporated into the sample.",
+    "modified_date": "2018-07-30 17:26:53.000"
+  },
+  {
+    "id": 181,
+    "code": "LAB22",
+    "name": null,
+    "label": "gamma-ray spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments measuring the relative levels of electromagnetic radiation of different wavelengths in the gamma-ray waveband.",
+    "modified_date": "2011-04-15 15:18:31.000"
+  },
+  {
+    "id": 182,
+    "code": "LAB23",
+    "name": null,
+    "label": "bench fluorometers",
+    "alternative_label": "",
+    "definition": "Instruments that determinesthe amount of chlorophyll in in-vitro samples by measuring the quantity of red light (around 685nm) emitted following excitation by pulses of blue light (around 460-470nm).",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 183,
+    "code": "LAB24",
+    "name": null,
+    "label": "gel permeation chromatographs",
+    "alternative_label": "",
+    "definition": "Instruments that separate components in aqueous or organic solution based on molecular size generally for molecular weight determination.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 184,
+    "code": "LAB25",
+    "name": null,
+    "label": "X-ray fluorescence analysers",
+    "alternative_label": "",
+    "definition": "Instruments that identify and quantify the elemental constituents of a sample from the spectrum of electromagnetic radiation emitted by the atoms in the sample when excited by X-ray radiation.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 185,
+    "code": "LAB26",
+    "name": null,
+    "label": "X-ray diffractometers",
+    "alternative_label": "",
+    "definition": "Instruments that identify crystalline solids by measuring the characteristic spaces between layers of atoms or molecules in a crystal.",
+    "modified_date": "2008-01-10 16:10:12.000"
+  },
+  {
+    "id": 186,
+    "code": "LAB27",
+    "name": null,
+    "label": "bench particle sizers",
+    "alternative_label": "",
+    "definition": "Instruments that measure the size spectrum of particles in a water or sediment sample.",
+    "modified_date": "2017-08-08 15:51:13.000"
+  },
+  {
+    "id": 187,
+    "code": "LAB28",
+    "name": null,
+    "label": "thermal conductivimeters",
+    "alternative_label": "",
+    "definition": "Laboratory instruments that determine the thermal conductivity of rock or sediment samples (including unopened cores).",
+    "modified_date": "2010-02-19 11:52:56.000"
+  },
+  {
+    "id": 188,
+    "code": "LAB29",
+    "name": null,
+    "label": "rulers",
+    "alternative_label": "",
+    "definition": "Devices that allow one or more physical dimensions of a sample or specimen to be determined by visible comparison against marked graduations in units of measurement of dimension length.",
+    "modified_date": "2010-04-22 16:04:00.000"
+  },
+  {
+    "id": 189,
+    "code": "LAB30",
+    "name": null,
+    "label": "salinometers",
+    "alternative_label": "",
+    "definition": "Instruments that measure the salinity of a collected water sample based on its electrical conductivity or optical properties.",
+    "modified_date": "2015-02-11 09:18:46.000"
+  },
+  {
+    "id": 190,
+    "code": "LAB31",
+    "name": null,
+    "label": "magnetic susceptibility systems",
+    "alternative_label": "",
+    "definition": "Sensors, probes and meters that measure the degree to which a sample or part thereof is influenced by a magnetic field.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 191,
+    "code": "LAB32",
+    "name": null,
+    "label": "acoustic velocity systems",
+    "alternative_label": "",
+    "definition": "Instruments that measure the speed or velocity of sound, including P-waves, in samples of solids, liquids or gases.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 192,
+    "code": "LAB33",
+    "name": null,
+    "label": "laboratory autosamplers",
+    "alternative_label": "",
+    "definition": "Laboratory apparatus  that automatically introduces one or more samples with a predetermined volume or mass into an analytical instrument.",
+    "modified_date": "2012-03-01 16:00:54.000"
+  },
+  {
+    "id": 193,
+    "code": "LAB34",
+    "name": null,
+    "label": "chemiluminescence analysers",
+    "alternative_label": "",
+    "definition": "Laboratory apparatus that detemines the concentration of a chemical species by quantification of the electromagnetic radiation (usually visible light) produced by a chemical reaction.",
+    "modified_date": "2012-03-22 17:49:10.000"
+  },
+  {
+    "id": 194,
+    "code": "LAB35",
+    "name": null,
+    "label": "voltammetry analysers",
+    "alternative_label": "",
+    "definition": "Instruments that obtain information about an analyte by applying a potential and measuring the current produced in the analyte.",
+    "modified_date": "2012-08-02 15:41:42.000"
+  },
+  {
+    "id": 195,
+    "code": "LAB36",
+    "name": null,
+    "label": "flow injection analysers",
+    "alternative_label": "",
+    "definition": "Instruments that inject a sample into a flowing carrier solution, adding reagents whilst controlling the environment to produce a chemical reaction before passing the sample to a detector.",
+    "modified_date": "2012-08-02 15:44:24.000"
+  },
+  {
+    "id": 196,
+    "code": "LAB37",
+    "name": null,
+    "label": "flow cytometers",
+    "alternative_label": "",
+    "definition": "Instruments that suspend cells in a stream of fluid past detection sensors whilst illuminating them with laser light. Used for cell counting, sorting, biomarker detection and protein engineering.",
+    "modified_date": "2012-08-02 15:45:33.000"
+  },
+  {
+    "id": 197,
+    "code": "LAB38",
+    "name": null,
+    "label": "cavity enhanced absorption spectrometers",
+    "alternative_label": "CEAS",
+    "definition": "Instruments that illuminate a sample inside an optical cavity, typically using laser light, and measure the concentration or amount of a species in gas phase by absorption spectroscopy. Techniques include cavity ring-down spectroscopy (CRDS) and integrated cavity output spectroscopy (ICOS).",
+    "modified_date": "2014-12-16 08:36:22.000"
+  },
+  {
+    "id": 198,
+    "code": "LAB39",
+    "name": null,
+    "label": "Geiger counters",
+    "alternative_label": "",
+    "definition": "Instruments that measure the amount of alpha, beta or gamma radiation through quantification of the ionization of a low-pressure gas contained in a tube. Sometimes referred to as Geiger-Müller counters.",
+    "modified_date": "2012-08-30 15:13:49.000"
+  },
+  {
+    "id": 199,
+    "code": "LAB40",
+    "name": null,
+    "label": "Volume measures",
+    "alternative_label": "",
+    "definition": "Pieces of apparatus that determine the volume of a liquid sample or dispense measured volumes of liquid. Includes devices covering a wide range of sophistication from measuring cylinders, syringes and manual pipettes through to programmable electronic instruments.",
+    "modified_date": "2012-11-29 15:53:17.000"
+  },
+  {
+    "id": 200,
+    "code": "LAB42",
+    "name": null,
+    "label": "laboratory optical rangefinders",
+    "alternative_label": "",
+    "definition": "Devices used to detect the distance between sensor and sample or presence/absence of an object based a light (often infrared and possibly laser) transmitter and a photoelectric receiver.",
+    "modified_date": "2013-12-19 09:08:24.000"
+  },
+  {
+    "id": 201,
+    "code": "LAB43",
+    "name": null,
+    "label": "plate readers",
+    "alternative_label": "",
+    "definition": "Laboratory instruments detect biological, chemical or physical events in samples held in multiple (typically 6, 24, 96, 384 or 1536) wells arranged in a matrix in a flat plate. Samples in the plate wells are simultaneously assayed optically using techniques such as spectrophotometry or spectrofluorometry.",
+    "modified_date": "2015-02-03 10:32:36.000"
+  },
+  {
+    "id": 202,
+    "code": "LAB44",
+    "name": null,
+    "label": "refractometers",
+    "alternative_label": "",
+    "definition": "Instruments that measure the refractive index of a sample.",
+    "modified_date": "2015-02-11 09:21:48.000"
+  },
+  {
+    "id": 203,
+    "code": "LAB45",
+    "name": null,
+    "label": "ion chromatography analysers",
+    "alternative_label": "",
+    "definition": "Instruments that use ion chromatography to separate ions and polar molecules based on their affinity to an ion exchanger resin. Sample solutions pass through a pressurized chromatographic column where ions are absorbed by the resin and subsequently eluted using an ion extraction liquid. The retention time of different species determines the ionic concentrations in the sample.",
+    "modified_date": "2022-04-27 17:58:27.000"
+  },
+  {
+    "id": 204,
+    "code": "LAB46",
+    "name": null,
+    "label": "proton transfer reaction mass spectrometers",
+    "alternative_label": "",
+    "definition": "Instruments that ionise trace gas molecules by proton transfer from protonated water, H3O. Ions of specific mass-to-charge ratios are then quantified in a quadrupole or time-of-flight mass spectrometer.",
+    "modified_date": "2022-04-27 17:58:27.000"
+  },
+  {
+    "id": 205,
+    "code": "LAB47",
+    "name": null,
+    "label": "thermal ionisation mass spectrometers",
+    "alternative_label": "TIMS",
+    "definition": "Instruments that measure isotopic ratios using thermal ionisation. Purified samples are heated to cause ionisation of atoms. Subsequently, ions are focused into a beam by an electromagnet and then separated into individual beams based on their mass/charge ratio.",
+    "modified_date": "2022-04-27 17:58:27.000"
+  },
+  {
+    "id": 206,
+    "code": "LAB48",
+    "name": null,
+    "label": "isotope ratio mass spectrometers",
+    "alternative_label": "IRMS",
+    "definition": "Instruments that measure isotopic ratios using an electron ionisation source. Atoms in purified samples are ionised using a beam of electrons under vacuum. Subsequently, ions are focused into a beam by an electromagnet and then separated into individual beams based on their mass/charge ratio.",
+    "modified_date": "2016-03-10 06:47:31.000"
+  },
+  {
+    "id": 207,
+    "code": "LAB49",
+    "name": null,
+    "label": "Atomic fluorescence spectrometers",
+    "alternative_label": "AFS",
+    "definition": "Instruments that illuminate the vapour from volatilised samples with light and quantify the intensity of light emitted, which is usually proportional to concentration.",
+    "modified_date": "2016-11-29 15:10:58.000"
+  },
+  {
+    "id": 208,
+    "code": "LAB50",
+    "name": null,
+    "label": "thermal cyclers",
+    "alternative_label": "",
+    "definition": "Instruments that repeatedly heat and cool samples in a series of steps. They are typically used to amplify segments of DNA via the polymerase chain reaction (PCR). They can also be used to facilitate other temperature-sensitive reactions, including restriction enzyme digestion or rapid diagnostics.",
+    "modified_date": "2020-06-10 10:00:51.000"
+  },
+  {
+    "id": 209,
+    "code": "LAB51",
+    "name": null,
+    "label": "holographic microscopes",
+    "alternative_label": "",
+    "definition": "Instruments that generate enlarged images of samples using the phenomena of digital inline holography with numerical reconstruction instead of reflection and absorption of visible light.",
+    "modified_date": "2021-01-25 10:23:18.000"
+  },
+  {
+    "id": 210,
+    "code": "LBTG",
+    "name": null,
+    "label": "labelling tags",
+    "alternative_label": "",
+    "definition": "Passive devices attached to captured organisms to specifically identify them when recaptured after release.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 211,
+    "code": "LVLST",
+    "name": null,
+    "label": "Levels and staffs",
+    "alternative_label": "",
+    "definition": "Optical instruments and graduated poles used in surveying to determine the elevation of a location relative to a datum level.",
+    "modified_date": "2017-09-06 12:47:02.000"
+  },
+  {
+    "id": 212,
+    "code": "MMIS",
+    "name": null,
+    "label": "multi-frame imaging sonar",
+    "alternative_label": "",
+    "definition": "High-frequency (>1 MHz), possibly multiple frequency, active sonar systems that provide images approaching the same quality as optical video cameras. They may be deployed in many ways including hand-held by divers, attached to profiling instruments, AUVs and ROVs, towed fish or moorings.  They have many scientific, commercial and military applications including observation and identification of fish, seabed characterisation, underwater vessel inspections and mine detection. Examples of this type of system are DIDSON (Dual-frequency IDentification SONar) and LIMIS (Limpet Mine Imaging Sonar).  Any instrument that may be considered the underwater acoustic equivalent of an optical video camera belongs in this category.",
+    "modified_date": "2013-02-18 08:17:53.000"
+  },
+  {
+    "id": 213,
+    "code": "MOD01",
+    "name": null,
+    "label": "Global models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions over the whole globe.",
+    "modified_date": "2012-07-16 15:13:04.000"
+  },
+  {
+    "id": 214,
+    "code": "MOD02",
+    "name": null,
+    "label": "Regional models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions within a limited geographic area.",
+    "modified_date": "2012-07-16 15:13:37.000"
+  },
+  {
+    "id": 215,
+    "code": "MOD03",
+    "name": null,
+    "label": "Atmosphere models",
+    "alternative_label": "",
+    "definition": "Numerical models the make predictions in the atmosphere assuming that it is a closed system that doesn't interact with the hydrosphere.",
+    "modified_date": "2012-07-16 15:14:53.000"
+  },
+  {
+    "id": 216,
+    "code": "MOD04",
+    "name": null,
+    "label": "Ocean models",
+    "alternative_label": "",
+    "definition": "Numerical models the make predictions in the hydrosphere assuming that it is a closed system that doesn't interact with the atmosphere.",
+    "modified_date": "2012-07-16 15:15:37.000"
+  },
+  {
+    "id": 217,
+    "code": "MOD05",
+    "name": null,
+    "label": "Coupled models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions in both the atmosphere and the hydrosphere by considering both spheres as a single system.",
+    "modified_date": "2012-07-16 15:17:11.000"
+  },
+  {
+    "id": 218,
+    "code": "MOD06",
+    "name": null,
+    "label": "Meteorological models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions of weather parameters such as air temperature, pressure, humidity and winds.",
+    "modified_date": "2012-07-16 15:18:04.000"
+  },
+  {
+    "id": 219,
+    "code": "MOD07",
+    "name": null,
+    "label": "Physical oceanographic models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions of physical oceanographic parameters such as water body temperature, salinity, currents and waves.",
+    "modified_date": "2012-07-16 15:19:02.000"
+  },
+  {
+    "id": 220,
+    "code": "MOD08",
+    "name": null,
+    "label": "Biological and biogeochemical models",
+    "alternative_label": "",
+    "definition": "Numerical models that make predictions of biological parameters, including ecosystem models.",
+    "modified_date": "2012-07-16 15:20:04.000"
+  },
+  {
+    "id": 221,
+    "code": "MPIS",
+    "name": null,
+    "label": "profiling sonars",
+    "alternative_label": "",
+    "definition": "Active sonar systems that provide a cross-sectional profile of a target area. These instruments typically emit a series of acoustic pulses in a beam pattern like a spot or pencil beam and the peak echo return is recorded. They provide a digitised version of echo returns as opposed to multicoloured images by imaging sonars. They are generally deployed on survey vessels pointing the transducer down towards the target. Applications of profiling sonars include cross-sectional profiling in pipeline and trench survey, bottom profiles, and surveying of underwater cave systems or manmade structures like road and rail bridge foundations. Examples of this type of system are Tritech Super SeaKing DFP Profiler and Imagenex 881A Profiling Sonar Head.",
+    "modified_date": "2021-06-15 12:00:36.000"
+  },
+  {
+    "id": 222,
+    "code": "MVBR",
+    "name": null,
+    "label": "marine vibroseis",
+    "alternative_label": "",
+    "definition": "A marine seismic source generating sweeps of controlled varying frequency (from a few Hz to hundreds of Hz) and duration.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 223,
+    "code": "NATS",
+    "name": null,
+    "label": "natural source",
+    "alternative_label": "",
+    "definition": "Any kind of natural source of acoustic waves, that can be used in passive seismics.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 224,
+    "code": "PERMON",
+    "name": null,
+    "label": "Performance monitors",
+    "alternative_label": "",
+    "definition": "Sensors or instruments that monitor whether a platform or environmental sensors on the platform are functioning.",
+    "modified_date": "2014-07-22 10:29:48.000"
+  },
+  {
+    "id": 225,
+    "code": "POS01",
+    "name": null,
+    "label": "Decca Navigator System main chain receivers",
+    "alternative_label": "Decca main chain",
+    "definition": "<frequency>70 and 130kHz</frequency><mode>hyperbolic</mode><range>450km (day) to 750km (night)</range><accuracy>50m(day) to 200m (night) in good conditions down to 2km near range limit</accuracy><operating>WWII to 2001-03 (2000-03-31 in UK)</operating><notes> Transmitter groups, each with a master and three slaves</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 226,
+    "code": "POS02",
+    "name": null,
+    "label": "Global Navigation Satellite System receivers",
+    "alternative_label": "GLONASS",
+    "definition": "<notes>Based on a network of satellites deployed by the former Soviet Union.  The network was initiated in 1976 but fell into disrepair before full global coverage was reached during the political upheaval of the early 90s</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 227,
+    "code": "POS03",
+    "name": null,
+    "label": "NAVSTAR Global Positioning System receivers",
+    "alternative_label": "GPS",
+    "definition": "<accuracy>better than 100m</accuracy><notes>Global navigation based on a network of satellites deployed and maintained by the USA.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 228,
+    "code": "POS04",
+    "name": null,
+    "label": "Differential Global Positioning System receivers",
+    "alternative_label": "DGPS",
+    "definition": "<accuracy>better than 100m to better than 10m</accuracy><notes>GPS augmented by a network of fixed ground stations that continuously broadcast the difference between their true locations and the location determined from the satellites.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 229,
+    "code": "POS05",
+    "name": null,
+    "label": "Long Range Navigation version C receivers",
+    "alternative_label": "LORAN C",
+    "definition": "<frequency>70-130kHz</frequency><mode>hyperbolic</mode><range>950kmto 1700km (day): 650km to 1250km (day)</range><operational>1947 to 2010. Maintained as GPS backup in the EU.</operational><notes>Global navigation based on transmitters in several European countries, Japan, Canada (until 2002-10) and USA (until 2010-02-08).</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 230,
+    "code": "POS06",
+    "name": null,
+    "label": "Marine chronometers",
+    "alternative_label": "Clock",
+    "definition": "<notes>Timepieces of sufficient precision to allow their use of portable time standards.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 231,
+    "code": "POS07",
+    "name": null,
+    "label": "Sextants",
+    "alternative_label": "Sextant",
+    "definition": "<notes>Optical instruments that accurately measure the angle between pairs of visible celestial bodies such as the sun, moon or stars. </notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 232,
+    "code": "POS08",
+    "name": null,
+    "label": "Decca Navigator System HiFix receivers",
+    "alternative_label": "Decca HiFix",
+    "definition": "<frequency>1.6MHz</frequency><mode>hyperbolic</mode><range>under 100km</range><accuracy>better than 10m: maximum accuracy at 50km range is 1.5m</accuracy><operating>1962 to 2000</operating><notes>Not for general navigation.  Chains usually set up for specific surveys.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 233,
+    "code": "POS09",
+    "name": null,
+    "label": "Toran receivers",
+    "alternative_label": "Toran",
+    "definition": "<frequency>around 2MHz</frequency><mode>hyperbolic</mode><range>150-200km</range><accuracy>better than 20m</accuracy><notes>Mostly used for aircraft.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 234,
+    "code": "POS10",
+    "name": null,
+    "label": "Automatic Ranging Grid Overlay DM 54 receivers",
+    "alternative_label": "Argo DM54",
+    "definition": "<frequency>1.6-2MHz</frequency><mode>hyperbolic</mode><range>450km</range><accuracy>4-7m down to 20m at maximum range</accuracy><operational>from 1977 (mid-80s in Europe)</operational><notes>Survey positioning system.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 235,
+    "code": "POS11",
+    "name": null,
+    "label": "Trident receivers",
+    "alternative_label": "Trident",
+    "definition": "<frequency>420-450MHz</frequency><mode>circular</mode><range>150km</range><accuracy>better than 3m</accuracy><notes>Survey positioning system.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 236,
+    "code": "POS12",
+    "name": null,
+    "label": "Système leger de measure de distance receivers",
+    "alternative_label": "Syledis",
+    "definition": "<frequency>420-450MHz</frequency><mode>hyperbolic or circular</mode><range>400km hyperbolic; 75-100km circular</range><accuracy>better than 2m below horizon (10m above horizon)</accuracy><operational>1980s to 1995</operational><notes>Navigation and positioning system for the North Sea petroleum industry.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 237,
+    "code": "POS13",
+    "name": null,
+    "label": "Rana receivers",
+    "alternative_label": "Rana",
+    "definition": "<frequency>around 300-400kHz</frequency><mode>hyperbolic</mode>",
+    "modified_date": "2015-12-09 11:27:02.000"
+  },
+  {
+    "id": 238,
+    "code": "POS14",
+    "name": null,
+    "label": "Pulse8 receivers",
+    "alternative_label": "Pulse8",
+    "definition": "<frequency>100kHz</frequency><mode>hyperbolic</mode><range>250km to 750km</range><accuracy>30m to 500m</accuracy><operational>1970s to late 1990s</operational>",
+    "modified_date": "2015-12-09 11:27:24.000"
+  },
+  {
+    "id": 239,
+    "code": "POS15",
+    "name": null,
+    "label": "Omega receivers",
+    "alternative_label": "Omega",
+    "definition": "<frequency>10-14kHz</frequency><mode>hyperbolic</mode><range>up to 15000km</range><accuracy>better than 7.4km</accuracy><operational>1968-1997</operational><notes>Global long-range but low accuracy navigation system</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 240,
+    "code": "POS16",
+    "name": null,
+    "label": "Argos GPS-localised transmitters",
+    "alternative_label": "Argos GPS",
+    "definition": "<mode>GPS localisation</mode><accuracy>better than 100m</accuracy>",
+    "modified_date": "2015-12-09 11:26:24.000"
+  },
+  {
+    "id": 241,
+    "code": "POS17",
+    "name": null,
+    "label": "Argos doppler-localised transmitters",
+    "alternative_label": "Argos Doppler",
+    "definition": "<mode>Doppler-derived Argos localisation</mode><accuracy>better than 250m (class 3) to worse than 1500m (class 0)</accuracy>",
+    "modified_date": "2015-12-09 11:26:24.000"
+  },
+  {
+    "id": 242,
+    "code": "POS18",
+    "name": null,
+    "label": "Navy Navigation Satellite System receivers",
+    "alternative_label": "Navsat",
+    "definition": "<mode>Doppler-derived localisation</mode><accuracy>better than 10km or 2km if combined with relative water velocity em-log</accuracy>",
+    "modified_date": "2015-12-09 11:26:24.000"
+  },
+  {
+    "id": 243,
+    "code": "POS19",
+    "name": null,
+    "label": "inertial navigation systems",
+    "alternative_label": "INS",
+    "definition": "<notes>Systems that determine spatial position using high-accuracy inertial measurements plus input from other sensors such as doppler current sensors to determine platform 3-D location by interpolation between satellite network fixes.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 244,
+    "code": "POS20",
+    "name": null,
+    "label": "Motorola Mini-Ranger receivers",
+    "alternative_label": "Mini-Ranger",
+    "definition": "<frequency>5410-5890MHz</frequency><range>up to 75km</range><accuracy>up to 2m</accuracy><notes>A family of short-wave receivers that determine position by determining the line-of-sight distance from 3 or more transmitters set up for the survey.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 245,
+    "code": "POS21",
+    "name": null,
+    "label": "Hyperfix receivers",
+    "alternative_label": "Hyperfix",
+    "definition": "<frequency>1.6-3.4MHz</frequency><mode>hyperbolic (usual), circular or combined</mode><range>250km (night) to 700km (day)</range><accuracy>up to 0.5-1m</accuracy><operating>until 2000</operating><notes>Racal positioning system similar to Decca HiFix based on temporary or permanent transmitter chains comprising a master plus at least two slaves.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 246,
+    "code": "POS22",
+    "name": null,
+    "label": "Trisponder navigation systems",
+    "alternative_label": "Trisponder",
+    "definition": "<range>80km</range><accuracy>1m (resolution 0.1m)</accuracy><notes>Family of microwave short-range positioning systems with vessel equipment and three shore transponders (master and two slaves) set up specifically for surveys.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 247,
+    "code": "POS23",
+    "name": null,
+    "label": "radio tracking systems",
+    "alternative_label": "radioTracking",
+    "definition": "<notes>Directional radio receivers that determine the location of a mobile radio transmitter (such as a bird or animal tag) by triangulation.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 248,
+    "code": "POS24",
+    "name": null,
+    "label": "dead reckoning",
+    "alternative_label": "deadReckoning",
+    "definition": "<notes>The process of estimating current position based upon a previously determined position, or fix, and advancing that position based upon known or estimated speeds over elapsed time, and course.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 249,
+    "code": "POS25",
+    "name": null,
+    "label": "Kinematic Global Positioning System receivers",
+    "alternative_label": "KGPS",
+    "definition": "<accuracy>Horizontal Accuracy: Fixed RTK mode: 1-5cm, Float RTK mode: 20cm-1m. Vertical accuracy : twice the horizontal accuracy</accuracy><operating>Since the mid-1990s</operating><notes>Real Time Kinematic (RTK) satellite navigation technique based on the use of carrier phase measurements of the GPS signals where a single reference station or a network of reference stations provides the real-time corrections.</notes>",
+    "modified_date": "2015-12-09 11:25:50.000"
+  },
+  {
+    "id": 250,
+    "code": "POS26",
+    "name": null,
+    "label": "Ultra Short Baseline Positioning Systems",
+    "alternative_label": "USBL",
+    "definition": "Systems dedicated to the positioning of subsea vehicles such as ROV and AUV. They are based on acoustic transmitted signals between one or several transponders and one acoustic antenna installed on a surface vessel. The transponders are mounted on the underwater vehicle or are fixed on the seafloor. These underwater acoustic positioning systems are coupled with inertial navigation systems.",
+    "modified_date": "2012-11-13 13:38:20.000"
+  },
+  {
+    "id": 251,
+    "code": "SBAG",
+    "name": null,
+    "label": "single-bubble airgun",
+    "alternative_label": "",
+    "definition": "Array of air gun tuned in order to obtain the necessary energy wile reducing the size of the air guns.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 252,
+    "code": "SNAG",
+    "name": null,
+    "label": "airgun",
+    "alternative_label": "",
+    "definition": "A marine seismic source which injects a bubble of highly compressed air into the water. Oscillations of the bubble as it alternatively expands and contracts generate a sonic wave whose frequency depends on the amount of air in the bubble, its pressure, and the water depth.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 253,
+    "code": "SNWG",
+    "name": null,
+    "label": "watergun",
+    "alternative_label": "",
+    "definition": "A marine seismic energy source divided into two chambers, the firing chamber, which contains compressed air, and the other chamber, which is filled with water. When the gun is fired, the compressed air forces the shuttle downward and this expels the water from the lower chamber. The shot of water leaving the gun creates a void behind it and the collapse of water into this void creates an acoustic wave.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 254,
+    "code": "SPRK",
+    "name": null,
+    "label": "Sparker",
+    "alternative_label": "",
+    "definition": "A seismic source in which an electrical discharge in water is the energy source.",
+    "modified_date": "2013-02-26 17:11:07.000"
+  },
+  {
+    "id": 255,
+    "code": "TFSAMP",
+    "name": null,
+    "label": "thin film metal samplers",
+    "alternative_label": "",
+    "definition": "Metal samplers comprising a filter, a diffusive gel layer and a resin layer that scavenge trace metals by diffusion from water bodies or in-situ sediment pore waters. A constant concentration gradient is set up in the gel from which the metal concentration in the sampled medium may be determined.",
+    "modified_date": "2013-04-23 01:55:37.000"
+  },
+  {
+    "id": 256,
+    "code": "TRTG",
+    "name": null,
+    "label": "tracking tags",
+    "alternative_label": "",
+    "definition": "Devices attached to living organisms with the purpose of determining the location of those organisms as a function of time after tagging and release.",
+    "modified_date": "2015-08-04 01:15:32.000"
+  },
+  {
+    "id": 257,
+    "code": "VSHC",
+    "name": null,
+    "label": "Vaporchoc",
+    "alternative_label": "",
+    "definition": "A marine seismic energy source in which a quantity of superheated steam under high pressure is iniected into water. Subsequent condensation of the steam attenuates bubble oscillation.",
+    "modified_date": "2010-10-18 14:23:56.000"
+  },
+  {
+    "id": 258,
+    "code": "WDRG",
+    "name": null,
+    "label": "Wire drags",
+    "alternative_label": "",
+    "definition": "Wires, usually several thousand feet in length, maintained horizontally at any desired depth by means of attached weights, buoyed at intervals, towed by a power boat at each end, and used to locate submerged obstructions projecting above the depth at which it is set.",
+    "modified_date": "2017-09-06 12:48:32.000"
+  },
+  {
+    "id": 259,
+    "code": "WPS",
+    "name": null,
+    "label": "water pressure sensors",
+    "alternative_label": "",
+    "definition": "Sensors measuring hydrostatic pressure that are capable of withstanding the physical demands made by in-situ measurements in water bodies. Depending upon the mode of deployment they may measure sea level, waves, mooring performance or the depth of a profiling instrument.",
+    "modified_date": "2015-02-11 09:24:01.000"
+  }
+]

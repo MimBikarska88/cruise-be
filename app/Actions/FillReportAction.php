@@ -16,10 +16,10 @@ class FillReportAction
      */
     public function handle(Report $report, ReportData $data): Report
     {
-        $report->countryOfDeparture()->associate($data->countryOfDeparture->id);
-        $report->portOfDeparture()->associate($data->portOfDeparture->id);
-        $report->countryOfReturn()->associate($data->countryOfReturn->id);
-        $report->portOfReturn()->associate($data->portOfReturn->id);
+        $report->countryOfDeparture()->associate($data->countryOfDeparture?->id);
+        $report->portOfDeparture()->associate($data->portOfDeparture?->id);
+        $report->countryOfReturn()->associate($data->countryOfReturn?->id);
+        $report->portOfReturn()->associate($data->portOfReturn?->id);
         $report->dataAccessRestriction()->associate($data->dataAccessRestriction->id);
         $report->platform()->associate($data->platform->id);
         $report->platformCategory()->associate($data->platformCategory->id);

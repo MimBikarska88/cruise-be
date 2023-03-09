@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "code": "3297F0F2-35D3-4231-919D-1CFCF4035975",
+    "phone": "08847757566",
+    "fax": "test",
+    "delivery_point": "test",
+    "city": "test",
+    "postal_code": "test",
+    "email": "test",
+    "web_site": "test",
+    "country_id": 5
+  }
+]
