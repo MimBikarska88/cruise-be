@@ -22,5 +22,7 @@ Route::get('/units', 'UnitsController@index');
 Route::get('/platform-categories', 'PlatformCategoriesController@index');
 Route::get('/instruments', 'InstrumentsController@index');
 Route::get('/data-access-restriction', 'DataAccessController@index');
+Route::get('/persons', 'PersonsController@index');
+Route::post("/persons",'PersonsController@store');
 
 Route::apiResource('reports', 'ReportsController');

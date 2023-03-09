@@ -87,9 +87,6 @@ return [
             'username' => env('DB_USERNAME', 'forge'),
             'password' => env('DB_PASSWORD', ''),
             'charset' => 'utf8',
-            'options' => [
-                PDO::DBLIB_ATTR_STRINGIFY_UNIQUEIDENTIFIER => true,
-            ],
             'prefix' => '',
             'prefix_indexes' => true,
             'encrypt' => env('DB_ENCRYPT', 'yes'),

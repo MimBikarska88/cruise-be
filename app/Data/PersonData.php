@@ -11,14 +11,14 @@ use Spatie\LaravelData\Mappers\SnakeCaseMapper;
 class PersonData extends Data
 {
     /**
-     * @var string
+     * @var string|null
      */
-    public string $id;
+    public ?string $id;
 
     /**
-     * @var string
+     * @var string|null
      */
-    public string $code;
+    public ?string $code;
 
     /**
      * @var string
